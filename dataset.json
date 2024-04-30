@@ -1,0 +1,3718 @@
+{
+    "training": [
+        {
+            "image": "/nesi/nobackup/aut04076/dataset/imagesTr/t1w_00001.nii.gz",
+            "source": "/nesi/nobackup/aut04076/mriData/sub-0719/anat/sub-0719_run-1_T1w.nii.gz"
+        },
+        {
+            "image": "/nesi/nobackup/aut04076/dataset/imagesTr/t1w_00002.nii.gz",
+            "source": "/nesi/nobackup/aut04076/mriData/sub-0264/anat/sub-0264_run-1_T1w.nii.gz"
+        },
+        {
+            "image": "/nesi/nobackup/aut04076/dataset/imagesTr/t1w_00003.nii.gz",
+            "source": "/nesi/nobackup/aut04076/mriData/sub-0175/anat/sub-0175_run-1_T1w.nii.gz"
+        },
+        {
+            "image": "/nesi/nobackup/aut04076/dataset/imagesTr/t1w_00004.nii.gz",
+            "source": "/nesi/nobackup/aut04076/mriData/sub-0129/anat/sub-0129_run-1_T1w.nii.gz"
+        },
+        {
+            "image": "/nesi/nobackup/aut04076/dataset/imagesTr/t1w_00005.nii.gz",
+            "source": "/nesi/nobackup/aut04076/mriData/sub-0864/anat/sub-0864_run-1_T1w.nii.gz"
+        },
+        {
+            "image": "/nesi/nobackup/aut04076/dataset/imagesTr/t1w_00006.nii.gz",
+            "source": "/nesi/nobackup/aut04076/mriData/sub-0849/anat/sub-0849_run-1_T1w.nii.gz"
+        },
+        {
+            "image": "/nesi/nobackup/aut04076/dataset/imagesTr/t1w_00007.nii.gz",
+            "source": "/nesi/nobackup/aut04076/mriData/sub-0381/anat/sub-0381_run-1_T1w.nii.gz"
+        },
+        {
+            "image": "/nesi/nobackup/aut04076/dataset/imagesTr/t1w_00008.nii.gz",
+            "source": "/nesi/nobackup/aut04076/mriData/sub-0441/anat/sub-0441_run-1_T1w.nii.gz"
+        },
+        {
+            "image": "/nesi/nobackup/aut04076/dataset/imagesTr/t1w_00009.nii.gz",
+            "source": "/nesi/nobackup/aut04076/mriData/sub-0374/anat/sub-0374_run-1_T1w.nii.gz"
+        },
+        {
+            "image": "/nesi/nobackup/aut04076/dataset/imagesTr/t1w_00010.nii.gz",
+            "source": "/nesi/nobackup/aut04076/mriData/sub-0749/anat/sub-0749_run-1_T1w.nii.gz"
+        },
+        {
+            "image": "/nesi/nobackup/aut04076/dataset/imagesTr/t1w_00011.nii.gz",
+            "source": "/nesi/nobackup/aut04076/mriData/sub-0400/anat/sub-0400_run-1_T1w.nii.gz"
+        },
+        {
+            "image": "/nesi/nobackup/aut04076/dataset/imagesTr/t1w_00012.nii.gz",
+            "source": "/nesi/nobackup/aut04076/mriData/sub-0296/anat/sub-0296_run-1_T1w.nii.gz"
+        },
+        {
+            "image": "/nesi/nobackup/aut04076/dataset/imagesTr/t1w_00013.nii.gz",
+            "source": "/nesi/nobackup/aut04076/mriData/sub-0699/anat/sub-0699_run-1_T1w.nii.gz"
+        },
+        {
+            "image": "/nesi/nobackup/aut04076/dataset/imagesTr/t1w_00014.nii.gz",
+            "source": "/nesi/nobackup/aut04076/mriData/sub-0812/anat/sub-0812_run-1_T1w.nii.gz"
+        },
+        {
+            "image": "/nesi/nobackup/aut04076/dataset/imagesTr/t1w_00015.nii.gz",
+            "source": "/nesi/nobackup/aut04076/mriData/sub-0095/anat/sub-0095_run-1_T1w.nii.gz"
+        },
+        {
+            "image": "/nesi/nobackup/aut04076/dataset/imagesTr/t1w_00016.nii.gz",
+            "source": "/nesi/nobackup/aut04076/mriData/sub-0360/anat/sub-0360_run-1_T1w.nii.gz"
+        },
+        {
+            "image": "/nesi/nobackup/aut04076/dataset/imagesTr/t1w_00017.nii.gz",
+            "source": "/nesi/nobackup/aut04076/mriData/sub-0165/anat/sub-0165_run-1_T1w.nii.gz"
+        },
+        {
+            "image": "/nesi/nobackup/aut04076/dataset/imagesTr/t1w_00018.nii.gz",
+            "source": "/nesi/nobackup/aut04076/mriData/sub-0753/anat/sub-0753_run-1_T1w.nii.gz"
+        },
+        {
+            "image": "/nesi/nobackup/aut04076/dataset/imagesTr/t1w_00019.nii.gz",
+            "source": "/nesi/nobackup/aut04076/mriData/sub-0464/anat/sub-0464_run-1_T1w.nii.gz"
+        },
+        {
+            "image": "/nesi/nobackup/aut04076/dataset/imagesTr/t1w_00020.nii.gz",
+            "source": "/nesi/nobackup/aut04076/mriData/sub-0488/anat/sub-0488_run-1_T1w.nii.gz"
+        },
+        {
+            "image": "/nesi/nobackup/aut04076/dataset/imagesTr/t1w_00021.nii.gz",
+            "source": "/nesi/nobackup/aut04076/mriData/sub-0568/anat/sub-0568_run-1_T1w.nii.gz"
+        },
+        {
+            "image": "/nesi/nobackup/aut04076/dataset/imagesTr/t1w_00022.nii.gz",
+            "source": "/nesi/nobackup/aut04076/mriData/sub-0146/anat/sub-0146_run-1_T1w.nii.gz"
+        },
+        {
+            "image": "/nesi/nobackup/aut04076/dataset/imagesTr/t1w_00023.nii.gz",
+            "source": "/nesi/nobackup/aut04076/mriData/sub-0033/anat/sub-0033_run-1_T1w.nii.gz"
+        },
+        {
+            "image": "/nesi/nobackup/aut04076/dataset/imagesTr/t1w_00024.nii.gz",
+            "source": "/nesi/nobackup/aut04076/mriData/sub-0515/anat/sub-0515_run-1_T1w.nii.gz"
+        },
+        {
+            "image": "/nesi/nobackup/aut04076/dataset/imagesTr/t1w_00025.nii.gz",
+            "source": "/nesi/nobackup/aut04076/mriData/sub-0160/anat/sub-0160_run-1_T1w.nii.gz"
+        },
+        {
+            "image": "/nesi/nobackup/aut04076/dataset/imagesTr/t1w_00026.nii.gz",
+            "source": "/nesi/nobackup/aut04076/mriData/sub-0263/anat/sub-0263_run-1_T1w.nii.gz"
+        },
+        {
+            "image": "/nesi/nobackup/aut04076/dataset/imagesTr/t1w_00027.nii.gz",
+            "source": "/nesi/nobackup/aut04076/mriData/sub-0209/anat/sub-0209_run-1_T1w.nii.gz"
+        },
+        {
+            "image": "/nesi/nobackup/aut04076/dataset/imagesTr/t1w_00028.nii.gz",
+            "source": "/nesi/nobackup/aut04076/mriData/sub-0762/anat/sub-0762_run-1_T1w.nii.gz"
+        },
+        {
+            "image": "/nesi/nobackup/aut04076/dataset/imagesTr/t1w_00029.nii.gz",
+            "source": "/nesi/nobackup/aut04076/mriData/sub-0604/anat/sub-0604_run-1_T1w.nii.gz"
+        },
+        {
+            "image": "/nesi/nobackup/aut04076/dataset/imagesTr/t1w_00030.nii.gz",
+            "source": "/nesi/nobackup/aut04076/mriData/sub-0876/anat/sub-0876_run-1_T1w.nii.gz"
+        },
+        {
+            "image": "/nesi/nobackup/aut04076/dataset/imagesTr/t1w_00031.nii.gz",
+            "source": "/nesi/nobackup/aut04076/mriData/sub-0646/anat/sub-0646_run-1_T1w.nii.gz"
+        },
+        {
+            "image": "/nesi/nobackup/aut04076/dataset/imagesTr/t1w_00032.nii.gz",
+            "source": "/nesi/nobackup/aut04076/mriData/sub-0787/anat/sub-0787_run-1_T1w.nii.gz"
+        },
+        {
+            "image": "/nesi/nobackup/aut04076/dataset/imagesTr/t1w_00033.nii.gz",
+            "source": "/nesi/nobackup/aut04076/mriData/sub-0024/anat/sub-0024_run-1_T1w.nii.gz"
+        },
+        {
+            "image": "/nesi/nobackup/aut04076/dataset/imagesTr/t1w_00034.nii.gz",
+            "source": "/nesi/nobackup/aut04076/mriData/sub-0389/anat/sub-0389_run-1_T1w.nii.gz"
+        },
+        {
+            "image": "/nesi/nobackup/aut04076/dataset/imagesTr/t1w_00035.nii.gz",
+            "source": "/nesi/nobackup/aut04076/mriData/sub-0322/anat/sub-0322_run-1_T1w.nii.gz"
+        },
+        {
+            "image": "/nesi/nobackup/aut04076/dataset/imagesTr/t1w_00036.nii.gz",
+            "source": "/nesi/nobackup/aut04076/mriData/sub-0317/anat/sub-0317_run-1_T1w.nii.gz"
+        },
+        {
+            "image": "/nesi/nobackup/aut04076/dataset/imagesTr/t1w_00037.nii.gz",
+            "source": "/nesi/nobackup/aut04076/mriData/sub-0729/anat/sub-0729_run-1_T1w.nii.gz"
+        },
+        {
+            "image": "/nesi/nobackup/aut04076/dataset/imagesTr/t1w_00038.nii.gz",
+            "source": "/nesi/nobackup/aut04076/mriData/sub-0451/anat/sub-0451_run-1_T1w.nii.gz"
+        },
+        {
+            "image": "/nesi/nobackup/aut04076/dataset/imagesTr/t1w_00039.nii.gz",
+            "source": "/nesi/nobackup/aut04076/mriData/sub-0609/anat/sub-0609_run-1_T1w.nii.gz"
+        },
+        {
+            "image": "/nesi/nobackup/aut04076/dataset/imagesTr/t1w_00040.nii.gz",
+            "source": "/nesi/nobackup/aut04076/mriData/sub-0693/anat/sub-0693_run-1_T1w.nii.gz"
+        },
+        {
+            "image": "/nesi/nobackup/aut04076/dataset/imagesTr/t1w_00041.nii.gz",
+            "source": "/nesi/nobackup/aut04076/mriData/sub-0030/anat/sub-0030_run-1_T1w.nii.gz"
+        },
+        {
+            "image": "/nesi/nobackup/aut04076/dataset/imagesTr/t1w_00042.nii.gz",
+            "source": "/nesi/nobackup/aut04076/mriData/sub-0788/anat/sub-0788_run-1_T1w.nii.gz"
+        },
+        {
+            "image": "/nesi/nobackup/aut04076/dataset/imagesTr/t1w_00043.nii.gz",
+            "source": "/nesi/nobackup/aut04076/mriData/sub-0145/anat/sub-0145_run-1_T1w.nii.gz"
+        },
+        {
+            "image": "/nesi/nobackup/aut04076/dataset/imagesTr/t1w_00044.nii.gz",
+            "source": "/nesi/nobackup/aut04076/mriData/sub-0786/anat/sub-0786_run-1_T1w.nii.gz"
+        },
+        {
+            "image": "/nesi/nobackup/aut04076/dataset/imagesTr/t1w_00045.nii.gz",
+            "source": "/nesi/nobackup/aut04076/mriData/sub-0672/anat/sub-0672_run-1_T1w.nii.gz"
+        },
+        {
+            "image": "/nesi/nobackup/aut04076/dataset/imagesTr/t1w_00046.nii.gz",
+            "source": "/nesi/nobackup/aut04076/mriData/sub-0361/anat/sub-0361_run-1_T1w.nii.gz"
+        },
+        {
+            "image": "/nesi/nobackup/aut04076/dataset/imagesTr/t1w_00047.nii.gz",
+            "source": "/nesi/nobackup/aut04076/mriData/sub-0514/anat/sub-0514_run-1_T1w.nii.gz"
+        },
+        {
+            "image": "/nesi/nobackup/aut04076/dataset/imagesTr/t1w_00048.nii.gz",
+            "source": "/nesi/nobackup/aut04076/mriData/sub-0338/anat/sub-0338_run-1_T1w.nii.gz"
+        },
+        {
+            "image": "/nesi/nobackup/aut04076/dataset/imagesTr/t1w_00049.nii.gz",
+            "source": "/nesi/nobackup/aut04076/mriData/sub-0343/anat/sub-0343_run-1_T1w.nii.gz"
+        },
+        {
+            "image": "/nesi/nobackup/aut04076/dataset/imagesTr/t1w_00050.nii.gz",
+            "source": "/nesi/nobackup/aut04076/mriData/sub-0123/anat/sub-0123_run-1_T1w.nii.gz"
+        },
+        {
+            "image": "/nesi/nobackup/aut04076/dataset/imagesTr/t1w_00051.nii.gz",
+            "source": "/nesi/nobackup/aut04076/mriData/sub-0446/anat/sub-0446_run-1_T1w.nii.gz"
+        },
+        {
+            "image": "/nesi/nobackup/aut04076/dataset/imagesTr/t1w_00052.nii.gz",
+            "source": "/nesi/nobackup/aut04076/mriData/sub-0467/anat/sub-0467_run-1_T1w.nii.gz"
+        },
+        {
+            "image": "/nesi/nobackup/aut04076/dataset/imagesTr/t1w_00053.nii.gz",
+            "source": "/nesi/nobackup/aut04076/mriData/sub-0308/anat/sub-0308_run-1_T1w.nii.gz"
+        },
+        {
+            "image": "/nesi/nobackup/aut04076/dataset/imagesTr/t1w_00054.nii.gz",
+            "source": "/nesi/nobackup/aut04076/mriData/sub-0327/anat/sub-0327_run-1_T1w.nii.gz"
+        },
+        {
+            "image": "/nesi/nobackup/aut04076/dataset/imagesTr/t1w_00055.nii.gz",
+            "source": "/nesi/nobackup/aut04076/mriData/sub-0767/anat/sub-0767_run-1_T1w.nii.gz"
+        },
+        {
+            "image": "/nesi/nobackup/aut04076/dataset/imagesTr/t1w_00056.nii.gz",
+            "source": "/nesi/nobackup/aut04076/mriData/sub-0367/anat/sub-0367_run-1_T1w.nii.gz"
+        },
+        {
+            "image": "/nesi/nobackup/aut04076/dataset/imagesTr/t1w_00057.nii.gz",
+            "source": "/nesi/nobackup/aut04076/mriData/sub-0205/anat/sub-0205_run-1_T1w.nii.gz"
+        },
+        {
+            "image": "/nesi/nobackup/aut04076/dataset/imagesTr/t1w_00058.nii.gz",
+            "source": "/nesi/nobackup/aut04076/mriData/sub-0482/anat/sub-0482_run-1_T1w.nii.gz"
+        },
+        {
+            "image": "/nesi/nobackup/aut04076/dataset/imagesTr/t1w_00059.nii.gz",
+            "source": "/nesi/nobackup/aut04076/mriData/sub-0122/anat/sub-0122_run-1_T1w.nii.gz"
+        },
+        {
+            "image": "/nesi/nobackup/aut04076/dataset/imagesTr/t1w_00060.nii.gz",
+            "source": "/nesi/nobackup/aut04076/mriData/sub-0713/anat/sub-0713_run-1_T1w.nii.gz"
+        },
+        {
+            "image": "/nesi/nobackup/aut04076/dataset/imagesTr/t1w_00061.nii.gz",
+            "source": "/nesi/nobackup/aut04076/mriData/sub-0882/anat/sub-0882_run-1_T1w.nii.gz"
+        },
+        {
+            "image": "/nesi/nobackup/aut04076/dataset/imagesTr/t1w_00062.nii.gz",
+            "source": "/nesi/nobackup/aut04076/mriData/sub-0305/anat/sub-0305_run-1_T1w.nii.gz"
+        },
+        {
+            "image": "/nesi/nobackup/aut04076/dataset/imagesTr/t1w_00063.nii.gz",
+            "source": "/nesi/nobackup/aut04076/mriData/sub-0212/anat/sub-0212_run-1_T1w.nii.gz"
+        },
+        {
+            "image": "/nesi/nobackup/aut04076/dataset/imagesTr/t1w_00064.nii.gz",
+            "source": "/nesi/nobackup/aut04076/mriData/sub-0773/anat/sub-0773_run-1_T1w.nii.gz"
+        },
+        {
+            "image": "/nesi/nobackup/aut04076/dataset/imagesTr/t1w_00065.nii.gz",
+            "source": "/nesi/nobackup/aut04076/mriData/sub-0502/anat/sub-0502_run-1_T1w.nii.gz"
+        },
+        {
+            "image": "/nesi/nobackup/aut04076/dataset/imagesTr/t1w_00066.nii.gz",
+            "source": "/nesi/nobackup/aut04076/mriData/sub-0279/anat/sub-0279_run-1_T1w.nii.gz"
+        },
+        {
+            "image": "/nesi/nobackup/aut04076/dataset/imagesTr/t1w_00067.nii.gz",
+            "source": "/nesi/nobackup/aut04076/mriData/sub-0854/anat/sub-0854_run-1_T1w.nii.gz"
+        },
+        {
+            "image": "/nesi/nobackup/aut04076/dataset/imagesTr/t1w_00068.nii.gz",
+            "source": "/nesi/nobackup/aut04076/mriData/sub-0601/anat/sub-0601_run-1_T1w.nii.gz"
+        },
+        {
+            "image": "/nesi/nobackup/aut04076/dataset/imagesTr/t1w_00069.nii.gz",
+            "source": "/nesi/nobackup/aut04076/mriData/sub-0866/anat/sub-0866_run-1_T1w.nii.gz"
+        },
+        {
+            "image": "/nesi/nobackup/aut04076/dataset/imagesTr/t1w_00070.nii.gz",
+            "source": "/nesi/nobackup/aut04076/mriData/sub-0529/anat/sub-0529_run-1_T1w.nii.gz"
+        },
+        {
+            "image": "/nesi/nobackup/aut04076/dataset/imagesTr/t1w_00071.nii.gz",
+            "source": "/nesi/nobackup/aut04076/mriData/sub-0269/anat/sub-0269_run-1_T1w.nii.gz"
+        },
+        {
+            "image": "/nesi/nobackup/aut04076/dataset/imagesTr/t1w_00072.nii.gz",
+            "source": "/nesi/nobackup/aut04076/mriData/sub-0101/anat/sub-0101_run-1_T1w.nii.gz"
+        },
+        {
+            "image": "/nesi/nobackup/aut04076/dataset/imagesTr/t1w_00073.nii.gz",
+            "source": "/nesi/nobackup/aut04076/mriData/sub-0789/anat/sub-0789_run-1_T1w.nii.gz"
+        },
+        {
+            "image": "/nesi/nobackup/aut04076/dataset/imagesTr/t1w_00074.nii.gz",
+            "source": "/nesi/nobackup/aut04076/mriData/sub-0060/anat/sub-0060_run-1_T1w.nii.gz"
+        },
+        {
+            "image": "/nesi/nobackup/aut04076/dataset/imagesTr/t1w_00075.nii.gz",
+            "source": "/nesi/nobackup/aut04076/mriData/sub-0096/anat/sub-0096_run-1_T1w.nii.gz"
+        },
+        {
+            "image": "/nesi/nobackup/aut04076/dataset/imagesTr/t1w_00076.nii.gz",
+            "source": "/nesi/nobackup/aut04076/mriData/sub-0793/anat/sub-0793_run-1_T1w.nii.gz"
+        },
+        {
+            "image": "/nesi/nobackup/aut04076/dataset/imagesTr/t1w_00077.nii.gz",
+            "source": "/nesi/nobackup/aut04076/mriData/sub-0350/anat/sub-0350_run-1_T1w.nii.gz"
+        },
+        {
+            "image": "/nesi/nobackup/aut04076/dataset/imagesTr/t1w_00078.nii.gz",
+            "source": "/nesi/nobackup/aut04076/mriData/sub-0093/anat/sub-0093_run-1_T1w.nii.gz"
+        },
+        {
+            "image": "/nesi/nobackup/aut04076/dataset/imagesTr/t1w_00079.nii.gz",
+            "source": "/nesi/nobackup/aut04076/mriData/sub-0644/anat/sub-0644_run-1_T1w.nii.gz"
+        },
+        {
+            "image": "/nesi/nobackup/aut04076/dataset/imagesTr/t1w_00080.nii.gz",
+            "source": "/nesi/nobackup/aut04076/mriData/sub-0187/anat/sub-0187_run-1_T1w.nii.gz"
+        },
+        {
+            "image": "/nesi/nobackup/aut04076/dataset/imagesTr/t1w_00081.nii.gz",
+            "source": "/nesi/nobackup/aut04076/mriData/sub-0903/anat/sub-0903_run-1_T1w.nii.gz"
+        },
+        {
+            "image": "/nesi/nobackup/aut04076/dataset/imagesTr/t1w_00082.nii.gz",
+            "source": "/nesi/nobackup/aut04076/mriData/sub-0169/anat/sub-0169_run-1_T1w.nii.gz"
+        },
+        {
+            "image": "/nesi/nobackup/aut04076/dataset/imagesTr/t1w_00083.nii.gz",
+            "source": "/nesi/nobackup/aut04076/mriData/sub-0139/anat/sub-0139_run-1_T1w.nii.gz"
+        },
+        {
+            "image": "/nesi/nobackup/aut04076/dataset/imagesTr/t1w_00084.nii.gz",
+            "source": "/nesi/nobackup/aut04076/mriData/sub-0645/anat/sub-0645_run-1_T1w.nii.gz"
+        },
+        {
+            "image": "/nesi/nobackup/aut04076/dataset/imagesTr/t1w_00085.nii.gz",
+            "source": "/nesi/nobackup/aut04076/mriData/sub-0147/anat/sub-0147_run-1_T1w.nii.gz"
+        },
+        {
+            "image": "/nesi/nobackup/aut04076/dataset/imagesTr/t1w_00086.nii.gz",
+            "source": "/nesi/nobackup/aut04076/mriData/sub-0363/anat/sub-0363_run-1_T1w.nii.gz"
+        },
+        {
+            "image": "/nesi/nobackup/aut04076/dataset/imagesTr/t1w_00087.nii.gz",
+            "source": "/nesi/nobackup/aut04076/mriData/sub-0378/anat/sub-0378_run-1_T1w.nii.gz"
+        },
+        {
+            "image": "/nesi/nobackup/aut04076/dataset/imagesTr/t1w_00088.nii.gz",
+            "source": "/nesi/nobackup/aut04076/mriData/sub-0806/anat/sub-0806_run-1_T1w.nii.gz"
+        },
+        {
+            "image": "/nesi/nobackup/aut04076/dataset/imagesTr/t1w_00089.nii.gz",
+            "source": "/nesi/nobackup/aut04076/mriData/sub-0109/anat/sub-0109_run-1_T1w.nii.gz"
+        },
+        {
+            "image": "/nesi/nobackup/aut04076/dataset/imagesTr/t1w_00090.nii.gz",
+            "source": "/nesi/nobackup/aut04076/mriData/sub-0817/anat/sub-0817_run-1_T1w.nii.gz"
+        },
+        {
+            "image": "/nesi/nobackup/aut04076/dataset/imagesTr/t1w_00091.nii.gz",
+            "source": "/nesi/nobackup/aut04076/mriData/sub-0928/anat/sub-0928_run-1_T1w.nii.gz"
+        },
+        {
+            "image": "/nesi/nobackup/aut04076/dataset/imagesTr/t1w_00092.nii.gz",
+            "source": "/nesi/nobackup/aut04076/mriData/sub-0542/anat/sub-0542_run-1_T1w.nii.gz"
+        },
+        {
+            "image": "/nesi/nobackup/aut04076/dataset/imagesTr/t1w_00093.nii.gz",
+            "source": "/nesi/nobackup/aut04076/mriData/sub-0775/anat/sub-0775_run-1_T1w.nii.gz"
+        },
+        {
+            "image": "/nesi/nobackup/aut04076/dataset/imagesTr/t1w_00094.nii.gz",
+            "source": "/nesi/nobackup/aut04076/mriData/sub-0919/anat/sub-0919_run-1_T1w.nii.gz"
+        },
+        {
+            "image": "/nesi/nobackup/aut04076/dataset/imagesTr/t1w_00095.nii.gz",
+            "source": "/nesi/nobackup/aut04076/mriData/sub-0046/anat/sub-0046_run-1_T1w.nii.gz"
+        },
+        {
+            "image": "/nesi/nobackup/aut04076/dataset/imagesTr/t1w_00096.nii.gz",
+            "source": "/nesi/nobackup/aut04076/mriData/sub-0272/anat/sub-0272_run-1_T1w.nii.gz"
+        },
+        {
+            "image": "/nesi/nobackup/aut04076/dataset/imagesTr/t1w_00097.nii.gz",
+            "source": "/nesi/nobackup/aut04076/mriData/sub-0386/anat/sub-0386_run-1_T1w.nii.gz"
+        },
+        {
+            "image": "/nesi/nobackup/aut04076/dataset/imagesTr/t1w_00098.nii.gz",
+            "source": "/nesi/nobackup/aut04076/mriData/sub-0061/anat/sub-0061_run-1_T1w.nii.gz"
+        },
+        {
+            "image": "/nesi/nobackup/aut04076/dataset/imagesTr/t1w_00099.nii.gz",
+            "source": "/nesi/nobackup/aut04076/mriData/sub-0621/anat/sub-0621_run-1_T1w.nii.gz"
+        },
+        {
+            "image": "/nesi/nobackup/aut04076/dataset/imagesTr/t1w_00100.nii.gz",
+            "source": "/nesi/nobackup/aut04076/mriData/sub-0796/anat/sub-0796_run-1_T1w.nii.gz"
+        },
+        {
+            "image": "/nesi/nobackup/aut04076/dataset/imagesTr/t1w_00101.nii.gz",
+            "source": "/nesi/nobackup/aut04076/mriData/sub-0801/anat/sub-0801_run-1_T1w.nii.gz"
+        },
+        {
+            "image": "/nesi/nobackup/aut04076/dataset/imagesTr/t1w_00102.nii.gz",
+            "source": "/nesi/nobackup/aut04076/mriData/sub-0163/anat/sub-0163_run-1_T1w.nii.gz"
+        },
+        {
+            "image": "/nesi/nobackup/aut04076/dataset/imagesTr/t1w_00103.nii.gz",
+            "source": "/nesi/nobackup/aut04076/mriData/sub-0288/anat/sub-0288_run-1_T1w.nii.gz"
+        },
+        {
+            "image": "/nesi/nobackup/aut04076/dataset/imagesTr/t1w_00104.nii.gz",
+            "source": "/nesi/nobackup/aut04076/mriData/sub-0319/anat/sub-0319_run-1_T1w.nii.gz"
+        },
+        {
+            "image": "/nesi/nobackup/aut04076/dataset/imagesTr/t1w_00105.nii.gz",
+            "source": "/nesi/nobackup/aut04076/mriData/sub-0561/anat/sub-0561_run-1_T1w.nii.gz"
+        },
+        {
+            "image": "/nesi/nobackup/aut04076/dataset/imagesTr/t1w_00106.nii.gz",
+            "source": "/nesi/nobackup/aut04076/mriData/sub-0485/anat/sub-0485_run-1_T1w.nii.gz"
+        },
+        {
+            "image": "/nesi/nobackup/aut04076/dataset/imagesTr/t1w_00107.nii.gz",
+            "source": "/nesi/nobackup/aut04076/mriData/sub-0318/anat/sub-0318_run-1_T1w.nii.gz"
+        },
+        {
+            "image": "/nesi/nobackup/aut04076/dataset/imagesTr/t1w_00108.nii.gz",
+            "source": "/nesi/nobackup/aut04076/mriData/sub-0678/anat/sub-0678_run-1_T1w.nii.gz"
+        },
+        {
+            "image": "/nesi/nobackup/aut04076/dataset/imagesTr/t1w_00109.nii.gz",
+            "source": "/nesi/nobackup/aut04076/mriData/sub-0387/anat/sub-0387_run-1_T1w.nii.gz"
+        },
+        {
+            "image": "/nesi/nobackup/aut04076/dataset/imagesTr/t1w_00110.nii.gz",
+            "source": "/nesi/nobackup/aut04076/mriData/sub-0079/anat/sub-0079_run-1_T1w.nii.gz"
+        },
+        {
+            "image": "/nesi/nobackup/aut04076/dataset/imagesTr/t1w_00111.nii.gz",
+            "source": "/nesi/nobackup/aut04076/mriData/sub-0071/anat/sub-0071_run-1_T1w.nii.gz"
+        },
+        {
+            "image": "/nesi/nobackup/aut04076/dataset/imagesTr/t1w_00112.nii.gz",
+            "source": "/nesi/nobackup/aut04076/mriData/sub-0113/anat/sub-0113_run-1_T1w.nii.gz"
+        },
+        {
+            "image": "/nesi/nobackup/aut04076/dataset/imagesTr/t1w_00113.nii.gz",
+            "source": "/nesi/nobackup/aut04076/mriData/sub-0228/anat/sub-0228_run-1_T1w.nii.gz"
+        },
+        {
+            "image": "/nesi/nobackup/aut04076/dataset/imagesTr/t1w_00114.nii.gz",
+            "source": "/nesi/nobackup/aut04076/mriData/sub-0865/anat/sub-0865_run-1_T1w.nii.gz"
+        },
+        {
+            "image": "/nesi/nobackup/aut04076/dataset/imagesTr/t1w_00115.nii.gz",
+            "source": "/nesi/nobackup/aut04076/mriData/sub-0320/anat/sub-0320_run-1_T1w.nii.gz"
+        },
+        {
+            "image": "/nesi/nobackup/aut04076/dataset/imagesTr/t1w_00116.nii.gz",
+            "source": "/nesi/nobackup/aut04076/mriData/sub-0460/anat/sub-0460_run-1_T1w.nii.gz"
+        },
+        {
+            "image": "/nesi/nobackup/aut04076/dataset/imagesTr/t1w_00117.nii.gz",
+            "source": "/nesi/nobackup/aut04076/mriData/sub-0231/anat/sub-0231_run-1_T1w.nii.gz"
+        },
+        {
+            "image": "/nesi/nobackup/aut04076/dataset/imagesTr/t1w_00118.nii.gz",
+            "source": "/nesi/nobackup/aut04076/mriData/sub-0221/anat/sub-0221_run-1_T1w.nii.gz"
+        },
+        {
+            "image": "/nesi/nobackup/aut04076/dataset/imagesTr/t1w_00119.nii.gz",
+            "source": "/nesi/nobackup/aut04076/mriData/sub-0698/anat/sub-0698_run-1_T1w.nii.gz"
+        },
+        {
+            "image": "/nesi/nobackup/aut04076/dataset/imagesTr/t1w_00120.nii.gz",
+            "source": "/nesi/nobackup/aut04076/mriData/sub-0409/anat/sub-0409_run-1_T1w.nii.gz"
+        },
+        {
+            "image": "/nesi/nobackup/aut04076/dataset/imagesTr/t1w_00121.nii.gz",
+            "source": "/nesi/nobackup/aut04076/mriData/sub-0834/anat/sub-0834_run-1_T1w.nii.gz"
+        },
+        {
+            "image": "/nesi/nobackup/aut04076/dataset/imagesTr/t1w_00122.nii.gz",
+            "source": "/nesi/nobackup/aut04076/mriData/sub-0824/anat/sub-0824_run-1_T1w.nii.gz"
+        },
+        {
+            "image": "/nesi/nobackup/aut04076/dataset/imagesTr/t1w_00123.nii.gz",
+            "source": "/nesi/nobackup/aut04076/mriData/sub-0518/anat/sub-0518_run-1_T1w.nii.gz"
+        },
+        {
+            "image": "/nesi/nobackup/aut04076/dataset/imagesTr/t1w_00124.nii.gz",
+            "source": "/nesi/nobackup/aut04076/mriData/sub-0543/anat/sub-0543_run-1_T1w.nii.gz"
+        },
+        {
+            "image": "/nesi/nobackup/aut04076/dataset/imagesTr/t1w_00125.nii.gz",
+            "source": "/nesi/nobackup/aut04076/mriData/sub-0435/anat/sub-0435_run-1_T1w.nii.gz"
+        },
+        {
+            "image": "/nesi/nobackup/aut04076/dataset/imagesTr/t1w_00126.nii.gz",
+            "source": "/nesi/nobackup/aut04076/mriData/sub-0416/anat/sub-0416_run-1_T1w.nii.gz"
+        },
+        {
+            "image": "/nesi/nobackup/aut04076/dataset/imagesTr/t1w_00127.nii.gz",
+            "source": "/nesi/nobackup/aut04076/mriData/sub-0705/anat/sub-0705_run-1_T1w.nii.gz"
+        },
+        {
+            "image": "/nesi/nobackup/aut04076/dataset/imagesTr/t1w_00128.nii.gz",
+            "source": "/nesi/nobackup/aut04076/mriData/sub-0433/anat/sub-0433_run-1_T1w.nii.gz"
+        },
+        {
+            "image": "/nesi/nobackup/aut04076/dataset/imagesTr/t1w_00129.nii.gz",
+            "source": "/nesi/nobackup/aut04076/mriData/sub-0282/anat/sub-0282_run-1_T1w.nii.gz"
+        },
+        {
+            "image": "/nesi/nobackup/aut04076/dataset/imagesTr/t1w_00130.nii.gz",
+            "source": "/nesi/nobackup/aut04076/mriData/sub-0408/anat/sub-0408_run-1_T1w.nii.gz"
+        },
+        {
+            "image": "/nesi/nobackup/aut04076/dataset/imagesTr/t1w_00131.nii.gz",
+            "source": "/nesi/nobackup/aut04076/mriData/sub-0619/anat/sub-0619_run-1_T1w.nii.gz"
+        },
+        {
+            "image": "/nesi/nobackup/aut04076/dataset/imagesTr/t1w_00132.nii.gz",
+            "source": "/nesi/nobackup/aut04076/mriData/sub-0592/anat/sub-0592_run-1_T1w.nii.gz"
+        },
+        {
+            "image": "/nesi/nobackup/aut04076/dataset/imagesTr/t1w_00133.nii.gz",
+            "source": "/nesi/nobackup/aut04076/mriData/sub-0742/anat/sub-0742_run-1_T1w.nii.gz"
+        },
+        {
+            "image": "/nesi/nobackup/aut04076/dataset/imagesTr/t1w_00134.nii.gz",
+            "source": "/nesi/nobackup/aut04076/mriData/sub-0747/anat/sub-0747_run-1_T1w.nii.gz"
+        },
+        {
+            "image": "/nesi/nobackup/aut04076/dataset/imagesTr/t1w_00135.nii.gz",
+            "source": "/nesi/nobackup/aut04076/mriData/sub-0912/anat/sub-0912_run-1_T1w.nii.gz"
+        },
+        {
+            "image": "/nesi/nobackup/aut04076/dataset/imagesTr/t1w_00136.nii.gz",
+            "source": "/nesi/nobackup/aut04076/mriData/sub-0725/anat/sub-0725_run-1_T1w.nii.gz"
+        },
+        {
+            "image": "/nesi/nobackup/aut04076/dataset/imagesTr/t1w_00137.nii.gz",
+            "source": "/nesi/nobackup/aut04076/mriData/sub-0448/anat/sub-0448_run-1_T1w.nii.gz"
+        },
+        {
+            "image": "/nesi/nobackup/aut04076/dataset/imagesTr/t1w_00138.nii.gz",
+            "source": "/nesi/nobackup/aut04076/mriData/sub-0225/anat/sub-0225_run-1_T1w.nii.gz"
+        },
+        {
+            "image": "/nesi/nobackup/aut04076/dataset/imagesTr/t1w_00139.nii.gz",
+            "source": "/nesi/nobackup/aut04076/mriData/sub-0694/anat/sub-0694_run-1_T1w.nii.gz"
+        },
+        {
+            "image": "/nesi/nobackup/aut04076/dataset/imagesTr/t1w_00140.nii.gz",
+            "source": "/nesi/nobackup/aut04076/mriData/sub-0293/anat/sub-0293_run-1_T1w.nii.gz"
+        },
+        {
+            "image": "/nesi/nobackup/aut04076/dataset/imagesTr/t1w_00141.nii.gz",
+            "source": "/nesi/nobackup/aut04076/mriData/sub-0232/anat/sub-0232_run-1_T1w.nii.gz"
+        },
+        {
+            "image": "/nesi/nobackup/aut04076/dataset/imagesTr/t1w_00142.nii.gz",
+            "source": "/nesi/nobackup/aut04076/mriData/sub-0188/anat/sub-0188_run-1_T1w.nii.gz"
+        },
+        {
+            "image": "/nesi/nobackup/aut04076/dataset/imagesTr/t1w_00143.nii.gz",
+            "source": "/nesi/nobackup/aut04076/mriData/sub-0372/anat/sub-0372_run-1_T1w.nii.gz"
+        },
+        {
+            "image": "/nesi/nobackup/aut04076/dataset/imagesTr/t1w_00144.nii.gz",
+            "source": "/nesi/nobackup/aut04076/mriData/sub-0326/anat/sub-0326_run-1_T1w.nii.gz"
+        },
+        {
+            "image": "/nesi/nobackup/aut04076/dataset/imagesTr/t1w_00145.nii.gz",
+            "source": "/nesi/nobackup/aut04076/mriData/sub-0843/anat/sub-0843_run-1_T1w.nii.gz"
+        },
+        {
+            "image": "/nesi/nobackup/aut04076/dataset/imagesTr/t1w_00146.nii.gz",
+            "source": "/nesi/nobackup/aut04076/mriData/sub-0398/anat/sub-0398_run-1_T1w.nii.gz"
+        },
+        {
+            "image": "/nesi/nobackup/aut04076/dataset/imagesTr/t1w_00147.nii.gz",
+            "source": "/nesi/nobackup/aut04076/mriData/sub-0583/anat/sub-0583_run-1_T1w.nii.gz"
+        },
+        {
+            "image": "/nesi/nobackup/aut04076/dataset/imagesTr/t1w_00148.nii.gz",
+            "source": "/nesi/nobackup/aut04076/mriData/sub-0827/anat/sub-0827_run-1_T1w.nii.gz"
+        },
+        {
+            "image": "/nesi/nobackup/aut04076/dataset/imagesTr/t1w_00149.nii.gz",
+            "source": "/nesi/nobackup/aut04076/mriData/sub-0901/anat/sub-0901_run-1_T1w.nii.gz"
+        },
+        {
+            "image": "/nesi/nobackup/aut04076/dataset/imagesTr/t1w_00150.nii.gz",
+            "source": "/nesi/nobackup/aut04076/mriData/sub-0661/anat/sub-0661_run-1_T1w.nii.gz"
+        },
+        {
+            "image": "/nesi/nobackup/aut04076/dataset/imagesTr/t1w_00151.nii.gz",
+            "source": "/nesi/nobackup/aut04076/mriData/sub-0243/anat/sub-0243_run-1_T1w.nii.gz"
+        },
+        {
+            "image": "/nesi/nobackup/aut04076/dataset/imagesTr/t1w_00152.nii.gz",
+            "source": "/nesi/nobackup/aut04076/mriData/sub-0662/anat/sub-0662_run-1_T1w.nii.gz"
+        },
+        {
+            "image": "/nesi/nobackup/aut04076/dataset/imagesTr/t1w_00153.nii.gz",
+            "source": "/nesi/nobackup/aut04076/mriData/sub-0447/anat/sub-0447_run-1_T1w.nii.gz"
+        },
+        {
+            "image": "/nesi/nobackup/aut04076/dataset/imagesTr/t1w_00154.nii.gz",
+            "source": "/nesi/nobackup/aut04076/mriData/sub-0359/anat/sub-0359_run-1_T1w.nii.gz"
+        },
+        {
+            "image": "/nesi/nobackup/aut04076/dataset/imagesTr/t1w_00155.nii.gz",
+            "source": "/nesi/nobackup/aut04076/mriData/sub-0860/anat/sub-0860_run-1_T1w.nii.gz"
+        },
+        {
+            "image": "/nesi/nobackup/aut04076/dataset/imagesTr/t1w_00156.nii.gz",
+            "source": "/nesi/nobackup/aut04076/mriData/sub-0562/anat/sub-0562_run-1_T1w.nii.gz"
+        },
+        {
+            "image": "/nesi/nobackup/aut04076/dataset/imagesTr/t1w_00157.nii.gz",
+            "source": "/nesi/nobackup/aut04076/mriData/sub-0284/anat/sub-0284_run-1_T1w.nii.gz"
+        },
+        {
+            "image": "/nesi/nobackup/aut04076/dataset/imagesTr/t1w_00158.nii.gz",
+            "source": "/nesi/nobackup/aut04076/mriData/sub-0608/anat/sub-0608_run-1_T1w.nii.gz"
+        },
+        {
+            "image": "/nesi/nobackup/aut04076/dataset/imagesTr/t1w_00159.nii.gz",
+            "source": "/nesi/nobackup/aut04076/mriData/sub-0127/anat/sub-0127_run-1_T1w.nii.gz"
+        },
+        {
+            "image": "/nesi/nobackup/aut04076/dataset/imagesTr/t1w_00160.nii.gz",
+            "source": "/nesi/nobackup/aut04076/mriData/sub-0121/anat/sub-0121_run-1_T1w.nii.gz"
+        },
+        {
+            "image": "/nesi/nobackup/aut04076/dataset/imagesTr/t1w_00161.nii.gz",
+            "source": "/nesi/nobackup/aut04076/mriData/sub-0271/anat/sub-0271_run-1_T1w.nii.gz"
+        },
+        {
+            "image": "/nesi/nobackup/aut04076/dataset/imagesTr/t1w_00162.nii.gz",
+            "source": "/nesi/nobackup/aut04076/mriData/sub-0746/anat/sub-0746_run-1_T1w.nii.gz"
+        },
+        {
+            "image": "/nesi/nobackup/aut04076/dataset/imagesTr/t1w_00163.nii.gz",
+            "source": "/nesi/nobackup/aut04076/mriData/sub-0811/anat/sub-0811_run-1_T1w.nii.gz"
+        },
+        {
+            "image": "/nesi/nobackup/aut04076/dataset/imagesTr/t1w_00164.nii.gz",
+            "source": "/nesi/nobackup/aut04076/mriData/sub-0759/anat/sub-0759_run-1_T1w.nii.gz"
+        },
+        {
+            "image": "/nesi/nobackup/aut04076/dataset/imagesTr/t1w_00165.nii.gz",
+            "source": "/nesi/nobackup/aut04076/mriData/sub-0459/anat/sub-0459_run-1_T1w.nii.gz"
+        },
+        {
+            "image": "/nesi/nobackup/aut04076/dataset/imagesTr/t1w_00166.nii.gz",
+            "source": "/nesi/nobackup/aut04076/mriData/sub-0182/anat/sub-0182_run-1_T1w.nii.gz"
+        },
+        {
+            "image": "/nesi/nobackup/aut04076/dataset/imagesTr/t1w_00167.nii.gz",
+            "source": "/nesi/nobackup/aut04076/mriData/sub-0926/anat/sub-0926_run-1_T1w.nii.gz"
+        },
+        {
+            "image": "/nesi/nobackup/aut04076/dataset/imagesTr/t1w_00168.nii.gz",
+            "source": "/nesi/nobackup/aut04076/mriData/sub-0009/anat/sub-0009_run-1_T1w.nii.gz"
+        },
+        {
+            "image": "/nesi/nobackup/aut04076/dataset/imagesTr/t1w_00169.nii.gz",
+            "source": "/nesi/nobackup/aut04076/mriData/sub-0924/anat/sub-0924_run-1_T1w.nii.gz"
+        },
+        {
+            "image": "/nesi/nobackup/aut04076/dataset/imagesTr/t1w_00170.nii.gz",
+            "source": "/nesi/nobackup/aut04076/mriData/sub-0267/anat/sub-0267_run-1_T1w.nii.gz"
+        },
+        {
+            "image": "/nesi/nobackup/aut04076/dataset/imagesTr/t1w_00171.nii.gz",
+            "source": "/nesi/nobackup/aut04076/mriData/sub-0370/anat/sub-0370_run-1_T1w.nii.gz"
+        },
+        {
+            "image": "/nesi/nobackup/aut04076/dataset/imagesTr/t1w_00172.nii.gz",
+            "source": "/nesi/nobackup/aut04076/mriData/sub-0351/anat/sub-0351_run-1_T1w.nii.gz"
+        },
+        {
+            "image": "/nesi/nobackup/aut04076/dataset/imagesTr/t1w_00173.nii.gz",
+            "source": "/nesi/nobackup/aut04076/mriData/sub-0092/anat/sub-0092_run-1_T1w.nii.gz"
+        },
+        {
+            "image": "/nesi/nobackup/aut04076/dataset/imagesTr/t1w_00174.nii.gz",
+            "source": "/nesi/nobackup/aut04076/mriData/sub-0052/anat/sub-0052_run-1_T1w.nii.gz"
+        },
+        {
+            "image": "/nesi/nobackup/aut04076/dataset/imagesTr/t1w_00175.nii.gz",
+            "source": "/nesi/nobackup/aut04076/mriData/sub-0703/anat/sub-0703_run-1_T1w.nii.gz"
+        },
+        {
+            "image": "/nesi/nobackup/aut04076/dataset/imagesTr/t1w_00176.nii.gz",
+            "source": "/nesi/nobackup/aut04076/mriData/sub-0763/anat/sub-0763_run-1_T1w.nii.gz"
+        },
+        {
+            "image": "/nesi/nobackup/aut04076/dataset/imagesTr/t1w_00177.nii.gz",
+            "source": "/nesi/nobackup/aut04076/mriData/sub-0418/anat/sub-0418_run-1_T1w.nii.gz"
+        },
+        {
+            "image": "/nesi/nobackup/aut04076/dataset/imagesTr/t1w_00178.nii.gz",
+            "source": "/nesi/nobackup/aut04076/mriData/sub-0332/anat/sub-0332_run-1_T1w.nii.gz"
+        },
+        {
+            "image": "/nesi/nobackup/aut04076/dataset/imagesTr/t1w_00179.nii.gz",
+            "source": "/nesi/nobackup/aut04076/mriData/sub-0335/anat/sub-0335_run-1_T1w.nii.gz"
+        },
+        {
+            "image": "/nesi/nobackup/aut04076/dataset/imagesTr/t1w_00180.nii.gz",
+            "source": "/nesi/nobackup/aut04076/mriData/sub-0041/anat/sub-0041_run-1_T1w.nii.gz"
+        },
+        {
+            "image": "/nesi/nobackup/aut04076/dataset/imagesTr/t1w_00181.nii.gz",
+            "source": "/nesi/nobackup/aut04076/mriData/sub-0847/anat/sub-0847_run-1_T1w.nii.gz"
+        },
+        {
+            "image": "/nesi/nobackup/aut04076/dataset/imagesTr/t1w_00182.nii.gz",
+            "source": "/nesi/nobackup/aut04076/mriData/sub-0206/anat/sub-0206_run-1_T1w.nii.gz"
+        },
+        {
+            "image": "/nesi/nobackup/aut04076/dataset/imagesTr/t1w_00183.nii.gz",
+            "source": "/nesi/nobackup/aut04076/mriData/sub-0675/anat/sub-0675_run-1_T1w.nii.gz"
+        },
+        {
+            "image": "/nesi/nobackup/aut04076/dataset/imagesTr/t1w_00184.nii.gz",
+            "source": "/nesi/nobackup/aut04076/mriData/sub-0250/anat/sub-0250_run-1_T1w.nii.gz"
+        },
+        {
+            "image": "/nesi/nobackup/aut04076/dataset/imagesTr/t1w_00185.nii.gz",
+            "source": "/nesi/nobackup/aut04076/mriData/sub-0239/anat/sub-0239_run-1_T1w.nii.gz"
+        },
+        {
+            "image": "/nesi/nobackup/aut04076/dataset/imagesTr/t1w_00186.nii.gz",
+            "source": "/nesi/nobackup/aut04076/mriData/sub-0735/anat/sub-0735_run-1_T1w.nii.gz"
+        },
+        {
+            "image": "/nesi/nobackup/aut04076/dataset/imagesTr/t1w_00187.nii.gz",
+            "source": "/nesi/nobackup/aut04076/mriData/sub-0744/anat/sub-0744_run-1_T1w.nii.gz"
+        },
+        {
+            "image": "/nesi/nobackup/aut04076/dataset/imagesTr/t1w_00188.nii.gz",
+            "source": "/nesi/nobackup/aut04076/mriData/sub-0520/anat/sub-0520_run-1_T1w.nii.gz"
+        },
+        {
+            "image": "/nesi/nobackup/aut04076/dataset/imagesTr/t1w_00189.nii.gz",
+            "source": "/nesi/nobackup/aut04076/mriData/sub-0893/anat/sub-0893_run-1_T1w.nii.gz"
+        },
+        {
+            "image": "/nesi/nobackup/aut04076/dataset/imagesTr/t1w_00190.nii.gz",
+            "source": "/nesi/nobackup/aut04076/mriData/sub-0364/anat/sub-0364_run-1_T1w.nii.gz"
+        },
+        {
+            "image": "/nesi/nobackup/aut04076/dataset/imagesTr/t1w_00191.nii.gz",
+            "source": "/nesi/nobackup/aut04076/mriData/sub-0402/anat/sub-0402_run-1_T1w.nii.gz"
+        },
+        {
+            "image": "/nesi/nobackup/aut04076/dataset/imagesTr/t1w_00192.nii.gz",
+            "source": "/nesi/nobackup/aut04076/mriData/sub-0534/anat/sub-0534_run-1_T1w.nii.gz"
+        },
+        {
+            "image": "/nesi/nobackup/aut04076/dataset/imagesTr/t1w_00193.nii.gz",
+            "source": "/nesi/nobackup/aut04076/mriData/sub-0321/anat/sub-0321_run-1_T1w.nii.gz"
+        },
+        {
+            "image": "/nesi/nobackup/aut04076/dataset/imagesTr/t1w_00194.nii.gz",
+            "source": "/nesi/nobackup/aut04076/mriData/sub-0197/anat/sub-0197_run-1_T1w.nii.gz"
+        },
+        {
+            "image": "/nesi/nobackup/aut04076/dataset/imagesTr/t1w_00195.nii.gz",
+            "source": "/nesi/nobackup/aut04076/mriData/sub-0584/anat/sub-0584_run-1_T1w.nii.gz"
+        },
+        {
+            "image": "/nesi/nobackup/aut04076/dataset/imagesTr/t1w_00196.nii.gz",
+            "source": "/nesi/nobackup/aut04076/mriData/sub-0211/anat/sub-0211_run-1_T1w.nii.gz"
+        },
+        {
+            "image": "/nesi/nobackup/aut04076/dataset/imagesTr/t1w_00197.nii.gz",
+            "source": "/nesi/nobackup/aut04076/mriData/sub-0780/anat/sub-0780_run-1_T1w.nii.gz"
+        },
+        {
+            "image": "/nesi/nobackup/aut04076/dataset/imagesTr/t1w_00198.nii.gz",
+            "source": "/nesi/nobackup/aut04076/mriData/sub-0558/anat/sub-0558_run-1_T1w.nii.gz"
+        },
+        {
+            "image": "/nesi/nobackup/aut04076/dataset/imagesTr/t1w_00199.nii.gz",
+            "source": "/nesi/nobackup/aut04076/mriData/sub-0718/anat/sub-0718_run-1_T1w.nii.gz"
+        },
+        {
+            "image": "/nesi/nobackup/aut04076/dataset/imagesTr/t1w_00200.nii.gz",
+            "source": "/nesi/nobackup/aut04076/mriData/sub-0506/anat/sub-0506_run-1_T1w.nii.gz"
+        },
+        {
+            "image": "/nesi/nobackup/aut04076/dataset/imagesTr/t1w_00201.nii.gz",
+            "source": "/nesi/nobackup/aut04076/mriData/sub-0499/anat/sub-0499_run-1_T1w.nii.gz"
+        },
+        {
+            "image": "/nesi/nobackup/aut04076/dataset/imagesTr/t1w_00202.nii.gz",
+            "source": "/nesi/nobackup/aut04076/mriData/sub-0772/anat/sub-0772_run-1_T1w.nii.gz"
+        },
+        {
+            "image": "/nesi/nobackup/aut04076/dataset/imagesTr/t1w_00203.nii.gz",
+            "source": "/nesi/nobackup/aut04076/mriData/sub-0007/anat/sub-0007_run-1_T1w.nii.gz"
+        },
+        {
+            "image": "/nesi/nobackup/aut04076/dataset/imagesTr/t1w_00204.nii.gz",
+            "source": "/nesi/nobackup/aut04076/mriData/sub-0390/anat/sub-0390_run-1_T1w.nii.gz"
+        },
+        {
+            "image": "/nesi/nobackup/aut04076/dataset/imagesTr/t1w_00205.nii.gz",
+            "source": "/nesi/nobackup/aut04076/mriData/sub-0074/anat/sub-0074_run-1_T1w.nii.gz"
+        },
+        {
+            "image": "/nesi/nobackup/aut04076/dataset/imagesTr/t1w_00206.nii.gz",
+            "source": "/nesi/nobackup/aut04076/mriData/sub-0190/anat/sub-0190_run-1_T1w.nii.gz"
+        },
+        {
+            "image": "/nesi/nobackup/aut04076/dataset/imagesTr/t1w_00207.nii.gz",
+            "source": "/nesi/nobackup/aut04076/mriData/sub-0495/anat/sub-0495_run-1_T1w.nii.gz"
+        },
+        {
+            "image": "/nesi/nobackup/aut04076/dataset/imagesTr/t1w_00208.nii.gz",
+            "source": "/nesi/nobackup/aut04076/mriData/sub-0261/anat/sub-0261_run-1_T1w.nii.gz"
+        },
+        {
+            "image": "/nesi/nobackup/aut04076/dataset/imagesTr/t1w_00209.nii.gz",
+            "source": "/nesi/nobackup/aut04076/mriData/sub-0276/anat/sub-0276_run-1_T1w.nii.gz"
+        },
+        {
+            "image": "/nesi/nobackup/aut04076/dataset/imagesTr/t1w_00210.nii.gz",
+            "source": "/nesi/nobackup/aut04076/mriData/sub-0168/anat/sub-0168_run-1_T1w.nii.gz"
+        },
+        {
+            "image": "/nesi/nobackup/aut04076/dataset/imagesTr/t1w_00211.nii.gz",
+            "source": "/nesi/nobackup/aut04076/mriData/sub-0611/anat/sub-0611_run-1_T1w.nii.gz"
+        },
+        {
+            "image": "/nesi/nobackup/aut04076/dataset/imagesTr/t1w_00212.nii.gz",
+            "source": "/nesi/nobackup/aut04076/mriData/sub-0918/anat/sub-0918_run-1_T1w.nii.gz"
+        },
+        {
+            "image": "/nesi/nobackup/aut04076/dataset/imagesTr/t1w_00213.nii.gz",
+            "source": "/nesi/nobackup/aut04076/mriData/sub-0140/anat/sub-0140_run-1_T1w.nii.gz"
+        },
+        {
+            "image": "/nesi/nobackup/aut04076/dataset/imagesTr/t1w_00214.nii.gz",
+            "source": "/nesi/nobackup/aut04076/mriData/sub-0594/anat/sub-0594_run-1_T1w.nii.gz"
+        },
+        {
+            "image": "/nesi/nobackup/aut04076/dataset/imagesTr/t1w_00215.nii.gz",
+            "source": "/nesi/nobackup/aut04076/mriData/sub-0104/anat/sub-0104_run-1_T1w.nii.gz"
+        },
+        {
+            "image": "/nesi/nobackup/aut04076/dataset/imagesTr/t1w_00216.nii.gz",
+            "source": "/nesi/nobackup/aut04076/mriData/sub-0858/anat/sub-0858_run-1_T1w.nii.gz"
+        },
+        {
+            "image": "/nesi/nobackup/aut04076/dataset/imagesTr/t1w_00217.nii.gz",
+            "source": "/nesi/nobackup/aut04076/mriData/sub-0076/anat/sub-0076_run-1_T1w.nii.gz"
+        },
+        {
+            "image": "/nesi/nobackup/aut04076/dataset/imagesTr/t1w_00218.nii.gz",
+            "source": "/nesi/nobackup/aut04076/mriData/sub-0423/anat/sub-0423_run-1_T1w.nii.gz"
+        },
+        {
+            "image": "/nesi/nobackup/aut04076/dataset/imagesTr/t1w_00219.nii.gz",
+            "source": "/nesi/nobackup/aut04076/mriData/sub-0246/anat/sub-0246_run-1_T1w.nii.gz"
+        },
+        {
+            "image": "/nesi/nobackup/aut04076/dataset/imagesTr/t1w_00220.nii.gz",
+            "source": "/nesi/nobackup/aut04076/mriData/sub-0607/anat/sub-0607_run-1_T1w.nii.gz"
+        },
+        {
+            "image": "/nesi/nobackup/aut04076/dataset/imagesTr/t1w_00221.nii.gz",
+            "source": "/nesi/nobackup/aut04076/mriData/sub-0377/anat/sub-0377_run-1_T1w.nii.gz"
+        },
+        {
+            "image": "/nesi/nobackup/aut04076/dataset/imagesTr/t1w_00222.nii.gz",
+            "source": "/nesi/nobackup/aut04076/mriData/sub-0800/anat/sub-0800_run-1_T1w.nii.gz"
+        },
+        {
+            "image": "/nesi/nobackup/aut04076/dataset/imagesTr/t1w_00223.nii.gz",
+            "source": "/nesi/nobackup/aut04076/mriData/sub-0804/anat/sub-0804_run-1_T1w.nii.gz"
+        },
+        {
+            "image": "/nesi/nobackup/aut04076/dataset/imagesTr/t1w_00224.nii.gz",
+            "source": "/nesi/nobackup/aut04076/mriData/sub-0382/anat/sub-0382_run-1_T1w.nii.gz"
+        },
+        {
+            "image": "/nesi/nobackup/aut04076/dataset/imagesTr/t1w_00225.nii.gz",
+            "source": "/nesi/nobackup/aut04076/mriData/sub-0265/anat/sub-0265_run-1_T1w.nii.gz"
+        },
+        {
+            "image": "/nesi/nobackup/aut04076/dataset/imagesTr/t1w_00226.nii.gz",
+            "source": "/nesi/nobackup/aut04076/mriData/sub-0605/anat/sub-0605_run-1_T1w.nii.gz"
+        },
+        {
+            "image": "/nesi/nobackup/aut04076/dataset/imagesTr/t1w_00227.nii.gz",
+            "source": "/nesi/nobackup/aut04076/mriData/sub-0080/anat/sub-0080_run-1_T1w.nii.gz"
+        },
+        {
+            "image": "/nesi/nobackup/aut04076/dataset/imagesTr/t1w_00228.nii.gz",
+            "source": "/nesi/nobackup/aut04076/mriData/sub-0158/anat/sub-0158_run-1_T1w.nii.gz"
+        },
+        {
+            "image": "/nesi/nobackup/aut04076/dataset/imagesTr/t1w_00229.nii.gz",
+            "source": "/nesi/nobackup/aut04076/mriData/sub-0760/anat/sub-0760_run-1_T1w.nii.gz"
+        },
+        {
+            "image": "/nesi/nobackup/aut04076/dataset/imagesTr/t1w_00230.nii.gz",
+            "source": "/nesi/nobackup/aut04076/mriData/sub-0496/anat/sub-0496_run-1_T1w.nii.gz"
+        },
+        {
+            "image": "/nesi/nobackup/aut04076/dataset/imagesTr/t1w_00231.nii.gz",
+            "source": "/nesi/nobackup/aut04076/mriData/sub-0366/anat/sub-0366_run-1_T1w.nii.gz"
+        },
+        {
+            "image": "/nesi/nobackup/aut04076/dataset/imagesTr/t1w_00232.nii.gz",
+            "source": "/nesi/nobackup/aut04076/mriData/sub-0268/anat/sub-0268_run-1_T1w.nii.gz"
+        },
+        {
+            "image": "/nesi/nobackup/aut04076/dataset/imagesTr/t1w_00233.nii.gz",
+            "source": "/nesi/nobackup/aut04076/mriData/sub-0527/anat/sub-0527_run-1_T1w.nii.gz"
+        },
+        {
+            "image": "/nesi/nobackup/aut04076/dataset/imagesTr/t1w_00234.nii.gz",
+            "source": "/nesi/nobackup/aut04076/mriData/sub-0044/anat/sub-0044_run-1_T1w.nii.gz"
+        },
+        {
+            "image": "/nesi/nobackup/aut04076/dataset/imagesTr/t1w_00235.nii.gz",
+            "source": "/nesi/nobackup/aut04076/mriData/sub-0792/anat/sub-0792_run-1_T1w.nii.gz"
+        },
+        {
+            "image": "/nesi/nobackup/aut04076/dataset/imagesTr/t1w_00236.nii.gz",
+            "source": "/nesi/nobackup/aut04076/mriData/sub-0733/anat/sub-0733_run-1_T1w.nii.gz"
+        },
+        {
+            "image": "/nesi/nobackup/aut04076/dataset/imagesTr/t1w_00237.nii.gz",
+            "source": "/nesi/nobackup/aut04076/mriData/sub-0427/anat/sub-0427_run-1_T1w.nii.gz"
+        },
+        {
+            "image": "/nesi/nobackup/aut04076/dataset/imagesTr/t1w_00238.nii.gz",
+            "source": "/nesi/nobackup/aut04076/mriData/sub-0756/anat/sub-0756_run-1_T1w.nii.gz"
+        },
+        {
+            "image": "/nesi/nobackup/aut04076/dataset/imagesTr/t1w_00239.nii.gz",
+            "source": "/nesi/nobackup/aut04076/mriData/sub-0565/anat/sub-0565_run-1_T1w.nii.gz"
+        },
+        {
+            "image": "/nesi/nobackup/aut04076/dataset/imagesTr/t1w_00240.nii.gz",
+            "source": "/nesi/nobackup/aut04076/mriData/sub-0106/anat/sub-0106_run-1_T1w.nii.gz"
+        },
+        {
+            "image": "/nesi/nobackup/aut04076/dataset/imagesTr/t1w_00241.nii.gz",
+            "source": "/nesi/nobackup/aut04076/mriData/sub-0489/anat/sub-0489_run-1_T1w.nii.gz"
+        },
+        {
+            "image": "/nesi/nobackup/aut04076/dataset/imagesTr/t1w_00242.nii.gz",
+            "source": "/nesi/nobackup/aut04076/mriData/sub-0375/anat/sub-0375_run-1_T1w.nii.gz"
+        },
+        {
+            "image": "/nesi/nobackup/aut04076/dataset/imagesTr/t1w_00243.nii.gz",
+            "source": "/nesi/nobackup/aut04076/mriData/sub-0659/anat/sub-0659_run-1_T1w.nii.gz"
+        },
+        {
+            "image": "/nesi/nobackup/aut04076/dataset/imagesTr/t1w_00244.nii.gz",
+            "source": "/nesi/nobackup/aut04076/mriData/sub-0392/anat/sub-0392_run-1_T1w.nii.gz"
+        },
+        {
+            "image": "/nesi/nobackup/aut04076/dataset/imagesTr/t1w_00245.nii.gz",
+            "source": "/nesi/nobackup/aut04076/mriData/sub-0650/anat/sub-0650_run-1_T1w.nii.gz"
+        },
+        {
+            "image": "/nesi/nobackup/aut04076/dataset/imagesTr/t1w_00246.nii.gz",
+            "source": "/nesi/nobackup/aut04076/mriData/sub-0086/anat/sub-0086_run-1_T1w.nii.gz"
+        },
+        {
+            "image": "/nesi/nobackup/aut04076/dataset/imagesTr/t1w_00247.nii.gz",
+            "source": "/nesi/nobackup/aut04076/mriData/sub-0199/anat/sub-0199_run-1_T1w.nii.gz"
+        },
+        {
+            "image": "/nesi/nobackup/aut04076/dataset/imagesTr/t1w_00248.nii.gz",
+            "source": "/nesi/nobackup/aut04076/mriData/sub-0194/anat/sub-0194_run-1_T1w.nii.gz"
+        },
+        {
+            "image": "/nesi/nobackup/aut04076/dataset/imagesTr/t1w_00249.nii.gz",
+            "source": "/nesi/nobackup/aut04076/mriData/sub-0176/anat/sub-0176_run-1_T1w.nii.gz"
+        },
+        {
+            "image": "/nesi/nobackup/aut04076/dataset/imagesTr/t1w_00250.nii.gz",
+            "source": "/nesi/nobackup/aut04076/mriData/sub-0819/anat/sub-0819_run-1_T1w.nii.gz"
+        },
+        {
+            "image": "/nesi/nobackup/aut04076/dataset/imagesTr/t1w_00251.nii.gz",
+            "source": "/nesi/nobackup/aut04076/mriData/sub-0021/anat/sub-0021_run-1_T1w.nii.gz"
+        },
+        {
+            "image": "/nesi/nobackup/aut04076/dataset/imagesTr/t1w_00252.nii.gz",
+            "source": "/nesi/nobackup/aut04076/mriData/sub-0149/anat/sub-0149_run-1_T1w.nii.gz"
+        },
+        {
+            "image": "/nesi/nobackup/aut04076/dataset/imagesTr/t1w_00253.nii.gz",
+            "source": "/nesi/nobackup/aut04076/mriData/sub-0479/anat/sub-0479_run-1_T1w.nii.gz"
+        },
+        {
+            "image": "/nesi/nobackup/aut04076/dataset/imagesTr/t1w_00254.nii.gz",
+            "source": "/nesi/nobackup/aut04076/mriData/sub-0887/anat/sub-0887_run-1_T1w.nii.gz"
+        },
+        {
+            "image": "/nesi/nobackup/aut04076/dataset/imagesTr/t1w_00255.nii.gz",
+            "source": "/nesi/nobackup/aut04076/mriData/sub-0203/anat/sub-0203_run-1_T1w.nii.gz"
+        },
+        {
+            "image": "/nesi/nobackup/aut04076/dataset/imagesTr/t1w_00256.nii.gz",
+            "source": "/nesi/nobackup/aut04076/mriData/sub-0840/anat/sub-0840_run-1_T1w.nii.gz"
+        },
+        {
+            "image": "/nesi/nobackup/aut04076/dataset/imagesTr/t1w_00257.nii.gz",
+            "source": "/nesi/nobackup/aut04076/mriData/sub-0805/anat/sub-0805_run-1_T1w.nii.gz"
+        },
+        {
+            "image": "/nesi/nobackup/aut04076/dataset/imagesTr/t1w_00258.nii.gz",
+            "source": "/nesi/nobackup/aut04076/mriData/sub-0087/anat/sub-0087_run-1_T1w.nii.gz"
+        },
+        {
+            "image": "/nesi/nobackup/aut04076/dataset/imagesTr/t1w_00259.nii.gz",
+            "source": "/nesi/nobackup/aut04076/mriData/sub-0487/anat/sub-0487_run-1_T1w.nii.gz"
+        },
+        {
+            "image": "/nesi/nobackup/aut04076/dataset/imagesTr/t1w_00260.nii.gz",
+            "source": "/nesi/nobackup/aut04076/mriData/sub-0442/anat/sub-0442_run-1_T1w.nii.gz"
+        },
+        {
+            "image": "/nesi/nobackup/aut04076/dataset/imagesTr/t1w_00261.nii.gz",
+            "source": "/nesi/nobackup/aut04076/mriData/sub-0380/anat/sub-0380_run-1_T1w.nii.gz"
+        },
+        {
+            "image": "/nesi/nobackup/aut04076/dataset/imagesTr/t1w_00262.nii.gz",
+            "source": "/nesi/nobackup/aut04076/mriData/sub-0491/anat/sub-0491_run-1_T1w.nii.gz"
+        },
+        {
+            "image": "/nesi/nobackup/aut04076/dataset/imagesTr/t1w_00263.nii.gz",
+            "source": "/nesi/nobackup/aut04076/mriData/sub-0164/anat/sub-0164_run-1_T1w.nii.gz"
+        },
+        {
+            "image": "/nesi/nobackup/aut04076/dataset/imagesTr/t1w_00264.nii.gz",
+            "source": "/nesi/nobackup/aut04076/mriData/sub-0357/anat/sub-0357_run-1_T1w.nii.gz"
+        },
+        {
+            "image": "/nesi/nobackup/aut04076/dataset/imagesTr/t1w_00265.nii.gz",
+            "source": "/nesi/nobackup/aut04076/mriData/sub-0891/anat/sub-0891_run-1_T1w.nii.gz"
+        },
+        {
+            "image": "/nesi/nobackup/aut04076/dataset/imagesTr/t1w_00266.nii.gz",
+            "source": "/nesi/nobackup/aut04076/mriData/sub-0352/anat/sub-0352_run-1_T1w.nii.gz"
+        },
+        {
+            "image": "/nesi/nobackup/aut04076/dataset/imagesTr/t1w_00267.nii.gz",
+            "source": "/nesi/nobackup/aut04076/mriData/sub-0247/anat/sub-0247_run-1_T1w.nii.gz"
+        },
+        {
+            "image": "/nesi/nobackup/aut04076/dataset/imagesTr/t1w_00268.nii.gz",
+            "source": "/nesi/nobackup/aut04076/mriData/sub-0287/anat/sub-0287_run-1_T1w.nii.gz"
+        },
+        {
+            "image": "/nesi/nobackup/aut04076/dataset/imagesTr/t1w_00269.nii.gz",
+            "source": "/nesi/nobackup/aut04076/mriData/sub-0229/anat/sub-0229_run-1_T1w.nii.gz"
+        },
+        {
+            "image": "/nesi/nobackup/aut04076/dataset/imagesTr/t1w_00270.nii.gz",
+            "source": "/nesi/nobackup/aut04076/mriData/sub-0785/anat/sub-0785_run-1_T1w.nii.gz"
+        },
+        {
+            "image": "/nesi/nobackup/aut04076/dataset/imagesTr/t1w_00271.nii.gz",
+            "source": "/nesi/nobackup/aut04076/mriData/sub-0791/anat/sub-0791_run-1_T1w.nii.gz"
+        },
+        {
+            "image": "/nesi/nobackup/aut04076/dataset/imagesTr/t1w_00272.nii.gz",
+            "source": "/nesi/nobackup/aut04076/mriData/sub-0220/anat/sub-0220_run-1_T1w.nii.gz"
+        },
+        {
+            "image": "/nesi/nobackup/aut04076/dataset/imagesTr/t1w_00273.nii.gz",
+            "source": "/nesi/nobackup/aut04076/mriData/sub-0844/anat/sub-0844_run-1_T1w.nii.gz"
+        },
+        {
+            "image": "/nesi/nobackup/aut04076/dataset/imagesTr/t1w_00274.nii.gz",
+            "source": "/nesi/nobackup/aut04076/mriData/sub-0552/anat/sub-0552_run-1_T1w.nii.gz"
+        },
+        {
+            "image": "/nesi/nobackup/aut04076/dataset/imagesTr/t1w_00275.nii.gz",
+            "source": "/nesi/nobackup/aut04076/mriData/sub-0587/anat/sub-0587_run-1_T1w.nii.gz"
+        },
+        {
+            "image": "/nesi/nobackup/aut04076/dataset/imagesTr/t1w_00276.nii.gz",
+            "source": "/nesi/nobackup/aut04076/mriData/sub-0722/anat/sub-0722_run-1_T1w.nii.gz"
+        },
+        {
+            "image": "/nesi/nobackup/aut04076/dataset/imagesTr/t1w_00277.nii.gz",
+            "source": "/nesi/nobackup/aut04076/mriData/sub-0304/anat/sub-0304_run-1_T1w.nii.gz"
+        },
+        {
+            "image": "/nesi/nobackup/aut04076/dataset/imagesTr/t1w_00278.nii.gz",
+            "source": "/nesi/nobackup/aut04076/mriData/sub-0102/anat/sub-0102_run-1_T1w.nii.gz"
+        },
+        {
+            "image": "/nesi/nobackup/aut04076/dataset/imagesTr/t1w_00279.nii.gz",
+            "source": "/nesi/nobackup/aut04076/mriData/sub-0049/anat/sub-0049_run-1_T1w.nii.gz"
+        },
+        {
+            "image": "/nesi/nobackup/aut04076/dataset/imagesTr/t1w_00280.nii.gz",
+            "source": "/nesi/nobackup/aut04076/mriData/sub-0085/anat/sub-0085_run-1_T1w.nii.gz"
+        },
+        {
+            "image": "/nesi/nobackup/aut04076/dataset/imagesTr/t1w_00281.nii.gz",
+            "source": "/nesi/nobackup/aut04076/mriData/sub-0723/anat/sub-0723_run-1_T1w.nii.gz"
+        },
+        {
+            "image": "/nesi/nobackup/aut04076/dataset/imagesTr/t1w_00282.nii.gz",
+            "source": "/nesi/nobackup/aut04076/mriData/sub-0309/anat/sub-0309_run-1_T1w.nii.gz"
+        },
+        {
+            "image": "/nesi/nobackup/aut04076/dataset/imagesTr/t1w_00283.nii.gz",
+            "source": "/nesi/nobackup/aut04076/mriData/sub-0493/anat/sub-0493_run-1_T1w.nii.gz"
+        },
+        {
+            "image": "/nesi/nobackup/aut04076/dataset/imagesTr/t1w_00284.nii.gz",
+            "source": "/nesi/nobackup/aut04076/mriData/sub-0082/anat/sub-0082_run-1_T1w.nii.gz"
+        },
+        {
+            "image": "/nesi/nobackup/aut04076/dataset/imagesTr/t1w_00285.nii.gz",
+            "source": "/nesi/nobackup/aut04076/mriData/sub-0900/anat/sub-0900_run-1_T1w.nii.gz"
+        },
+        {
+            "image": "/nesi/nobackup/aut04076/dataset/imagesTr/t1w_00286.nii.gz",
+            "source": "/nesi/nobackup/aut04076/mriData/sub-0226/anat/sub-0226_run-1_T1w.nii.gz"
+        },
+        {
+            "image": "/nesi/nobackup/aut04076/dataset/imagesTr/t1w_00287.nii.gz",
+            "source": "/nesi/nobackup/aut04076/mriData/sub-0726/anat/sub-0726_run-1_T1w.nii.gz"
+        },
+        {
+            "image": "/nesi/nobackup/aut04076/dataset/imagesTr/t1w_00288.nii.gz",
+            "source": "/nesi/nobackup/aut04076/mriData/sub-0108/anat/sub-0108_run-1_T1w.nii.gz"
+        },
+        {
+            "image": "/nesi/nobackup/aut04076/dataset/imagesTr/t1w_00289.nii.gz",
+            "source": "/nesi/nobackup/aut04076/mriData/sub-0186/anat/sub-0186_run-1_T1w.nii.gz"
+        },
+        {
+            "image": "/nesi/nobackup/aut04076/dataset/imagesTr/t1w_00290.nii.gz",
+            "source": "/nesi/nobackup/aut04076/mriData/sub-0633/anat/sub-0633_run-1_T1w.nii.gz"
+        },
+        {
+            "image": "/nesi/nobackup/aut04076/dataset/imagesTr/t1w_00291.nii.gz",
+            "source": "/nesi/nobackup/aut04076/mriData/sub-0069/anat/sub-0069_run-1_T1w.nii.gz"
+        },
+        {
+            "image": "/nesi/nobackup/aut04076/dataset/imagesTr/t1w_00292.nii.gz",
+            "source": "/nesi/nobackup/aut04076/mriData/sub-0630/anat/sub-0630_run-1_T1w.nii.gz"
+        },
+        {
+            "image": "/nesi/nobackup/aut04076/dataset/imagesTr/t1w_00293.nii.gz",
+            "source": "/nesi/nobackup/aut04076/mriData/sub-0508/anat/sub-0508_run-1_T1w.nii.gz"
+        },
+        {
+            "image": "/nesi/nobackup/aut04076/dataset/imagesTr/t1w_00294.nii.gz",
+            "source": "/nesi/nobackup/aut04076/mriData/sub-0298/anat/sub-0298_run-1_T1w.nii.gz"
+        },
+        {
+            "image": "/nesi/nobackup/aut04076/dataset/imagesTr/t1w_00295.nii.gz",
+            "source": "/nesi/nobackup/aut04076/mriData/sub-0292/anat/sub-0292_run-1_T1w.nii.gz"
+        },
+        {
+            "image": "/nesi/nobackup/aut04076/dataset/imagesTr/t1w_00296.nii.gz",
+            "source": "/nesi/nobackup/aut04076/mriData/sub-0768/anat/sub-0768_run-1_T1w.nii.gz"
+        },
+        {
+            "image": "/nesi/nobackup/aut04076/dataset/imagesTr/t1w_00297.nii.gz",
+            "source": "/nesi/nobackup/aut04076/mriData/sub-0507/anat/sub-0507_run-1_T1w.nii.gz"
+        },
+        {
+            "image": "/nesi/nobackup/aut04076/dataset/imagesTr/t1w_00298.nii.gz",
+            "source": "/nesi/nobackup/aut04076/mriData/sub-0394/anat/sub-0394_run-1_T1w.nii.gz"
+        },
+        {
+            "image": "/nesi/nobackup/aut04076/dataset/imagesTr/t1w_00299.nii.gz",
+            "source": "/nesi/nobackup/aut04076/mriData/sub-0458/anat/sub-0458_run-1_T1w.nii.gz"
+        },
+        {
+            "image": "/nesi/nobackup/aut04076/dataset/imagesTr/t1w_00300.nii.gz",
+            "source": "/nesi/nobackup/aut04076/mriData/sub-0365/anat/sub-0365_run-1_T1w.nii.gz"
+        },
+        {
+            "image": "/nesi/nobackup/aut04076/dataset/imagesTr/t1w_00301.nii.gz",
+            "source": "/nesi/nobackup/aut04076/mriData/sub-0853/anat/sub-0853_run-1_T1w.nii.gz"
+        },
+        {
+            "image": "/nesi/nobackup/aut04076/dataset/imagesTr/t1w_00302.nii.gz",
+            "source": "/nesi/nobackup/aut04076/mriData/sub-0227/anat/sub-0227_run-1_T1w.nii.gz"
+        },
+        {
+            "image": "/nesi/nobackup/aut04076/dataset/imagesTr/t1w_00303.nii.gz",
+            "source": "/nesi/nobackup/aut04076/mriData/sub-0748/anat/sub-0748_run-1_T1w.nii.gz"
+        },
+        {
+            "image": "/nesi/nobackup/aut04076/dataset/imagesTr/t1w_00304.nii.gz",
+            "source": "/nesi/nobackup/aut04076/mriData/sub-0125/anat/sub-0125_run-1_T1w.nii.gz"
+        },
+        {
+            "image": "/nesi/nobackup/aut04076/dataset/imagesTr/t1w_00305.nii.gz",
+            "source": "/nesi/nobackup/aut04076/mriData/sub-0029/anat/sub-0029_run-1_T1w.nii.gz"
+        },
+        {
+            "image": "/nesi/nobackup/aut04076/dataset/imagesTr/t1w_00306.nii.gz",
+            "source": "/nesi/nobackup/aut04076/mriData/sub-0781/anat/sub-0781_run-1_T1w.nii.gz"
+        },
+        {
+            "image": "/nesi/nobackup/aut04076/dataset/imagesTr/t1w_00307.nii.gz",
+            "source": "/nesi/nobackup/aut04076/mriData/sub-0098/anat/sub-0098_run-1_T1w.nii.gz"
+        },
+        {
+            "image": "/nesi/nobackup/aut04076/dataset/imagesTr/t1w_00308.nii.gz",
+            "source": "/nesi/nobackup/aut04076/mriData/sub-0911/anat/sub-0911_run-1_T1w.nii.gz"
+        },
+        {
+            "image": "/nesi/nobackup/aut04076/dataset/imagesTr/t1w_00309.nii.gz",
+            "source": "/nesi/nobackup/aut04076/mriData/sub-0894/anat/sub-0894_run-1_T1w.nii.gz"
+        },
+        {
+            "image": "/nesi/nobackup/aut04076/dataset/imagesTr/t1w_00310.nii.gz",
+            "source": "/nesi/nobackup/aut04076/mriData/sub-0262/anat/sub-0262_run-1_T1w.nii.gz"
+        },
+        {
+            "image": "/nesi/nobackup/aut04076/dataset/imagesTr/t1w_00311.nii.gz",
+            "source": "/nesi/nobackup/aut04076/mriData/sub-0570/anat/sub-0570_run-1_T1w.nii.gz"
+        },
+        {
+            "image": "/nesi/nobackup/aut04076/dataset/imagesTr/t1w_00312.nii.gz",
+            "source": "/nesi/nobackup/aut04076/mriData/sub-0574/anat/sub-0574_run-1_T1w.nii.gz"
+        },
+        {
+            "image": "/nesi/nobackup/aut04076/dataset/imagesTr/t1w_00313.nii.gz",
+            "source": "/nesi/nobackup/aut04076/mriData/sub-0841/anat/sub-0841_run-1_T1w.nii.gz"
+        },
+        {
+            "image": "/nesi/nobackup/aut04076/dataset/imagesTr/t1w_00314.nii.gz",
+            "source": "/nesi/nobackup/aut04076/mriData/sub-0794/anat/sub-0794_run-1_T1w.nii.gz"
+        },
+        {
+            "image": "/nesi/nobackup/aut04076/dataset/imagesTr/t1w_00315.nii.gz",
+            "source": "/nesi/nobackup/aut04076/mriData/sub-0652/anat/sub-0652_run-1_T1w.nii.gz"
+        },
+        {
+            "image": "/nesi/nobackup/aut04076/dataset/imagesTr/t1w_00316.nii.gz",
+            "source": "/nesi/nobackup/aut04076/mriData/sub-0057/anat/sub-0057_run-1_T1w.nii.gz"
+        },
+        {
+            "image": "/nesi/nobackup/aut04076/dataset/imagesTr/t1w_00317.nii.gz",
+            "source": "/nesi/nobackup/aut04076/mriData/sub-0863/anat/sub-0863_run-1_T1w.nii.gz"
+        },
+        {
+            "image": "/nesi/nobackup/aut04076/dataset/imagesTr/t1w_00318.nii.gz",
+            "source": "/nesi/nobackup/aut04076/mriData/sub-0119/anat/sub-0119_run-1_T1w.nii.gz"
+        },
+        {
+            "image": "/nesi/nobackup/aut04076/dataset/imagesTr/t1w_00319.nii.gz",
+            "source": "/nesi/nobackup/aut04076/mriData/sub-0683/anat/sub-0683_run-1_T1w.nii.gz"
+        },
+        {
+            "image": "/nesi/nobackup/aut04076/dataset/imagesTr/t1w_00320.nii.gz",
+            "source": "/nesi/nobackup/aut04076/mriData/sub-0020/anat/sub-0020_run-1_T1w.nii.gz"
+        },
+        {
+            "image": "/nesi/nobackup/aut04076/dataset/imagesTr/t1w_00321.nii.gz",
+            "source": "/nesi/nobackup/aut04076/mriData/sub-0084/anat/sub-0084_run-1_T1w.nii.gz"
+        },
+        {
+            "image": "/nesi/nobackup/aut04076/dataset/imagesTr/t1w_00322.nii.gz",
+            "source": "/nesi/nobackup/aut04076/mriData/sub-0184/anat/sub-0184_run-1_T1w.nii.gz"
+        },
+        {
+            "image": "/nesi/nobackup/aut04076/dataset/imagesTr/t1w_00323.nii.gz",
+            "source": "/nesi/nobackup/aut04076/mriData/sub-0707/anat/sub-0707_run-1_T1w.nii.gz"
+        },
+        {
+            "image": "/nesi/nobackup/aut04076/dataset/imagesTr/t1w_00324.nii.gz",
+            "source": "/nesi/nobackup/aut04076/mriData/sub-0128/anat/sub-0128_run-1_T1w.nii.gz"
+        },
+        {
+            "image": "/nesi/nobackup/aut04076/dataset/imagesTr/t1w_00325.nii.gz",
+            "source": "/nesi/nobackup/aut04076/mriData/sub-0314/anat/sub-0314_run-1_T1w.nii.gz"
+        },
+        {
+            "image": "/nesi/nobackup/aut04076/dataset/imagesTr/t1w_00326.nii.gz",
+            "source": "/nesi/nobackup/aut04076/mriData/sub-0111/anat/sub-0111_run-1_T1w.nii.gz"
+        },
+        {
+            "image": "/nesi/nobackup/aut04076/dataset/imagesTr/t1w_00327.nii.gz",
+            "source": "/nesi/nobackup/aut04076/mriData/sub-0546/anat/sub-0546_run-1_T1w.nii.gz"
+        },
+        {
+            "image": "/nesi/nobackup/aut04076/dataset/imagesTr/t1w_00328.nii.gz",
+            "source": "/nesi/nobackup/aut04076/mriData/sub-0349/anat/sub-0349_run-1_T1w.nii.gz"
+        },
+        {
+            "image": "/nesi/nobackup/aut04076/dataset/imagesTr/t1w_00329.nii.gz",
+            "source": "/nesi/nobackup/aut04076/mriData/sub-0454/anat/sub-0454_run-1_T1w.nii.gz"
+        },
+        {
+            "image": "/nesi/nobackup/aut04076/dataset/imagesTr/t1w_00330.nii.gz",
+            "source": "/nesi/nobackup/aut04076/mriData/sub-0656/anat/sub-0656_run-1_T1w.nii.gz"
+        },
+        {
+            "image": "/nesi/nobackup/aut04076/dataset/imagesTr/t1w_00331.nii.gz",
+            "source": "/nesi/nobackup/aut04076/mriData/sub-0457/anat/sub-0457_run-1_T1w.nii.gz"
+        },
+        {
+            "image": "/nesi/nobackup/aut04076/dataset/imagesTr/t1w_00332.nii.gz",
+            "source": "/nesi/nobackup/aut04076/mriData/sub-0638/anat/sub-0638_run-1_T1w.nii.gz"
+        },
+        {
+            "image": "/nesi/nobackup/aut04076/dataset/imagesTr/t1w_00333.nii.gz",
+            "source": "/nesi/nobackup/aut04076/mriData/sub-0850/anat/sub-0850_run-1_T1w.nii.gz"
+        },
+        {
+            "image": "/nesi/nobackup/aut04076/dataset/imagesTr/t1w_00334.nii.gz",
+            "source": "/nesi/nobackup/aut04076/mriData/sub-0519/anat/sub-0519_run-1_T1w.nii.gz"
+        },
+        {
+            "image": "/nesi/nobackup/aut04076/dataset/imagesTr/t1w_00335.nii.gz",
+            "source": "/nesi/nobackup/aut04076/mriData/sub-0347/anat/sub-0347_run-1_T1w.nii.gz"
+        },
+        {
+            "image": "/nesi/nobackup/aut04076/dataset/imagesTr/t1w_00336.nii.gz",
+            "source": "/nesi/nobackup/aut04076/mriData/sub-0450/anat/sub-0450_run-1_T1w.nii.gz"
+        },
+        {
+            "image": "/nesi/nobackup/aut04076/dataset/imagesTr/t1w_00337.nii.gz",
+            "source": "/nesi/nobackup/aut04076/mriData/sub-0472/anat/sub-0472_run-1_T1w.nii.gz"
+        },
+        {
+            "image": "/nesi/nobackup/aut04076/dataset/imagesTr/t1w_00338.nii.gz",
+            "source": "/nesi/nobackup/aut04076/mriData/sub-0137/anat/sub-0137_run-1_T1w.nii.gz"
+        },
+        {
+            "image": "/nesi/nobackup/aut04076/dataset/imagesTr/t1w_00339.nii.gz",
+            "source": "/nesi/nobackup/aut04076/mriData/sub-0665/anat/sub-0665_run-1_T1w.nii.gz"
+        },
+        {
+            "image": "/nesi/nobackup/aut04076/dataset/imagesTr/t1w_00340.nii.gz",
+            "source": "/nesi/nobackup/aut04076/mriData/sub-0328/anat/sub-0328_run-1_T1w.nii.gz"
+        },
+        {
+            "image": "/nesi/nobackup/aut04076/dataset/imagesTr/t1w_00341.nii.gz",
+            "source": "/nesi/nobackup/aut04076/mriData/sub-0290/anat/sub-0290_run-1_T1w.nii.gz"
+        },
+        {
+            "image": "/nesi/nobackup/aut04076/dataset/imagesTr/t1w_00342.nii.gz",
+            "source": "/nesi/nobackup/aut04076/mriData/sub-0266/anat/sub-0266_run-1_T1w.nii.gz"
+        },
+        {
+            "image": "/nesi/nobackup/aut04076/dataset/imagesTr/t1w_00343.nii.gz",
+            "source": "/nesi/nobackup/aut04076/mriData/sub-0471/anat/sub-0471_run-1_T1w.nii.gz"
+        },
+        {
+            "image": "/nesi/nobackup/aut04076/dataset/imagesTr/t1w_00344.nii.gz",
+            "source": "/nesi/nobackup/aut04076/mriData/sub-0004/anat/sub-0004_run-1_T1w.nii.gz"
+        },
+        {
+            "image": "/nesi/nobackup/aut04076/dataset/imagesTr/t1w_00345.nii.gz",
+            "source": "/nesi/nobackup/aut04076/mriData/sub-0906/anat/sub-0906_run-1_T1w.nii.gz"
+        },
+        {
+            "image": "/nesi/nobackup/aut04076/dataset/imagesTr/t1w_00346.nii.gz",
+            "source": "/nesi/nobackup/aut04076/mriData/sub-0743/anat/sub-0743_run-1_T1w.nii.gz"
+        },
+        {
+            "image": "/nesi/nobackup/aut04076/dataset/imagesTr/t1w_00347.nii.gz",
+            "source": "/nesi/nobackup/aut04076/mriData/sub-0692/anat/sub-0692_run-1_T1w.nii.gz"
+        },
+        {
+            "image": "/nesi/nobackup/aut04076/dataset/imagesTr/t1w_00348.nii.gz",
+            "source": "/nesi/nobackup/aut04076/mriData/sub-0551/anat/sub-0551_run-1_T1w.nii.gz"
+        },
+        {
+            "image": "/nesi/nobackup/aut04076/dataset/imagesTr/t1w_00349.nii.gz",
+            "source": "/nesi/nobackup/aut04076/mriData/sub-0417/anat/sub-0417_run-1_T1w.nii.gz"
+        },
+        {
+            "image": "/nesi/nobackup/aut04076/dataset/imagesTr/t1w_00350.nii.gz",
+            "source": "/nesi/nobackup/aut04076/mriData/sub-0379/anat/sub-0379_run-1_T1w.nii.gz"
+        },
+        {
+            "image": "/nesi/nobackup/aut04076/dataset/imagesTr/t1w_00351.nii.gz",
+            "source": "/nesi/nobackup/aut04076/mriData/sub-0255/anat/sub-0255_run-1_T1w.nii.gz"
+        },
+        {
+            "image": "/nesi/nobackup/aut04076/dataset/imagesTr/t1w_00352.nii.gz",
+            "source": "/nesi/nobackup/aut04076/mriData/sub-0724/anat/sub-0724_run-1_T1w.nii.gz"
+        },
+        {
+            "image": "/nesi/nobackup/aut04076/dataset/imagesTr/t1w_00353.nii.gz",
+            "source": "/nesi/nobackup/aut04076/mriData/sub-0252/anat/sub-0252_run-1_T1w.nii.gz"
+        },
+        {
+            "image": "/nesi/nobackup/aut04076/dataset/imagesTr/t1w_00354.nii.gz",
+            "source": "/nesi/nobackup/aut04076/mriData/sub-0537/anat/sub-0537_run-1_T1w.nii.gz"
+        },
+        {
+            "image": "/nesi/nobackup/aut04076/dataset/imagesTr/t1w_00355.nii.gz",
+            "source": "/nesi/nobackup/aut04076/mriData/sub-0639/anat/sub-0639_run-1_T1w.nii.gz"
+        },
+        {
+            "image": "/nesi/nobackup/aut04076/dataset/imagesTr/t1w_00356.nii.gz",
+            "source": "/nesi/nobackup/aut04076/mriData/sub-0422/anat/sub-0422_run-1_T1w.nii.gz"
+        },
+        {
+            "image": "/nesi/nobackup/aut04076/dataset/imagesTr/t1w_00357.nii.gz",
+            "source": "/nesi/nobackup/aut04076/mriData/sub-0354/anat/sub-0354_run-1_T1w.nii.gz"
+        },
+        {
+            "image": "/nesi/nobackup/aut04076/dataset/imagesTr/t1w_00358.nii.gz",
+            "source": "/nesi/nobackup/aut04076/mriData/sub-0152/anat/sub-0152_run-1_T1w.nii.gz"
+        },
+        {
+            "image": "/nesi/nobackup/aut04076/dataset/imagesTr/t1w_00359.nii.gz",
+            "source": "/nesi/nobackup/aut04076/mriData/sub-0505/anat/sub-0505_run-1_T1w.nii.gz"
+        },
+        {
+            "image": "/nesi/nobackup/aut04076/dataset/imagesTr/t1w_00360.nii.gz",
+            "source": "/nesi/nobackup/aut04076/mriData/sub-0355/anat/sub-0355_run-1_T1w.nii.gz"
+        },
+        {
+            "image": "/nesi/nobackup/aut04076/dataset/imagesTr/t1w_00361.nii.gz",
+            "source": "/nesi/nobackup/aut04076/mriData/sub-0130/anat/sub-0130_run-1_T1w.nii.gz"
+        },
+        {
+            "image": "/nesi/nobackup/aut04076/dataset/imagesTr/t1w_00362.nii.gz",
+            "source": "/nesi/nobackup/aut04076/mriData/sub-0524/anat/sub-0524_run-1_T1w.nii.gz"
+        },
+        {
+            "image": "/nesi/nobackup/aut04076/dataset/imagesTr/t1w_00363.nii.gz",
+            "source": "/nesi/nobackup/aut04076/mriData/sub-0466/anat/sub-0466_run-1_T1w.nii.gz"
+        },
+        {
+            "image": "/nesi/nobackup/aut04076/dataset/imagesTr/t1w_00364.nii.gz",
+            "source": "/nesi/nobackup/aut04076/mriData/sub-0532/anat/sub-0532_run-1_T1w.nii.gz"
+        },
+        {
+            "image": "/nesi/nobackup/aut04076/dataset/imagesTr/t1w_00365.nii.gz",
+            "source": "/nesi/nobackup/aut04076/mriData/sub-0068/anat/sub-0068_run-1_T1w.nii.gz"
+        },
+        {
+            "image": "/nesi/nobackup/aut04076/dataset/imagesTr/t1w_00366.nii.gz",
+            "source": "/nesi/nobackup/aut04076/mriData/sub-0238/anat/sub-0238_run-1_T1w.nii.gz"
+        },
+        {
+            "image": "/nesi/nobackup/aut04076/dataset/imagesTr/t1w_00367.nii.gz",
+            "source": "/nesi/nobackup/aut04076/mriData/sub-0439/anat/sub-0439_run-1_T1w.nii.gz"
+        },
+        {
+            "image": "/nesi/nobackup/aut04076/dataset/imagesTr/t1w_00368.nii.gz",
+            "source": "/nesi/nobackup/aut04076/mriData/sub-0640/anat/sub-0640_run-1_T1w.nii.gz"
+        },
+        {
+            "image": "/nesi/nobackup/aut04076/dataset/imagesTr/t1w_00369.nii.gz",
+            "source": "/nesi/nobackup/aut04076/mriData/sub-0181/anat/sub-0181_run-1_T1w.nii.gz"
+        },
+        {
+            "image": "/nesi/nobackup/aut04076/dataset/imagesTr/t1w_00370.nii.gz",
+            "source": "/nesi/nobackup/aut04076/mriData/sub-0566/anat/sub-0566_run-1_T1w.nii.gz"
+        },
+        {
+            "image": "/nesi/nobackup/aut04076/dataset/imagesTr/t1w_00371.nii.gz",
+            "source": "/nesi/nobackup/aut04076/mriData/sub-0385/anat/sub-0385_run-1_T1w.nii.gz"
+        },
+        {
+            "image": "/nesi/nobackup/aut04076/dataset/imagesTr/t1w_00372.nii.gz",
+            "source": "/nesi/nobackup/aut04076/mriData/sub-0112/anat/sub-0112_run-1_T1w.nii.gz"
+        },
+        {
+            "image": "/nesi/nobackup/aut04076/dataset/imagesTr/t1w_00373.nii.gz",
+            "source": "/nesi/nobackup/aut04076/mriData/sub-0921/anat/sub-0921_run-1_T1w.nii.gz"
+        },
+        {
+            "image": "/nesi/nobackup/aut04076/dataset/imagesTr/t1w_00374.nii.gz",
+            "source": "/nesi/nobackup/aut04076/mriData/sub-0571/anat/sub-0571_run-1_T1w.nii.gz"
+        },
+        {
+            "image": "/nesi/nobackup/aut04076/dataset/imagesTr/t1w_00375.nii.gz",
+            "source": "/nesi/nobackup/aut04076/mriData/sub-0383/anat/sub-0383_run-1_T1w.nii.gz"
+        },
+        {
+            "image": "/nesi/nobackup/aut04076/dataset/imagesTr/t1w_00376.nii.gz",
+            "source": "/nesi/nobackup/aut04076/mriData/sub-0813/anat/sub-0813_run-1_T1w.nii.gz"
+        },
+        {
+            "image": "/nesi/nobackup/aut04076/dataset/imagesTr/t1w_00377.nii.gz",
+            "source": "/nesi/nobackup/aut04076/mriData/sub-0369/anat/sub-0369_run-1_T1w.nii.gz"
+        },
+        {
+            "image": "/nesi/nobackup/aut04076/dataset/imagesTr/t1w_00378.nii.gz",
+            "source": "/nesi/nobackup/aut04076/mriData/sub-0088/anat/sub-0088_run-1_T1w.nii.gz"
+        },
+        {
+            "image": "/nesi/nobackup/aut04076/dataset/imagesTr/t1w_00379.nii.gz",
+            "source": "/nesi/nobackup/aut04076/mriData/sub-0664/anat/sub-0664_run-1_T1w.nii.gz"
+        },
+        {
+            "image": "/nesi/nobackup/aut04076/dataset/imagesTr/t1w_00380.nii.gz",
+            "source": "/nesi/nobackup/aut04076/mriData/sub-0730/anat/sub-0730_run-1_T1w.nii.gz"
+        },
+        {
+            "image": "/nesi/nobackup/aut04076/dataset/imagesTr/t1w_00381.nii.gz",
+            "source": "/nesi/nobackup/aut04076/mriData/sub-0596/anat/sub-0596_run-1_T1w.nii.gz"
+        },
+        {
+            "image": "/nesi/nobackup/aut04076/dataset/imagesTr/t1w_00382.nii.gz",
+            "source": "/nesi/nobackup/aut04076/mriData/sub-0223/anat/sub-0223_run-1_T1w.nii.gz"
+        },
+        {
+            "image": "/nesi/nobackup/aut04076/dataset/imagesTr/t1w_00383.nii.gz",
+            "source": "/nesi/nobackup/aut04076/mriData/sub-0150/anat/sub-0150_run-1_T1w.nii.gz"
+        },
+        {
+            "image": "/nesi/nobackup/aut04076/dataset/imagesTr/t1w_00384.nii.gz",
+            "source": "/nesi/nobackup/aut04076/mriData/sub-0589/anat/sub-0589_run-1_T1w.nii.gz"
+        },
+        {
+            "image": "/nesi/nobackup/aut04076/dataset/imagesTr/t1w_00385.nii.gz",
+            "source": "/nesi/nobackup/aut04076/mriData/sub-0249/anat/sub-0249_run-1_T1w.nii.gz"
+        },
+        {
+            "image": "/nesi/nobackup/aut04076/dataset/imagesTr/t1w_00386.nii.gz",
+            "source": "/nesi/nobackup/aut04076/mriData/sub-0647/anat/sub-0647_run-1_T1w.nii.gz"
+        },
+        {
+            "image": "/nesi/nobackup/aut04076/dataset/imagesTr/t1w_00387.nii.gz",
+            "source": "/nesi/nobackup/aut04076/mriData/sub-0078/anat/sub-0078_run-1_T1w.nii.gz"
+        },
+        {
+            "image": "/nesi/nobackup/aut04076/dataset/imagesTr/t1w_00388.nii.gz",
+            "source": "/nesi/nobackup/aut04076/mriData/sub-0142/anat/sub-0142_run-1_T1w.nii.gz"
+        },
+        {
+            "image": "/nesi/nobackup/aut04076/dataset/imagesTr/t1w_00389.nii.gz",
+            "source": "/nesi/nobackup/aut04076/mriData/sub-0567/anat/sub-0567_run-1_T1w.nii.gz"
+        },
+        {
+            "image": "/nesi/nobackup/aut04076/dataset/imagesTr/t1w_00390.nii.gz",
+            "source": "/nesi/nobackup/aut04076/mriData/sub-0421/anat/sub-0421_run-1_T1w.nii.gz"
+        },
+        {
+            "image": "/nesi/nobackup/aut04076/dataset/imagesTr/t1w_00391.nii.gz",
+            "source": "/nesi/nobackup/aut04076/mriData/sub-0196/anat/sub-0196_run-1_T1w.nii.gz"
+        },
+        {
+            "image": "/nesi/nobackup/aut04076/dataset/imagesTr/t1w_00392.nii.gz",
+            "source": "/nesi/nobackup/aut04076/mriData/sub-0356/anat/sub-0356_run-1_T1w.nii.gz"
+        },
+        {
+            "image": "/nesi/nobackup/aut04076/dataset/imagesTr/t1w_00393.nii.gz",
+            "source": "/nesi/nobackup/aut04076/mriData/sub-0586/anat/sub-0586_run-1_T1w.nii.gz"
+        },
+        {
+            "image": "/nesi/nobackup/aut04076/dataset/imagesTr/t1w_00394.nii.gz",
+            "source": "/nesi/nobackup/aut04076/mriData/sub-0717/anat/sub-0717_run-1_T1w.nii.gz"
+        },
+        {
+            "image": "/nesi/nobackup/aut04076/dataset/imagesTr/t1w_00395.nii.gz",
+            "source": "/nesi/nobackup/aut04076/mriData/sub-0526/anat/sub-0526_run-1_T1w.nii.gz"
+        },
+        {
+            "image": "/nesi/nobackup/aut04076/dataset/imagesTr/t1w_00396.nii.gz",
+            "source": "/nesi/nobackup/aut04076/mriData/sub-0512/anat/sub-0512_run-1_T1w.nii.gz"
+        },
+        {
+            "image": "/nesi/nobackup/aut04076/dataset/imagesTr/t1w_00397.nii.gz",
+            "source": "/nesi/nobackup/aut04076/mriData/sub-0468/anat/sub-0468_run-1_T1w.nii.gz"
+        },
+        {
+            "image": "/nesi/nobackup/aut04076/dataset/imagesTr/t1w_00398.nii.gz",
+            "source": "/nesi/nobackup/aut04076/mriData/sub-0751/anat/sub-0751_run-1_T1w.nii.gz"
+        },
+        {
+            "image": "/nesi/nobackup/aut04076/dataset/imagesTr/t1w_00399.nii.gz",
+            "source": "/nesi/nobackup/aut04076/mriData/sub-0764/anat/sub-0764_run-1_T1w.nii.gz"
+        },
+        {
+            "image": "/nesi/nobackup/aut04076/dataset/imagesTr/t1w_00400.nii.gz",
+            "source": "/nesi/nobackup/aut04076/mriData/sub-0214/anat/sub-0214_run-1_T1w.nii.gz"
+        },
+        {
+            "image": "/nesi/nobackup/aut04076/dataset/imagesTr/t1w_00401.nii.gz",
+            "source": "/nesi/nobackup/aut04076/mriData/sub-0075/anat/sub-0075_run-1_T1w.nii.gz"
+        },
+        {
+            "image": "/nesi/nobackup/aut04076/dataset/imagesTr/t1w_00402.nii.gz",
+            "source": "/nesi/nobackup/aut04076/mriData/sub-0136/anat/sub-0136_run-1_T1w.nii.gz"
+        },
+        {
+            "image": "/nesi/nobackup/aut04076/dataset/imagesTr/t1w_00403.nii.gz",
+            "source": "/nesi/nobackup/aut04076/mriData/sub-0341/anat/sub-0341_run-1_T1w.nii.gz"
+        },
+        {
+            "image": "/nesi/nobackup/aut04076/dataset/imagesTr/t1w_00404.nii.gz",
+            "source": "/nesi/nobackup/aut04076/mriData/sub-0902/anat/sub-0902_run-1_T1w.nii.gz"
+        },
+        {
+            "image": "/nesi/nobackup/aut04076/dataset/imagesTr/t1w_00405.nii.gz",
+            "source": "/nesi/nobackup/aut04076/mriData/sub-0845/anat/sub-0845_run-1_T1w.nii.gz"
+        },
+        {
+            "image": "/nesi/nobackup/aut04076/dataset/imagesTr/t1w_00406.nii.gz",
+            "source": "/nesi/nobackup/aut04076/mriData/sub-0770/anat/sub-0770_run-1_T1w.nii.gz"
+        },
+        {
+            "image": "/nesi/nobackup/aut04076/dataset/imagesTr/t1w_00407.nii.gz",
+            "source": "/nesi/nobackup/aut04076/mriData/sub-0855/anat/sub-0855_run-1_T1w.nii.gz"
+        },
+        {
+            "image": "/nesi/nobackup/aut04076/dataset/imagesTr/t1w_00408.nii.gz",
+            "source": "/nesi/nobackup/aut04076/mriData/sub-0872/anat/sub-0872_run-1_T1w.nii.gz"
+        },
+        {
+            "image": "/nesi/nobackup/aut04076/dataset/imagesTr/t1w_00409.nii.gz",
+            "source": "/nesi/nobackup/aut04076/mriData/sub-0898/anat/sub-0898_run-1_T1w.nii.gz"
+        },
+        {
+            "image": "/nesi/nobackup/aut04076/dataset/imagesTr/t1w_00410.nii.gz",
+            "source": "/nesi/nobackup/aut04076/mriData/sub-0425/anat/sub-0425_run-1_T1w.nii.gz"
+        },
+        {
+            "image": "/nesi/nobackup/aut04076/dataset/imagesTr/t1w_00411.nii.gz",
+            "source": "/nesi/nobackup/aut04076/mriData/sub-0017/anat/sub-0017_run-1_T1w.nii.gz"
+        },
+        {
+            "image": "/nesi/nobackup/aut04076/dataset/imagesTr/t1w_00412.nii.gz",
+            "source": "/nesi/nobackup/aut04076/mriData/sub-0879/anat/sub-0879_run-1_T1w.nii.gz"
+        },
+        {
+            "image": "/nesi/nobackup/aut04076/dataset/imagesTr/t1w_00413.nii.gz",
+            "source": "/nesi/nobackup/aut04076/mriData/sub-0637/anat/sub-0637_run-1_T1w.nii.gz"
+        },
+        {
+            "image": "/nesi/nobackup/aut04076/dataset/imagesTr/t1w_00414.nii.gz",
+            "source": "/nesi/nobackup/aut04076/mriData/sub-0207/anat/sub-0207_run-1_T1w.nii.gz"
+        },
+        {
+            "image": "/nesi/nobackup/aut04076/dataset/imagesTr/t1w_00415.nii.gz",
+            "source": "/nesi/nobackup/aut04076/mriData/sub-0610/anat/sub-0610_run-1_T1w.nii.gz"
+        },
+        {
+            "image": "/nesi/nobackup/aut04076/dataset/imagesTr/t1w_00416.nii.gz",
+            "source": "/nesi/nobackup/aut04076/mriData/sub-0914/anat/sub-0914_run-1_T1w.nii.gz"
+        },
+        {
+            "image": "/nesi/nobackup/aut04076/dataset/imagesTr/t1w_00417.nii.gz",
+            "source": "/nesi/nobackup/aut04076/mriData/sub-0399/anat/sub-0399_run-1_T1w.nii.gz"
+        },
+        {
+            "image": "/nesi/nobackup/aut04076/dataset/imagesTr/t1w_00418.nii.gz",
+            "source": "/nesi/nobackup/aut04076/mriData/sub-0469/anat/sub-0469_run-1_T1w.nii.gz"
+        },
+        {
+            "image": "/nesi/nobackup/aut04076/dataset/imagesTr/t1w_00419.nii.gz",
+            "source": "/nesi/nobackup/aut04076/mriData/sub-0118/anat/sub-0118_run-1_T1w.nii.gz"
+        },
+        {
+            "image": "/nesi/nobackup/aut04076/dataset/imagesTr/t1w_00420.nii.gz",
+            "source": "/nesi/nobackup/aut04076/mriData/sub-0208/anat/sub-0208_run-1_T1w.nii.gz"
+        },
+        {
+            "image": "/nesi/nobackup/aut04076/dataset/imagesTr/t1w_00421.nii.gz",
+            "source": "/nesi/nobackup/aut04076/mriData/sub-0754/anat/sub-0754_run-1_T1w.nii.gz"
+        },
+        {
+            "image": "/nesi/nobackup/aut04076/dataset/imagesTr/t1w_00422.nii.gz",
+            "source": "/nesi/nobackup/aut04076/mriData/sub-0344/anat/sub-0344_run-1_T1w.nii.gz"
+        },
+        {
+            "image": "/nesi/nobackup/aut04076/dataset/imagesTr/t1w_00423.nii.gz",
+            "source": "/nesi/nobackup/aut04076/mriData/sub-0513/anat/sub-0513_run-1_T1w.nii.gz"
+        },
+        {
+            "image": "/nesi/nobackup/aut04076/dataset/imagesTr/t1w_00424.nii.gz",
+            "source": "/nesi/nobackup/aut04076/mriData/sub-0795/anat/sub-0795_run-1_T1w.nii.gz"
+        },
+        {
+            "image": "/nesi/nobackup/aut04076/dataset/imagesTr/t1w_00425.nii.gz",
+            "source": "/nesi/nobackup/aut04076/mriData/sub-0905/anat/sub-0905_run-1_T1w.nii.gz"
+        },
+        {
+            "image": "/nesi/nobackup/aut04076/dataset/imagesTr/t1w_00426.nii.gz",
+            "source": "/nesi/nobackup/aut04076/mriData/sub-0063/anat/sub-0063_run-1_T1w.nii.gz"
+        },
+        {
+            "image": "/nesi/nobackup/aut04076/dataset/imagesTr/t1w_00427.nii.gz",
+            "source": "/nesi/nobackup/aut04076/mriData/sub-0034/anat/sub-0034_run-1_T1w.nii.gz"
+        },
+        {
+            "image": "/nesi/nobackup/aut04076/dataset/imagesTr/t1w_00428.nii.gz",
+            "source": "/nesi/nobackup/aut04076/mriData/sub-0036/anat/sub-0036_run-1_T1w.nii.gz"
+        },
+        {
+            "image": "/nesi/nobackup/aut04076/dataset/imagesTr/t1w_00429.nii.gz",
+            "source": "/nesi/nobackup/aut04076/mriData/sub-0556/anat/sub-0556_run-1_T1w.nii.gz"
+        },
+        {
+            "image": "/nesi/nobackup/aut04076/dataset/imagesTr/t1w_00430.nii.gz",
+            "source": "/nesi/nobackup/aut04076/mriData/sub-0156/anat/sub-0156_run-1_T1w.nii.gz"
+        },
+        {
+            "image": "/nesi/nobackup/aut04076/dataset/imagesTr/t1w_00431.nii.gz",
+            "source": "/nesi/nobackup/aut04076/mriData/sub-0083/anat/sub-0083_run-1_T1w.nii.gz"
+        },
+        {
+            "image": "/nesi/nobackup/aut04076/dataset/imagesTr/t1w_00432.nii.gz",
+            "source": "/nesi/nobackup/aut04076/mriData/sub-0782/anat/sub-0782_run-1_T1w.nii.gz"
+        },
+        {
+            "image": "/nesi/nobackup/aut04076/dataset/imagesTr/t1w_00433.nii.gz",
+            "source": "/nesi/nobackup/aut04076/mriData/sub-0655/anat/sub-0655_run-1_T1w.nii.gz"
+        },
+        {
+            "image": "/nesi/nobackup/aut04076/dataset/imagesTr/t1w_00434.nii.gz",
+            "source": "/nesi/nobackup/aut04076/mriData/sub-0680/anat/sub-0680_run-1_T1w.nii.gz"
+        },
+        {
+            "image": "/nesi/nobackup/aut04076/dataset/imagesTr/t1w_00435.nii.gz",
+            "source": "/nesi/nobackup/aut04076/mriData/sub-0896/anat/sub-0896_run-1_T1w.nii.gz"
+        },
+        {
+            "image": "/nesi/nobackup/aut04076/dataset/imagesTr/t1w_00436.nii.gz",
+            "source": "/nesi/nobackup/aut04076/mriData/sub-0776/anat/sub-0776_run-1_T1w.nii.gz"
+        },
+        {
+            "image": "/nesi/nobackup/aut04076/dataset/imagesTr/t1w_00437.nii.gz",
+            "source": "/nesi/nobackup/aut04076/mriData/sub-0066/anat/sub-0066_run-1_T1w.nii.gz"
+        },
+        {
+            "image": "/nesi/nobackup/aut04076/dataset/imagesTr/t1w_00438.nii.gz",
+            "source": "/nesi/nobackup/aut04076/mriData/sub-0913/anat/sub-0913_run-1_T1w.nii.gz"
+        },
+        {
+            "image": "/nesi/nobackup/aut04076/dataset/imagesTr/t1w_00439.nii.gz",
+            "source": "/nesi/nobackup/aut04076/mriData/sub-0598/anat/sub-0598_run-1_T1w.nii.gz"
+        },
+        {
+            "image": "/nesi/nobackup/aut04076/dataset/imagesTr/t1w_00440.nii.gz",
+            "source": "/nesi/nobackup/aut04076/mriData/sub-0064/anat/sub-0064_run-1_T1w.nii.gz"
+        },
+        {
+            "image": "/nesi/nobackup/aut04076/dataset/imagesTr/t1w_00441.nii.gz",
+            "source": "/nesi/nobackup/aut04076/mriData/sub-0431/anat/sub-0431_run-1_T1w.nii.gz"
+        },
+        {
+            "image": "/nesi/nobackup/aut04076/dataset/imagesTr/t1w_00442.nii.gz",
+            "source": "/nesi/nobackup/aut04076/mriData/sub-0105/anat/sub-0105_run-1_T1w.nii.gz"
+        },
+        {
+            "image": "/nesi/nobackup/aut04076/dataset/imagesTr/t1w_00443.nii.gz",
+            "source": "/nesi/nobackup/aut04076/mriData/sub-0403/anat/sub-0403_run-1_T1w.nii.gz"
+        },
+        {
+            "image": "/nesi/nobackup/aut04076/dataset/imagesTr/t1w_00444.nii.gz",
+            "source": "/nesi/nobackup/aut04076/mriData/sub-0778/anat/sub-0778_run-1_T1w.nii.gz"
+        },
+        {
+            "image": "/nesi/nobackup/aut04076/dataset/imagesTr/t1w_00445.nii.gz",
+            "source": "/nesi/nobackup/aut04076/mriData/sub-0530/anat/sub-0530_run-1_T1w.nii.gz"
+        },
+        {
+            "image": "/nesi/nobackup/aut04076/dataset/imagesTr/t1w_00446.nii.gz",
+            "source": "/nesi/nobackup/aut04076/mriData/sub-0486/anat/sub-0486_run-1_T1w.nii.gz"
+        },
+        {
+            "image": "/nesi/nobackup/aut04076/dataset/imagesTr/t1w_00447.nii.gz",
+            "source": "/nesi/nobackup/aut04076/mriData/sub-0810/anat/sub-0810_run-1_T1w.nii.gz"
+        },
+        {
+            "image": "/nesi/nobackup/aut04076/dataset/imagesTr/t1w_00448.nii.gz",
+            "source": "/nesi/nobackup/aut04076/mriData/sub-0701/anat/sub-0701_run-1_T1w.nii.gz"
+        },
+        {
+            "image": "/nesi/nobackup/aut04076/dataset/imagesTr/t1w_00449.nii.gz",
+            "source": "/nesi/nobackup/aut04076/mriData/sub-0475/anat/sub-0475_run-1_T1w.nii.gz"
+        },
+        {
+            "image": "/nesi/nobackup/aut04076/dataset/imagesTr/t1w_00450.nii.gz",
+            "source": "/nesi/nobackup/aut04076/mriData/sub-0048/anat/sub-0048_run-1_T1w.nii.gz"
+        },
+        {
+            "image": "/nesi/nobackup/aut04076/dataset/imagesTr/t1w_00451.nii.gz",
+            "source": "/nesi/nobackup/aut04076/mriData/sub-0624/anat/sub-0624_run-1_T1w.nii.gz"
+        },
+        {
+            "image": "/nesi/nobackup/aut04076/dataset/imagesTr/t1w_00452.nii.gz",
+            "source": "/nesi/nobackup/aut04076/mriData/sub-0117/anat/sub-0117_run-1_T1w.nii.gz"
+        },
+        {
+            "image": "/nesi/nobackup/aut04076/dataset/imagesTr/t1w_00453.nii.gz",
+            "source": "/nesi/nobackup/aut04076/mriData/sub-0517/anat/sub-0517_run-1_T1w.nii.gz"
+        },
+        {
+            "image": "/nesi/nobackup/aut04076/dataset/imagesTr/t1w_00454.nii.gz",
+            "source": "/nesi/nobackup/aut04076/mriData/sub-0131/anat/sub-0131_run-1_T1w.nii.gz"
+        },
+        {
+            "image": "/nesi/nobackup/aut04076/dataset/imagesTr/t1w_00455.nii.gz",
+            "source": "/nesi/nobackup/aut04076/mriData/sub-0618/anat/sub-0618_run-1_T1w.nii.gz"
+        },
+        {
+            "image": "/nesi/nobackup/aut04076/dataset/imagesTr/t1w_00456.nii.gz",
+            "source": "/nesi/nobackup/aut04076/mriData/sub-0666/anat/sub-0666_run-1_T1w.nii.gz"
+        },
+        {
+            "image": "/nesi/nobackup/aut04076/dataset/imagesTr/t1w_00457.nii.gz",
+            "source": "/nesi/nobackup/aut04076/mriData/sub-0660/anat/sub-0660_run-1_T1w.nii.gz"
+        },
+        {
+            "image": "/nesi/nobackup/aut04076/dataset/imagesTr/t1w_00458.nii.gz",
+            "source": "/nesi/nobackup/aut04076/mriData/sub-0878/anat/sub-0878_run-1_T1w.nii.gz"
+        },
+        {
+            "image": "/nesi/nobackup/aut04076/dataset/imagesTr/t1w_00459.nii.gz",
+            "source": "/nesi/nobackup/aut04076/mriData/sub-0702/anat/sub-0702_run-1_T1w.nii.gz"
+        },
+        {
+            "image": "/nesi/nobackup/aut04076/dataset/imagesTr/t1w_00460.nii.gz",
+            "source": "/nesi/nobackup/aut04076/mriData/sub-0925/anat/sub-0925_run-1_T1w.nii.gz"
+        },
+        {
+            "image": "/nesi/nobackup/aut04076/dataset/imagesTr/t1w_00461.nii.gz",
+            "source": "/nesi/nobackup/aut04076/mriData/sub-0888/anat/sub-0888_run-1_T1w.nii.gz"
+        },
+        {
+            "image": "/nesi/nobackup/aut04076/dataset/imagesTr/t1w_00462.nii.gz",
+            "source": "/nesi/nobackup/aut04076/mriData/sub-0892/anat/sub-0892_run-1_T1w.nii.gz"
+        },
+        {
+            "image": "/nesi/nobackup/aut04076/dataset/imagesTr/t1w_00463.nii.gz",
+            "source": "/nesi/nobackup/aut04076/mriData/sub-0449/anat/sub-0449_run-1_T1w.nii.gz"
+        },
+        {
+            "image": "/nesi/nobackup/aut04076/dataset/imagesTr/t1w_00464.nii.gz",
+            "source": "/nesi/nobackup/aut04076/mriData/sub-0456/anat/sub-0456_run-1_T1w.nii.gz"
+        },
+        {
+            "image": "/nesi/nobackup/aut04076/dataset/imagesTr/t1w_00465.nii.gz",
+            "source": "/nesi/nobackup/aut04076/mriData/sub-0172/anat/sub-0172_run-1_T1w.nii.gz"
+        },
+        {
+            "image": "/nesi/nobackup/aut04076/dataset/imagesTr/t1w_00466.nii.gz",
+            "source": "/nesi/nobackup/aut04076/mriData/sub-0215/anat/sub-0215_run-1_T1w.nii.gz"
+        },
+        {
+            "image": "/nesi/nobackup/aut04076/dataset/imagesTr/t1w_00467.nii.gz",
+            "source": "/nesi/nobackup/aut04076/mriData/sub-0686/anat/sub-0686_run-1_T1w.nii.gz"
+        },
+        {
+            "image": "/nesi/nobackup/aut04076/dataset/imagesTr/t1w_00468.nii.gz",
+            "source": "/nesi/nobackup/aut04076/mriData/sub-0438/anat/sub-0438_run-1_T1w.nii.gz"
+        },
+        {
+            "image": "/nesi/nobackup/aut04076/dataset/imagesTr/t1w_00469.nii.gz",
+            "source": "/nesi/nobackup/aut04076/mriData/sub-0089/anat/sub-0089_run-1_T1w.nii.gz"
+        },
+        {
+            "image": "/nesi/nobackup/aut04076/dataset/imagesTr/t1w_00470.nii.gz",
+            "source": "/nesi/nobackup/aut04076/mriData/sub-0473/anat/sub-0473_run-1_T1w.nii.gz"
+        },
+        {
+            "image": "/nesi/nobackup/aut04076/dataset/imagesTr/t1w_00471.nii.gz",
+            "source": "/nesi/nobackup/aut04076/mriData/sub-0500/anat/sub-0500_run-1_T1w.nii.gz"
+        },
+        {
+            "image": "/nesi/nobackup/aut04076/dataset/imagesTr/t1w_00472.nii.gz",
+            "source": "/nesi/nobackup/aut04076/mriData/sub-0685/anat/sub-0685_run-1_T1w.nii.gz"
+        },
+        {
+            "image": "/nesi/nobackup/aut04076/dataset/imagesTr/t1w_00473.nii.gz",
+            "source": "/nesi/nobackup/aut04076/mriData/sub-0191/anat/sub-0191_run-1_T1w.nii.gz"
+        },
+        {
+            "image": "/nesi/nobackup/aut04076/dataset/imagesTr/t1w_00474.nii.gz",
+            "source": "/nesi/nobackup/aut04076/mriData/sub-0371/anat/sub-0371_run-1_T1w.nii.gz"
+        },
+        {
+            "image": "/nesi/nobackup/aut04076/dataset/imagesTr/t1w_00475.nii.gz",
+            "source": "/nesi/nobackup/aut04076/mriData/sub-0413/anat/sub-0413_run-1_T1w.nii.gz"
+        },
+        {
+            "image": "/nesi/nobackup/aut04076/dataset/imagesTr/t1w_00476.nii.gz",
+            "source": "/nesi/nobackup/aut04076/mriData/sub-0578/anat/sub-0578_run-1_T1w.nii.gz"
+        },
+        {
+            "image": "/nesi/nobackup/aut04076/dataset/imagesTr/t1w_00477.nii.gz",
+            "source": "/nesi/nobackup/aut04076/mriData/sub-0643/anat/sub-0643_run-1_T1w.nii.gz"
+        },
+        {
+            "image": "/nesi/nobackup/aut04076/dataset/imagesTr/t1w_00478.nii.gz",
+            "source": "/nesi/nobackup/aut04076/mriData/sub-0376/anat/sub-0376_run-1_T1w.nii.gz"
+        },
+        {
+            "image": "/nesi/nobackup/aut04076/dataset/imagesTr/t1w_00479.nii.gz",
+            "source": "/nesi/nobackup/aut04076/mriData/sub-0135/anat/sub-0135_run-1_T1w.nii.gz"
+        },
+        {
+            "image": "/nesi/nobackup/aut04076/dataset/imagesTr/t1w_00480.nii.gz",
+            "source": "/nesi/nobackup/aut04076/mriData/sub-0025/anat/sub-0025_run-1_T1w.nii.gz"
+        },
+        {
+            "image": "/nesi/nobackup/aut04076/dataset/imagesTr/t1w_00481.nii.gz",
+            "source": "/nesi/nobackup/aut04076/mriData/sub-0550/anat/sub-0550_run-1_T1w.nii.gz"
+        },
+        {
+            "image": "/nesi/nobackup/aut04076/dataset/imagesTr/t1w_00482.nii.gz",
+            "source": "/nesi/nobackup/aut04076/mriData/sub-0766/anat/sub-0766_run-1_T1w.nii.gz"
+        },
+        {
+            "image": "/nesi/nobackup/aut04076/dataset/imagesTr/t1w_00483.nii.gz",
+            "source": "/nesi/nobackup/aut04076/mriData/sub-0714/anat/sub-0714_run-1_T1w.nii.gz"
+        },
+        {
+            "image": "/nesi/nobackup/aut04076/dataset/imagesTr/t1w_00484.nii.gz",
+            "source": "/nesi/nobackup/aut04076/mriData/sub-0325/anat/sub-0325_run-1_T1w.nii.gz"
+        },
+        {
+            "image": "/nesi/nobackup/aut04076/dataset/imagesTr/t1w_00485.nii.gz",
+            "source": "/nesi/nobackup/aut04076/mriData/sub-0620/anat/sub-0620_run-1_T1w.nii.gz"
+        },
+        {
+            "image": "/nesi/nobackup/aut04076/dataset/imagesTr/t1w_00486.nii.gz",
+            "source": "/nesi/nobackup/aut04076/mriData/sub-0134/anat/sub-0134_run-1_T1w.nii.gz"
+        },
+        {
+            "image": "/nesi/nobackup/aut04076/dataset/imagesTr/t1w_00487.nii.gz",
+            "source": "/nesi/nobackup/aut04076/mriData/sub-0695/anat/sub-0695_run-1_T1w.nii.gz"
+        },
+        {
+            "image": "/nesi/nobackup/aut04076/dataset/imagesTr/t1w_00488.nii.gz",
+            "source": "/nesi/nobackup/aut04076/mriData/sub-0110/anat/sub-0110_run-1_T1w.nii.gz"
+        },
+        {
+            "image": "/nesi/nobackup/aut04076/dataset/imagesTr/t1w_00489.nii.gz",
+            "source": "/nesi/nobackup/aut04076/mriData/sub-0904/anat/sub-0904_run-1_T1w.nii.gz"
+        },
+        {
+            "image": "/nesi/nobackup/aut04076/dataset/imagesTr/t1w_00490.nii.gz",
+            "source": "/nesi/nobackup/aut04076/mriData/sub-0910/anat/sub-0910_run-1_T1w.nii.gz"
+        },
+        {
+            "image": "/nesi/nobackup/aut04076/dataset/imagesTr/t1w_00491.nii.gz",
+            "source": "/nesi/nobackup/aut04076/mriData/sub-0540/anat/sub-0540_run-1_T1w.nii.gz"
+        },
+        {
+            "image": "/nesi/nobackup/aut04076/dataset/imagesTr/t1w_00492.nii.gz",
+            "source": "/nesi/nobackup/aut04076/mriData/sub-0001/anat/sub-0001_run-1_T1w.nii.gz"
+        },
+        {
+            "image": "/nesi/nobackup/aut04076/dataset/imagesTr/t1w_00493.nii.gz",
+            "source": "/nesi/nobackup/aut04076/mriData/sub-0480/anat/sub-0480_run-1_T1w.nii.gz"
+        },
+        {
+            "image": "/nesi/nobackup/aut04076/dataset/imagesTr/t1w_00494.nii.gz",
+            "source": "/nesi/nobackup/aut04076/mriData/sub-0429/anat/sub-0429_run-1_T1w.nii.gz"
+        },
+        {
+            "image": "/nesi/nobackup/aut04076/dataset/imagesTr/t1w_00495.nii.gz",
+            "source": "/nesi/nobackup/aut04076/mriData/sub-0193/anat/sub-0193_run-1_T1w.nii.gz"
+        },
+        {
+            "image": "/nesi/nobackup/aut04076/dataset/imagesTr/t1w_00496.nii.gz",
+            "source": "/nesi/nobackup/aut04076/mriData/sub-0885/anat/sub-0885_run-1_T1w.nii.gz"
+        },
+        {
+            "image": "/nesi/nobackup/aut04076/dataset/imagesTr/t1w_00497.nii.gz",
+            "source": "/nesi/nobackup/aut04076/mriData/sub-0642/anat/sub-0642_run-1_T1w.nii.gz"
+        },
+        {
+            "image": "/nesi/nobackup/aut04076/dataset/imagesTr/t1w_00498.nii.gz",
+            "source": "/nesi/nobackup/aut04076/mriData/sub-0463/anat/sub-0463_run-1_T1w.nii.gz"
+        },
+        {
+            "image": "/nesi/nobackup/aut04076/dataset/imagesTr/t1w_00499.nii.gz",
+            "source": "/nesi/nobackup/aut04076/mriData/sub-0453/anat/sub-0453_run-1_T1w.nii.gz"
+        },
+        {
+            "image": "/nesi/nobackup/aut04076/dataset/imagesTr/t1w_00500.nii.gz",
+            "source": "/nesi/nobackup/aut04076/mriData/sub-0313/anat/sub-0313_run-1_T1w.nii.gz"
+        },
+        {
+            "image": "/nesi/nobackup/aut04076/dataset/imagesTr/t1w_00501.nii.gz",
+            "source": "/nesi/nobackup/aut04076/mriData/sub-0774/anat/sub-0774_run-1_T1w.nii.gz"
+        },
+        {
+            "image": "/nesi/nobackup/aut04076/dataset/imagesTr/t1w_00502.nii.gz",
+            "source": "/nesi/nobackup/aut04076/mriData/sub-0761/anat/sub-0761_run-1_T1w.nii.gz"
+        },
+        {
+            "image": "/nesi/nobackup/aut04076/dataset/imagesTr/t1w_00503.nii.gz",
+            "source": "/nesi/nobackup/aut04076/mriData/sub-0337/anat/sub-0337_run-1_T1w.nii.gz"
+        },
+        {
+            "image": "/nesi/nobackup/aut04076/dataset/imagesTr/t1w_00504.nii.gz",
+            "source": "/nesi/nobackup/aut04076/mriData/sub-0470/anat/sub-0470_run-1_T1w.nii.gz"
+        },
+        {
+            "image": "/nesi/nobackup/aut04076/dataset/imagesTr/t1w_00505.nii.gz",
+            "source": "/nesi/nobackup/aut04076/mriData/sub-0752/anat/sub-0752_run-1_T1w.nii.gz"
+        },
+        {
+            "image": "/nesi/nobackup/aut04076/dataset/imagesTr/t1w_00506.nii.gz",
+            "source": "/nesi/nobackup/aut04076/mriData/sub-0525/anat/sub-0525_run-1_T1w.nii.gz"
+        },
+        {
+            "image": "/nesi/nobackup/aut04076/dataset/imagesTr/t1w_00507.nii.gz",
+            "source": "/nesi/nobackup/aut04076/mriData/sub-0591/anat/sub-0591_run-1_T1w.nii.gz"
+        },
+        {
+            "image": "/nesi/nobackup/aut04076/dataset/imagesTr/t1w_00508.nii.gz",
+            "source": "/nesi/nobackup/aut04076/mriData/sub-0329/anat/sub-0329_run-1_T1w.nii.gz"
+        },
+        {
+            "image": "/nesi/nobackup/aut04076/dataset/imagesTr/t1w_00509.nii.gz",
+            "source": "/nesi/nobackup/aut04076/mriData/sub-0474/anat/sub-0474_run-1_T1w.nii.gz"
+        },
+        {
+            "image": "/nesi/nobackup/aut04076/dataset/imagesTr/t1w_00510.nii.gz",
+            "source": "/nesi/nobackup/aut04076/mriData/sub-0497/anat/sub-0497_run-1_T1w.nii.gz"
+        },
+        {
+            "image": "/nesi/nobackup/aut04076/dataset/imagesTr/t1w_00511.nii.gz",
+            "source": "/nesi/nobackup/aut04076/mriData/sub-0133/anat/sub-0133_run-1_T1w.nii.gz"
+        },
+        {
+            "image": "/nesi/nobackup/aut04076/dataset/imagesTr/t1w_00512.nii.gz",
+            "source": "/nesi/nobackup/aut04076/mriData/sub-0324/anat/sub-0324_run-1_T1w.nii.gz"
+        },
+        {
+            "image": "/nesi/nobackup/aut04076/dataset/imagesTr/t1w_00513.nii.gz",
+            "source": "/nesi/nobackup/aut04076/mriData/sub-0522/anat/sub-0522_run-1_T1w.nii.gz"
+        },
+        {
+            "image": "/nesi/nobackup/aut04076/dataset/imagesTr/t1w_00514.nii.gz",
+            "source": "/nesi/nobackup/aut04076/mriData/sub-0541/anat/sub-0541_run-1_T1w.nii.gz"
+        },
+        {
+            "image": "/nesi/nobackup/aut04076/dataset/imagesTr/t1w_00515.nii.gz",
+            "source": "/nesi/nobackup/aut04076/mriData/sub-0807/anat/sub-0807_run-1_T1w.nii.gz"
+        },
+        {
+            "image": "/nesi/nobackup/aut04076/dataset/imagesTr/t1w_00516.nii.gz",
+            "source": "/nesi/nobackup/aut04076/mriData/sub-0481/anat/sub-0481_run-1_T1w.nii.gz"
+        },
+        {
+            "image": "/nesi/nobackup/aut04076/dataset/imagesTr/t1w_00517.nii.gz",
+            "source": "/nesi/nobackup/aut04076/mriData/sub-0256/anat/sub-0256_run-1_T1w.nii.gz"
+        },
+        {
+            "image": "/nesi/nobackup/aut04076/dataset/imagesTr/t1w_00518.nii.gz",
+            "source": "/nesi/nobackup/aut04076/mriData/sub-0286/anat/sub-0286_run-1_T1w.nii.gz"
+        },
+        {
+            "image": "/nesi/nobackup/aut04076/dataset/imagesTr/t1w_00519.nii.gz",
+            "source": "/nesi/nobackup/aut04076/mriData/sub-0757/anat/sub-0757_run-1_T1w.nii.gz"
+        },
+        {
+            "image": "/nesi/nobackup/aut04076/dataset/imagesTr/t1w_00520.nii.gz",
+            "source": "/nesi/nobackup/aut04076/mriData/sub-0560/anat/sub-0560_run-1_T1w.nii.gz"
+        },
+        {
+            "image": "/nesi/nobackup/aut04076/dataset/imagesTr/t1w_00521.nii.gz",
+            "source": "/nesi/nobackup/aut04076/mriData/sub-0384/anat/sub-0384_run-1_T1w.nii.gz"
+        },
+        {
+            "image": "/nesi/nobackup/aut04076/dataset/imagesTr/t1w_00522.nii.gz",
+            "source": "/nesi/nobackup/aut04076/mriData/sub-0258/anat/sub-0258_run-1_T1w.nii.gz"
+        },
+        {
+            "image": "/nesi/nobackup/aut04076/dataset/imagesTr/t1w_00523.nii.gz",
+            "source": "/nesi/nobackup/aut04076/mriData/sub-0178/anat/sub-0178_run-1_T1w.nii.gz"
+        },
+        {
+            "image": "/nesi/nobackup/aut04076/dataset/imagesTr/t1w_00524.nii.gz",
+            "source": "/nesi/nobackup/aut04076/mriData/sub-0285/anat/sub-0285_run-1_T1w.nii.gz"
+        },
+        {
+            "image": "/nesi/nobackup/aut04076/dataset/imagesTr/t1w_00525.nii.gz",
+            "source": "/nesi/nobackup/aut04076/mriData/sub-0700/anat/sub-0700_run-1_T1w.nii.gz"
+        },
+        {
+            "image": "/nesi/nobackup/aut04076/dataset/imagesTr/t1w_00526.nii.gz",
+            "source": "/nesi/nobackup/aut04076/mriData/sub-0626/anat/sub-0626_run-1_T1w.nii.gz"
+        },
+        {
+            "image": "/nesi/nobackup/aut04076/dataset/imagesTr/t1w_00527.nii.gz",
+            "source": "/nesi/nobackup/aut04076/mriData/sub-0306/anat/sub-0306_run-1_T1w.nii.gz"
+        },
+        {
+            "image": "/nesi/nobackup/aut04076/dataset/imagesTr/t1w_00528.nii.gz",
+            "source": "/nesi/nobackup/aut04076/mriData/sub-0315/anat/sub-0315_run-1_T1w.nii.gz"
+        },
+        {
+            "image": "/nesi/nobackup/aut04076/dataset/imagesTr/t1w_00529.nii.gz",
+            "source": "/nesi/nobackup/aut04076/mriData/sub-0107/anat/sub-0107_run-1_T1w.nii.gz"
+        },
+        {
+            "image": "/nesi/nobackup/aut04076/dataset/imagesTr/t1w_00530.nii.gz",
+            "source": "/nesi/nobackup/aut04076/mriData/sub-0916/anat/sub-0916_run-1_T1w.nii.gz"
+        },
+        {
+            "image": "/nesi/nobackup/aut04076/dataset/imagesTr/t1w_00531.nii.gz",
+            "source": "/nesi/nobackup/aut04076/mriData/sub-0274/anat/sub-0274_run-1_T1w.nii.gz"
+        },
+        {
+            "image": "/nesi/nobackup/aut04076/dataset/imagesTr/t1w_00532.nii.gz",
+            "source": "/nesi/nobackup/aut04076/mriData/sub-0476/anat/sub-0476_run-1_T1w.nii.gz"
+        },
+        {
+            "image": "/nesi/nobackup/aut04076/dataset/imagesTr/t1w_00533.nii.gz",
+            "source": "/nesi/nobackup/aut04076/mriData/sub-0301/anat/sub-0301_run-1_T1w.nii.gz"
+        },
+        {
+            "image": "/nesi/nobackup/aut04076/dataset/imagesTr/t1w_00534.nii.gz",
+            "source": "/nesi/nobackup/aut04076/mriData/sub-0081/anat/sub-0081_run-1_T1w.nii.gz"
+        },
+        {
+            "image": "/nesi/nobackup/aut04076/dataset/imagesTr/t1w_00535.nii.gz",
+            "source": "/nesi/nobackup/aut04076/mriData/sub-0829/anat/sub-0829_run-1_T1w.nii.gz"
+        },
+        {
+            "image": "/nesi/nobackup/aut04076/dataset/imagesTr/t1w_00536.nii.gz",
+            "source": "/nesi/nobackup/aut04076/mriData/sub-0538/anat/sub-0538_run-1_T1w.nii.gz"
+        },
+        {
+            "image": "/nesi/nobackup/aut04076/dataset/imagesTr/t1w_00537.nii.gz",
+            "source": "/nesi/nobackup/aut04076/mriData/sub-0050/anat/sub-0050_run-1_T1w.nii.gz"
+        },
+        {
+            "image": "/nesi/nobackup/aut04076/dataset/imagesTr/t1w_00538.nii.gz",
+            "source": "/nesi/nobackup/aut04076/mriData/sub-0873/anat/sub-0873_run-1_T1w.nii.gz"
+        },
+        {
+            "image": "/nesi/nobackup/aut04076/dataset/imagesTr/t1w_00539.nii.gz",
+            "source": "/nesi/nobackup/aut04076/mriData/sub-0564/anat/sub-0564_run-1_T1w.nii.gz"
+        },
+        {
+            "image": "/nesi/nobackup/aut04076/dataset/imagesTr/t1w_00540.nii.gz",
+            "source": "/nesi/nobackup/aut04076/mriData/sub-0157/anat/sub-0157_run-1_T1w.nii.gz"
+        },
+        {
+            "image": "/nesi/nobackup/aut04076/dataset/imagesTr/t1w_00541.nii.gz",
+            "source": "/nesi/nobackup/aut04076/mriData/sub-0816/anat/sub-0816_run-1_T1w.nii.gz"
+        },
+        {
+            "image": "/nesi/nobackup/aut04076/dataset/imagesTr/t1w_00542.nii.gz",
+            "source": "/nesi/nobackup/aut04076/mriData/sub-0393/anat/sub-0393_run-1_T1w.nii.gz"
+        },
+        {
+            "image": "/nesi/nobackup/aut04076/dataset/imagesTr/t1w_00543.nii.gz",
+            "source": "/nesi/nobackup/aut04076/mriData/sub-0465/anat/sub-0465_run-1_T1w.nii.gz"
+        },
+        {
+            "image": "/nesi/nobackup/aut04076/dataset/imagesTr/t1w_00544.nii.gz",
+            "source": "/nesi/nobackup/aut04076/mriData/sub-0563/anat/sub-0563_run-1_T1w.nii.gz"
+        },
+        {
+            "image": "/nesi/nobackup/aut04076/dataset/imagesTr/t1w_00545.nii.gz",
+            "source": "/nesi/nobackup/aut04076/mriData/sub-0622/anat/sub-0622_run-1_T1w.nii.gz"
+        },
+        {
+            "image": "/nesi/nobackup/aut04076/dataset/imagesTr/t1w_00546.nii.gz",
+            "source": "/nesi/nobackup/aut04076/mriData/sub-0019/anat/sub-0019_run-1_T1w.nii.gz"
+        },
+        {
+            "image": "/nesi/nobackup/aut04076/dataset/imagesTr/t1w_00547.nii.gz",
+            "source": "/nesi/nobackup/aut04076/mriData/sub-0055/anat/sub-0055_run-1_T1w.nii.gz"
+        },
+        {
+            "image": "/nesi/nobackup/aut04076/dataset/imagesTr/t1w_00548.nii.gz",
+            "source": "/nesi/nobackup/aut04076/mriData/sub-0731/anat/sub-0731_run-1_T1w.nii.gz"
+        },
+        {
+            "image": "/nesi/nobackup/aut04076/dataset/imagesTr/t1w_00549.nii.gz",
+            "source": "/nesi/nobackup/aut04076/mriData/sub-0777/anat/sub-0777_run-1_T1w.nii.gz"
+        },
+        {
+            "image": "/nesi/nobackup/aut04076/dataset/imagesTr/t1w_00550.nii.gz",
+            "source": "/nesi/nobackup/aut04076/mriData/sub-0126/anat/sub-0126_run-1_T1w.nii.gz"
+        },
+        {
+            "image": "/nesi/nobackup/aut04076/dataset/imagesTr/t1w_00551.nii.gz",
+            "source": "/nesi/nobackup/aut04076/mriData/sub-0635/anat/sub-0635_run-1_T1w.nii.gz"
+        },
+        {
+            "image": "/nesi/nobackup/aut04076/dataset/imagesTr/t1w_00552.nii.gz",
+            "source": "/nesi/nobackup/aut04076/mriData/sub-0015/anat/sub-0015_run-1_T1w.nii.gz"
+        },
+        {
+            "image": "/nesi/nobackup/aut04076/dataset/imagesTr/t1w_00553.nii.gz",
+            "source": "/nesi/nobackup/aut04076/mriData/sub-0831/anat/sub-0831_run-1_T1w.nii.gz"
+        },
+        {
+            "image": "/nesi/nobackup/aut04076/dataset/imagesTr/t1w_00554.nii.gz",
+            "source": "/nesi/nobackup/aut04076/mriData/sub-0445/anat/sub-0445_run-1_T1w.nii.gz"
+        },
+        {
+            "image": "/nesi/nobackup/aut04076/dataset/imagesTr/t1w_00555.nii.gz",
+            "source": "/nesi/nobackup/aut04076/mriData/sub-0414/anat/sub-0414_run-1_T1w.nii.gz"
+        },
+        {
+            "image": "/nesi/nobackup/aut04076/dataset/imagesTr/t1w_00556.nii.gz",
+            "source": "/nesi/nobackup/aut04076/mriData/sub-0691/anat/sub-0691_run-1_T1w.nii.gz"
+        },
+        {
+            "image": "/nesi/nobackup/aut04076/dataset/imagesTr/t1w_00557.nii.gz",
+            "source": "/nesi/nobackup/aut04076/mriData/sub-0426/anat/sub-0426_run-1_T1w.nii.gz"
+        },
+        {
+            "image": "/nesi/nobackup/aut04076/dataset/imagesTr/t1w_00558.nii.gz",
+            "source": "/nesi/nobackup/aut04076/mriData/sub-0307/anat/sub-0307_run-1_T1w.nii.gz"
+        },
+        {
+            "image": "/nesi/nobackup/aut04076/dataset/imagesTr/t1w_00559.nii.gz",
+            "source": "/nesi/nobackup/aut04076/mriData/sub-0299/anat/sub-0299_run-1_T1w.nii.gz"
+        },
+        {
+            "image": "/nesi/nobackup/aut04076/dataset/imagesTr/t1w_00560.nii.gz",
+            "source": "/nesi/nobackup/aut04076/mriData/sub-0576/anat/sub-0576_run-1_T1w.nii.gz"
+        },
+        {
+            "image": "/nesi/nobackup/aut04076/dataset/imagesTr/t1w_00561.nii.gz",
+            "source": "/nesi/nobackup/aut04076/mriData/sub-0839/anat/sub-0839_run-1_T1w.nii.gz"
+        },
+        {
+            "image": "/nesi/nobackup/aut04076/dataset/imagesTr/t1w_00562.nii.gz",
+            "source": "/nesi/nobackup/aut04076/mriData/sub-0528/anat/sub-0528_run-1_T1w.nii.gz"
+        },
+        {
+            "image": "/nesi/nobackup/aut04076/dataset/imagesTr/t1w_00563.nii.gz",
+            "source": "/nesi/nobackup/aut04076/mriData/sub-0283/anat/sub-0283_run-1_T1w.nii.gz"
+        },
+        {
+            "image": "/nesi/nobackup/aut04076/dataset/imagesTr/t1w_00564.nii.gz",
+            "source": "/nesi/nobackup/aut04076/mriData/sub-0440/anat/sub-0440_run-1_T1w.nii.gz"
+        },
+        {
+            "image": "/nesi/nobackup/aut04076/dataset/imagesTr/t1w_00565.nii.gz",
+            "source": "/nesi/nobackup/aut04076/mriData/sub-0099/anat/sub-0099_run-1_T1w.nii.gz"
+        },
+        {
+            "image": "/nesi/nobackup/aut04076/dataset/imagesTr/t1w_00566.nii.gz",
+            "source": "/nesi/nobackup/aut04076/mriData/sub-0523/anat/sub-0523_run-1_T1w.nii.gz"
+        },
+        {
+            "image": "/nesi/nobackup/aut04076/dataset/imagesTr/t1w_00567.nii.gz",
+            "source": "/nesi/nobackup/aut04076/mriData/sub-0880/anat/sub-0880_run-1_T1w.nii.gz"
+        },
+        {
+            "image": "/nesi/nobackup/aut04076/dataset/imagesTr/t1w_00568.nii.gz",
+            "source": "/nesi/nobackup/aut04076/mriData/sub-0837/anat/sub-0837_run-1_T1w.nii.gz"
+        },
+        {
+            "image": "/nesi/nobackup/aut04076/dataset/imagesTr/t1w_00569.nii.gz",
+            "source": "/nesi/nobackup/aut04076/mriData/sub-0054/anat/sub-0054_run-1_T1w.nii.gz"
+        },
+        {
+            "image": "/nesi/nobackup/aut04076/dataset/imagesTr/t1w_00570.nii.gz",
+            "source": "/nesi/nobackup/aut04076/mriData/sub-0404/anat/sub-0404_run-1_T1w.nii.gz"
+        },
+        {
+            "image": "/nesi/nobackup/aut04076/dataset/imagesTr/t1w_00571.nii.gz",
+            "source": "/nesi/nobackup/aut04076/mriData/sub-0908/anat/sub-0908_run-1_T1w.nii.gz"
+        },
+        {
+            "image": "/nesi/nobackup/aut04076/dataset/imagesTr/t1w_00572.nii.gz",
+            "source": "/nesi/nobackup/aut04076/mriData/sub-0549/anat/sub-0549_run-1_T1w.nii.gz"
+        },
+        {
+            "image": "/nesi/nobackup/aut04076/dataset/imagesTr/t1w_00573.nii.gz",
+            "source": "/nesi/nobackup/aut04076/mriData/sub-0348/anat/sub-0348_run-1_T1w.nii.gz"
+        },
+        {
+            "image": "/nesi/nobackup/aut04076/dataset/imagesTr/t1w_00574.nii.gz",
+            "source": "/nesi/nobackup/aut04076/mriData/sub-0671/anat/sub-0671_run-1_T1w.nii.gz"
+        },
+        {
+            "image": "/nesi/nobackup/aut04076/dataset/imagesTr/t1w_00575.nii.gz",
+            "source": "/nesi/nobackup/aut04076/mriData/sub-0835/anat/sub-0835_run-1_T1w.nii.gz"
+        },
+        {
+            "image": "/nesi/nobackup/aut04076/dataset/imagesTr/t1w_00576.nii.gz",
+            "source": "/nesi/nobackup/aut04076/mriData/sub-0909/anat/sub-0909_run-1_T1w.nii.gz"
+        },
+        {
+            "image": "/nesi/nobackup/aut04076/dataset/imagesTr/t1w_00577.nii.gz",
+            "source": "/nesi/nobackup/aut04076/mriData/sub-0103/anat/sub-0103_run-1_T1w.nii.gz"
+        },
+        {
+            "image": "/nesi/nobackup/aut04076/dataset/imagesTr/t1w_00578.nii.gz",
+            "source": "/nesi/nobackup/aut04076/mriData/sub-0002/anat/sub-0002_run-1_T1w.nii.gz"
+        },
+        {
+            "image": "/nesi/nobackup/aut04076/dataset/imagesTr/t1w_00579.nii.gz",
+            "source": "/nesi/nobackup/aut04076/mriData/sub-0741/anat/sub-0741_run-1_T1w.nii.gz"
+        },
+        {
+            "image": "/nesi/nobackup/aut04076/dataset/imagesTr/t1w_00580.nii.gz",
+            "source": "/nesi/nobackup/aut04076/mriData/sub-0334/anat/sub-0334_run-1_T1w.nii.gz"
+        },
+        {
+            "image": "/nesi/nobackup/aut04076/dataset/imagesTr/t1w_00581.nii.gz",
+            "source": "/nesi/nobackup/aut04076/mriData/sub-0745/anat/sub-0745_run-1_T1w.nii.gz"
+        },
+        {
+            "image": "/nesi/nobackup/aut04076/dataset/imagesTr/t1w_00582.nii.gz",
+            "source": "/nesi/nobackup/aut04076/mriData/sub-0531/anat/sub-0531_run-1_T1w.nii.gz"
+        },
+        {
+            "image": "/nesi/nobackup/aut04076/dataset/imagesTr/t1w_00583.nii.gz",
+            "source": "/nesi/nobackup/aut04076/mriData/sub-0144/anat/sub-0144_run-1_T1w.nii.gz"
+        },
+        {
+            "image": "/nesi/nobackup/aut04076/dataset/imagesTr/t1w_00584.nii.gz",
+            "source": "/nesi/nobackup/aut04076/mriData/sub-0018/anat/sub-0018_run-1_T1w.nii.gz"
+        },
+        {
+            "image": "/nesi/nobackup/aut04076/dataset/imagesTr/t1w_00585.nii.gz",
+            "source": "/nesi/nobackup/aut04076/mriData/sub-0779/anat/sub-0779_run-1_T1w.nii.gz"
+        },
+        {
+            "image": "/nesi/nobackup/aut04076/dataset/imagesTr/t1w_00586.nii.gz",
+            "source": "/nesi/nobackup/aut04076/mriData/sub-0230/anat/sub-0230_run-1_T1w.nii.gz"
+        },
+        {
+            "image": "/nesi/nobackup/aut04076/dataset/imagesTr/t1w_00587.nii.gz",
+            "source": "/nesi/nobackup/aut04076/mriData/sub-0090/anat/sub-0090_run-1_T1w.nii.gz"
+        },
+        {
+            "image": "/nesi/nobackup/aut04076/dataset/imagesTr/t1w_00588.nii.gz",
+            "source": "/nesi/nobackup/aut04076/mriData/sub-0600/anat/sub-0600_run-1_T1w.nii.gz"
+        },
+        {
+            "image": "/nesi/nobackup/aut04076/dataset/imagesTr/t1w_00589.nii.gz",
+            "source": "/nesi/nobackup/aut04076/mriData/sub-0174/anat/sub-0174_run-1_T1w.nii.gz"
+        },
+        {
+            "image": "/nesi/nobackup/aut04076/dataset/imagesTr/t1w_00590.nii.gz",
+            "source": "/nesi/nobackup/aut04076/mriData/sub-0251/anat/sub-0251_run-1_T1w.nii.gz"
+        },
+        {
+            "image": "/nesi/nobackup/aut04076/dataset/imagesTr/t1w_00591.nii.gz",
+            "source": "/nesi/nobackup/aut04076/mriData/sub-0648/anat/sub-0648_run-1_T1w.nii.gz"
+        },
+        {
+            "image": "/nesi/nobackup/aut04076/dataset/imagesTr/t1w_00592.nii.gz",
+            "source": "/nesi/nobackup/aut04076/mriData/sub-0395/anat/sub-0395_run-1_T1w.nii.gz"
+        },
+        {
+            "image": "/nesi/nobackup/aut04076/dataset/imagesTr/t1w_00593.nii.gz",
+            "source": "/nesi/nobackup/aut04076/mriData/sub-0535/anat/sub-0535_run-1_T1w.nii.gz"
+        },
+        {
+            "image": "/nesi/nobackup/aut04076/dataset/imagesTr/t1w_00594.nii.gz",
+            "source": "/nesi/nobackup/aut04076/mriData/sub-0704/anat/sub-0704_run-1_T1w.nii.gz"
+        },
+        {
+            "image": "/nesi/nobackup/aut04076/dataset/imagesTr/t1w_00595.nii.gz",
+            "source": "/nesi/nobackup/aut04076/mriData/sub-0822/anat/sub-0822_run-1_T1w.nii.gz"
+        },
+        {
+            "image": "/nesi/nobackup/aut04076/dataset/imagesTr/t1w_00596.nii.gz",
+            "source": "/nesi/nobackup/aut04076/mriData/sub-0070/anat/sub-0070_run-1_T1w.nii.gz"
+        },
+        {
+            "image": "/nesi/nobackup/aut04076/dataset/imagesTr/t1w_00597.nii.gz",
+            "source": "/nesi/nobackup/aut04076/mriData/sub-0116/anat/sub-0116_run-1_T1w.nii.gz"
+        },
+        {
+            "image": "/nesi/nobackup/aut04076/dataset/imagesTr/t1w_00598.nii.gz",
+            "source": "/nesi/nobackup/aut04076/mriData/sub-0627/anat/sub-0627_run-1_T1w.nii.gz"
+        },
+        {
+            "image": "/nesi/nobackup/aut04076/dataset/imagesTr/t1w_00599.nii.gz",
+            "source": "/nesi/nobackup/aut04076/mriData/sub-0708/anat/sub-0708_run-1_T1w.nii.gz"
+        },
+        {
+            "image": "/nesi/nobackup/aut04076/dataset/imagesTr/t1w_00600.nii.gz",
+            "source": "/nesi/nobackup/aut04076/mriData/sub-0897/anat/sub-0897_run-1_T1w.nii.gz"
+        },
+        {
+            "image": "/nesi/nobackup/aut04076/dataset/imagesTr/t1w_00601.nii.gz",
+            "source": "/nesi/nobackup/aut04076/mriData/sub-0120/anat/sub-0120_run-1_T1w.nii.gz"
+        },
+        {
+            "image": "/nesi/nobackup/aut04076/dataset/imagesTr/t1w_00602.nii.gz",
+            "source": "/nesi/nobackup/aut04076/mriData/sub-0138/anat/sub-0138_run-1_T1w.nii.gz"
+        },
+        {
+            "image": "/nesi/nobackup/aut04076/dataset/imagesTr/t1w_00603.nii.gz",
+            "source": "/nesi/nobackup/aut04076/mriData/sub-0100/anat/sub-0100_run-1_T1w.nii.gz"
+        },
+        {
+            "image": "/nesi/nobackup/aut04076/dataset/imagesTr/t1w_00604.nii.gz",
+            "source": "/nesi/nobackup/aut04076/mriData/sub-0316/anat/sub-0316_run-1_T1w.nii.gz"
+        },
+        {
+            "image": "/nesi/nobackup/aut04076/dataset/imagesTr/t1w_00605.nii.gz",
+            "source": "/nesi/nobackup/aut04076/mriData/sub-0710/anat/sub-0710_run-1_T1w.nii.gz"
+        },
+        {
+            "image": "/nesi/nobackup/aut04076/dataset/imagesTr/t1w_00606.nii.gz",
+            "source": "/nesi/nobackup/aut04076/mriData/sub-0091/anat/sub-0091_run-1_T1w.nii.gz"
+        },
+        {
+            "image": "/nesi/nobackup/aut04076/dataset/imagesTr/t1w_00607.nii.gz",
+            "source": "/nesi/nobackup/aut04076/mriData/sub-0333/anat/sub-0333_run-1_T1w.nii.gz"
+        },
+        {
+            "image": "/nesi/nobackup/aut04076/dataset/imagesTr/t1w_00608.nii.gz",
+            "source": "/nesi/nobackup/aut04076/mriData/sub-0669/anat/sub-0669_run-1_T1w.nii.gz"
+        },
+        {
+            "image": "/nesi/nobackup/aut04076/dataset/imagesTr/t1w_00609.nii.gz",
+            "source": "/nesi/nobackup/aut04076/mriData/sub-0444/anat/sub-0444_run-1_T1w.nii.gz"
+        },
+        {
+            "image": "/nesi/nobackup/aut04076/dataset/imagesTr/t1w_00610.nii.gz",
+            "source": "/nesi/nobackup/aut04076/mriData/sub-0651/anat/sub-0651_run-1_T1w.nii.gz"
+        },
+        {
+            "image": "/nesi/nobackup/aut04076/dataset/imagesTr/t1w_00611.nii.gz",
+            "source": "/nesi/nobackup/aut04076/mriData/sub-0677/anat/sub-0677_run-1_T1w.nii.gz"
+        },
+        {
+            "image": "/nesi/nobackup/aut04076/dataset/imagesTr/t1w_00612.nii.gz",
+            "source": "/nesi/nobackup/aut04076/mriData/sub-0877/anat/sub-0877_run-1_T1w.nii.gz"
+        },
+        {
+            "image": "/nesi/nobackup/aut04076/dataset/imagesTr/t1w_00613.nii.gz",
+            "source": "/nesi/nobackup/aut04076/mriData/sub-0277/anat/sub-0277_run-1_T1w.nii.gz"
+        },
+        {
+            "image": "/nesi/nobackup/aut04076/dataset/imagesTr/t1w_00614.nii.gz",
+            "source": "/nesi/nobackup/aut04076/mriData/sub-0732/anat/sub-0732_run-1_T1w.nii.gz"
+        },
+        {
+            "image": "/nesi/nobackup/aut04076/dataset/imagesTr/t1w_00615.nii.gz",
+            "source": "/nesi/nobackup/aut04076/mriData/sub-0572/anat/sub-0572_run-1_T1w.nii.gz"
+        },
+        {
+            "image": "/nesi/nobackup/aut04076/dataset/imagesTr/t1w_00616.nii.gz",
+            "source": "/nesi/nobackup/aut04076/mriData/sub-0023/anat/sub-0023_run-1_T1w.nii.gz"
+        },
+        {
+            "image": "/nesi/nobackup/aut04076/dataset/imagesTr/t1w_00617.nii.gz",
+            "source": "/nesi/nobackup/aut04076/mriData/sub-0740/anat/sub-0740_run-1_T1w.nii.gz"
+        },
+        {
+            "image": "/nesi/nobackup/aut04076/dataset/imagesTr/t1w_00618.nii.gz",
+            "source": "/nesi/nobackup/aut04076/mriData/sub-0868/anat/sub-0868_run-1_T1w.nii.gz"
+        },
+        {
+            "image": "/nesi/nobackup/aut04076/dataset/imagesTr/t1w_00619.nii.gz",
+            "source": "/nesi/nobackup/aut04076/mriData/sub-0769/anat/sub-0769_run-1_T1w.nii.gz"
+        },
+        {
+            "image": "/nesi/nobackup/aut04076/dataset/imagesTr/t1w_00620.nii.gz",
+            "source": "/nesi/nobackup/aut04076/mriData/sub-0148/anat/sub-0148_run-1_T1w.nii.gz"
+        },
+        {
+            "image": "/nesi/nobackup/aut04076/dataset/imagesTr/t1w_00621.nii.gz",
+            "source": "/nesi/nobackup/aut04076/mriData/sub-0820/anat/sub-0820_run-1_T1w.nii.gz"
+        },
+        {
+            "image": "/nesi/nobackup/aut04076/dataset/imagesTr/t1w_00622.nii.gz",
+            "source": "/nesi/nobackup/aut04076/mriData/sub-0809/anat/sub-0809_run-1_T1w.nii.gz"
+        },
+        {
+            "image": "/nesi/nobackup/aut04076/dataset/imagesTr/t1w_00623.nii.gz",
+            "source": "/nesi/nobackup/aut04076/mriData/sub-0340/anat/sub-0340_run-1_T1w.nii.gz"
+        },
+        {
+            "image": "/nesi/nobackup/aut04076/dataset/imagesTr/t1w_00624.nii.gz",
+            "source": "/nesi/nobackup/aut04076/mriData/sub-0291/anat/sub-0291_run-1_T1w.nii.gz"
+        },
+        {
+            "image": "/nesi/nobackup/aut04076/dataset/imagesTr/t1w_00625.nii.gz",
+            "source": "/nesi/nobackup/aut04076/mriData/sub-0310/anat/sub-0310_run-1_T1w.nii.gz"
+        },
+        {
+            "image": "/nesi/nobackup/aut04076/dataset/imagesTr/t1w_00626.nii.gz",
+            "source": "/nesi/nobackup/aut04076/mriData/sub-0738/anat/sub-0738_run-1_T1w.nii.gz"
+        },
+        {
+            "image": "/nesi/nobackup/aut04076/dataset/imagesTr/t1w_00627.nii.gz",
+            "source": "/nesi/nobackup/aut04076/mriData/sub-0311/anat/sub-0311_run-1_T1w.nii.gz"
+        },
+        {
+            "image": "/nesi/nobackup/aut04076/dataset/imagesTr/t1w_00628.nii.gz",
+            "source": "/nesi/nobackup/aut04076/mriData/sub-0890/anat/sub-0890_run-1_T1w.nii.gz"
+        },
+        {
+            "image": "/nesi/nobackup/aut04076/dataset/imagesTr/t1w_00629.nii.gz",
+            "source": "/nesi/nobackup/aut04076/mriData/sub-0483/anat/sub-0483_run-1_T1w.nii.gz"
+        },
+        {
+            "image": "/nesi/nobackup/aut04076/dataset/imagesTr/t1w_00630.nii.gz",
+            "source": "/nesi/nobackup/aut04076/mriData/sub-0784/anat/sub-0784_run-1_T1w.nii.gz"
+        },
+        {
+            "image": "/nesi/nobackup/aut04076/dataset/imagesTr/t1w_00631.nii.gz",
+            "source": "/nesi/nobackup/aut04076/mriData/sub-0281/anat/sub-0281_run-1_T1w.nii.gz"
+        },
+        {
+            "image": "/nesi/nobackup/aut04076/dataset/imagesTr/t1w_00632.nii.gz",
+            "source": "/nesi/nobackup/aut04076/mriData/sub-0162/anat/sub-0162_run-1_T1w.nii.gz"
+        },
+        {
+            "image": "/nesi/nobackup/aut04076/dataset/imagesTr/t1w_00633.nii.gz",
+            "source": "/nesi/nobackup/aut04076/mriData/sub-0833/anat/sub-0833_run-1_T1w.nii.gz"
+        },
+        {
+            "image": "/nesi/nobackup/aut04076/dataset/imagesTr/t1w_00634.nii.gz",
+            "source": "/nesi/nobackup/aut04076/mriData/sub-0727/anat/sub-0727_run-1_T1w.nii.gz"
+        },
+        {
+            "image": "/nesi/nobackup/aut04076/dataset/imagesTr/t1w_00635.nii.gz",
+            "source": "/nesi/nobackup/aut04076/mriData/sub-0248/anat/sub-0248_run-1_T1w.nii.gz"
+        },
+        {
+            "image": "/nesi/nobackup/aut04076/dataset/imagesTr/t1w_00636.nii.gz",
+            "source": "/nesi/nobackup/aut04076/mriData/sub-0516/anat/sub-0516_run-1_T1w.nii.gz"
+        },
+        {
+            "image": "/nesi/nobackup/aut04076/dataset/imagesTr/t1w_00637.nii.gz",
+            "source": "/nesi/nobackup/aut04076/mriData/sub-0862/anat/sub-0862_run-1_T1w.nii.gz"
+        },
+        {
+            "image": "/nesi/nobackup/aut04076/dataset/imagesTr/t1w_00638.nii.gz",
+            "source": "/nesi/nobackup/aut04076/mriData/sub-0177/anat/sub-0177_run-1_T1w.nii.gz"
+        },
+        {
+            "image": "/nesi/nobackup/aut04076/dataset/imagesTr/t1w_00639.nii.gz",
+            "source": "/nesi/nobackup/aut04076/mriData/sub-0915/anat/sub-0915_run-1_T1w.nii.gz"
+        },
+        {
+            "image": "/nesi/nobackup/aut04076/dataset/imagesTr/t1w_00640.nii.gz",
+            "source": "/nesi/nobackup/aut04076/mriData/sub-0412/anat/sub-0412_run-1_T1w.nii.gz"
+        },
+        {
+            "image": "/nesi/nobackup/aut04076/dataset/imagesTr/t1w_00641.nii.gz",
+            "source": "/nesi/nobackup/aut04076/mriData/sub-0803/anat/sub-0803_run-1_T1w.nii.gz"
+        },
+        {
+            "image": "/nesi/nobackup/aut04076/dataset/imagesTr/t1w_00642.nii.gz",
+            "source": "/nesi/nobackup/aut04076/mriData/sub-0143/anat/sub-0143_run-1_T1w.nii.gz"
+        },
+        {
+            "image": "/nesi/nobackup/aut04076/dataset/imagesTr/t1w_00643.nii.gz",
+            "source": "/nesi/nobackup/aut04076/mriData/sub-0170/anat/sub-0170_run-1_T1w.nii.gz"
+        },
+        {
+            "image": "/nesi/nobackup/aut04076/dataset/imagesTr/t1w_00644.nii.gz",
+            "source": "/nesi/nobackup/aut04076/mriData/sub-0406/anat/sub-0406_run-1_T1w.nii.gz"
+        },
+        {
+            "image": "/nesi/nobackup/aut04076/dataset/imagesTr/t1w_00645.nii.gz",
+            "source": "/nesi/nobackup/aut04076/mriData/sub-0623/anat/sub-0623_run-1_T1w.nii.gz"
+        },
+        {
+            "image": "/nesi/nobackup/aut04076/dataset/imagesTr/t1w_00646.nii.gz",
+            "source": "/nesi/nobackup/aut04076/mriData/sub-0696/anat/sub-0696_run-1_T1w.nii.gz"
+        },
+        {
+            "image": "/nesi/nobackup/aut04076/dataset/imagesTr/t1w_00647.nii.gz",
+            "source": "/nesi/nobackup/aut04076/mriData/sub-0189/anat/sub-0189_run-1_T1w.nii.gz"
+        },
+        {
+            "image": "/nesi/nobackup/aut04076/dataset/imagesTr/t1w_00648.nii.gz",
+            "source": "/nesi/nobackup/aut04076/mriData/sub-0270/anat/sub-0270_run-1_T1w.nii.gz"
+        },
+        {
+            "image": "/nesi/nobackup/aut04076/dataset/imagesTr/t1w_00649.nii.gz",
+            "source": "/nesi/nobackup/aut04076/mriData/sub-0521/anat/sub-0521_run-1_T1w.nii.gz"
+        },
+        {
+            "image": "/nesi/nobackup/aut04076/dataset/imagesTr/t1w_00650.nii.gz",
+            "source": "/nesi/nobackup/aut04076/mriData/sub-0548/anat/sub-0548_run-1_T1w.nii.gz"
+        },
+        {
+            "image": "/nesi/nobackup/aut04076/dataset/imagesTr/t1w_00651.nii.gz",
+            "source": "/nesi/nobackup/aut04076/mriData/sub-0056/anat/sub-0056_run-1_T1w.nii.gz"
+        },
+        {
+            "image": "/nesi/nobackup/aut04076/dataset/imagesTr/t1w_00652.nii.gz",
+            "source": "/nesi/nobackup/aut04076/mriData/sub-0871/anat/sub-0871_run-1_T1w.nii.gz"
+        },
+        {
+            "image": "/nesi/nobackup/aut04076/dataset/imagesTr/t1w_00653.nii.gz",
+            "source": "/nesi/nobackup/aut04076/mriData/sub-0345/anat/sub-0345_run-1_T1w.nii.gz"
+        },
+        {
+            "image": "/nesi/nobackup/aut04076/dataset/imagesTr/t1w_00654.nii.gz",
+            "source": "/nesi/nobackup/aut04076/mriData/sub-0922/anat/sub-0922_run-1_T1w.nii.gz"
+        },
+        {
+            "image": "/nesi/nobackup/aut04076/dataset/imagesTr/t1w_00655.nii.gz",
+            "source": "/nesi/nobackup/aut04076/mriData/sub-0846/anat/sub-0846_run-1_T1w.nii.gz"
+        },
+        {
+            "image": "/nesi/nobackup/aut04076/dataset/imagesTr/t1w_00656.nii.gz",
+            "source": "/nesi/nobackup/aut04076/mriData/sub-0011/anat/sub-0011_run-1_T1w.nii.gz"
+        },
+        {
+            "image": "/nesi/nobackup/aut04076/dataset/imagesTr/t1w_00657.nii.gz",
+            "source": "/nesi/nobackup/aut04076/mriData/sub-0636/anat/sub-0636_run-1_T1w.nii.gz"
+        },
+        {
+            "image": "/nesi/nobackup/aut04076/dataset/imagesTr/t1w_00658.nii.gz",
+            "source": "/nesi/nobackup/aut04076/mriData/sub-0690/anat/sub-0690_run-1_T1w.nii.gz"
+        },
+        {
+            "image": "/nesi/nobackup/aut04076/dataset/imagesTr/t1w_00659.nii.gz",
+            "source": "/nesi/nobackup/aut04076/mriData/sub-0278/anat/sub-0278_run-1_T1w.nii.gz"
+        },
+        {
+            "image": "/nesi/nobackup/aut04076/dataset/imagesTr/t1w_00660.nii.gz",
+            "source": "/nesi/nobackup/aut04076/mriData/sub-0501/anat/sub-0501_run-1_T1w.nii.gz"
+        },
+        {
+            "image": "/nesi/nobackup/aut04076/dataset/imagesTr/t1w_00661.nii.gz",
+            "source": "/nesi/nobackup/aut04076/mriData/sub-0132/anat/sub-0132_run-1_T1w.nii.gz"
+        },
+        {
+            "image": "/nesi/nobackup/aut04076/dataset/imagesTr/t1w_00662.nii.gz",
+            "source": "/nesi/nobackup/aut04076/mriData/sub-0006/anat/sub-0006_run-1_T1w.nii.gz"
+        },
+        {
+            "image": "/nesi/nobackup/aut04076/dataset/imagesTr/t1w_00663.nii.gz",
+            "source": "/nesi/nobackup/aut04076/mriData/sub-0579/anat/sub-0579_run-1_T1w.nii.gz"
+        },
+        {
+            "image": "/nesi/nobackup/aut04076/dataset/imagesTr/t1w_00664.nii.gz",
+            "source": "/nesi/nobackup/aut04076/mriData/sub-0553/anat/sub-0553_run-1_T1w.nii.gz"
+        },
+        {
+            "image": "/nesi/nobackup/aut04076/dataset/imagesTr/t1w_00665.nii.gz",
+            "source": "/nesi/nobackup/aut04076/mriData/sub-0167/anat/sub-0167_run-1_T1w.nii.gz"
+        },
+        {
+            "image": "/nesi/nobackup/aut04076/dataset/imagesTr/t1w_00666.nii.gz",
+            "source": "/nesi/nobackup/aut04076/mriData/sub-0026/anat/sub-0026_run-1_T1w.nii.gz"
+        },
+        {
+            "image": "/nesi/nobackup/aut04076/dataset/imagesTr/t1w_00667.nii.gz",
+            "source": "/nesi/nobackup/aut04076/mriData/sub-0612/anat/sub-0612_run-1_T1w.nii.gz"
+        },
+        {
+            "image": "/nesi/nobackup/aut04076/dataset/imagesTr/t1w_00668.nii.gz",
+            "source": "/nesi/nobackup/aut04076/mriData/sub-0040/anat/sub-0040_run-1_T1w.nii.gz"
+        },
+        {
+            "image": "/nesi/nobackup/aut04076/dataset/imagesTr/t1w_00669.nii.gz",
+            "source": "/nesi/nobackup/aut04076/mriData/sub-0153/anat/sub-0153_run-1_T1w.nii.gz"
+        },
+        {
+            "image": "/nesi/nobackup/aut04076/dataset/imagesTr/t1w_00670.nii.gz",
+            "source": "/nesi/nobackup/aut04076/mriData/sub-0616/anat/sub-0616_run-1_T1w.nii.gz"
+        },
+        {
+            "image": "/nesi/nobackup/aut04076/dataset/imagesTr/t1w_00671.nii.gz",
+            "source": "/nesi/nobackup/aut04076/mriData/sub-0736/anat/sub-0736_run-1_T1w.nii.gz"
+        },
+        {
+            "image": "/nesi/nobackup/aut04076/dataset/imagesTr/t1w_00672.nii.gz",
+            "source": "/nesi/nobackup/aut04076/mriData/sub-0869/anat/sub-0869_run-1_T1w.nii.gz"
+        },
+        {
+            "image": "/nesi/nobackup/aut04076/dataset/imagesTr/t1w_00673.nii.gz",
+            "source": "/nesi/nobackup/aut04076/mriData/sub-0428/anat/sub-0428_run-1_T1w.nii.gz"
+        },
+        {
+            "image": "/nesi/nobackup/aut04076/dataset/imagesTr/t1w_00674.nii.gz",
+            "source": "/nesi/nobackup/aut04076/mriData/sub-0275/anat/sub-0275_run-1_T1w.nii.gz"
+        },
+        {
+            "image": "/nesi/nobackup/aut04076/dataset/imagesTr/t1w_00675.nii.gz",
+            "source": "/nesi/nobackup/aut04076/mriData/sub-0603/anat/sub-0603_run-1_T1w.nii.gz"
+        },
+        {
+            "image": "/nesi/nobackup/aut04076/dataset/imagesTr/t1w_00676.nii.gz",
+            "source": "/nesi/nobackup/aut04076/mriData/sub-0851/anat/sub-0851_run-1_T1w.nii.gz"
+        },
+        {
+            "image": "/nesi/nobackup/aut04076/dataset/imagesTr/t1w_00677.nii.gz",
+            "source": "/nesi/nobackup/aut04076/mriData/sub-0799/anat/sub-0799_run-1_T1w.nii.gz"
+        },
+        {
+            "image": "/nesi/nobackup/aut04076/dataset/imagesTr/t1w_00678.nii.gz",
+            "source": "/nesi/nobackup/aut04076/mriData/sub-0917/anat/sub-0917_run-1_T1w.nii.gz"
+        },
+        {
+            "image": "/nesi/nobackup/aut04076/dataset/imagesTr/t1w_00679.nii.gz",
+            "source": "/nesi/nobackup/aut04076/mriData/sub-0124/anat/sub-0124_run-1_T1w.nii.gz"
+        },
+        {
+            "image": "/nesi/nobackup/aut04076/dataset/imagesTr/t1w_00680.nii.gz",
+            "source": "/nesi/nobackup/aut04076/mriData/sub-0557/anat/sub-0557_run-1_T1w.nii.gz"
+        },
+        {
+            "image": "/nesi/nobackup/aut04076/dataset/imagesTr/t1w_00681.nii.gz",
+            "source": "/nesi/nobackup/aut04076/mriData/sub-0657/anat/sub-0657_run-1_T1w.nii.gz"
+        },
+        {
+            "image": "/nesi/nobackup/aut04076/dataset/imagesTr/t1w_00682.nii.gz",
+            "source": "/nesi/nobackup/aut04076/mriData/sub-0588/anat/sub-0588_run-1_T1w.nii.gz"
+        },
+        {
+            "image": "/nesi/nobackup/aut04076/dataset/imagesTr/t1w_00683.nii.gz",
+            "source": "/nesi/nobackup/aut04076/mriData/sub-0808/anat/sub-0808_run-1_T1w.nii.gz"
+        },
+        {
+            "image": "/nesi/nobackup/aut04076/dataset/imagesTr/t1w_00684.nii.gz",
+            "source": "/nesi/nobackup/aut04076/mriData/sub-0058/anat/sub-0058_run-1_T1w.nii.gz"
+        },
+        {
+            "image": "/nesi/nobackup/aut04076/dataset/imagesTr/t1w_00685.nii.gz",
+            "source": "/nesi/nobackup/aut04076/mriData/sub-0005/anat/sub-0005_run-1_T1w.nii.gz"
+        },
+        {
+            "image": "/nesi/nobackup/aut04076/dataset/imagesTr/t1w_00686.nii.gz",
+            "source": "/nesi/nobackup/aut04076/mriData/sub-0031/anat/sub-0031_run-1_T1w.nii.gz"
+        },
+        {
+            "image": "/nesi/nobackup/aut04076/dataset/imagesTr/t1w_00687.nii.gz",
+            "source": "/nesi/nobackup/aut04076/mriData/sub-0346/anat/sub-0346_run-1_T1w.nii.gz"
+        },
+        {
+            "image": "/nesi/nobackup/aut04076/dataset/imagesTr/t1w_00688.nii.gz",
+            "source": "/nesi/nobackup/aut04076/mriData/sub-0300/anat/sub-0300_run-1_T1w.nii.gz"
+        },
+        {
+            "image": "/nesi/nobackup/aut04076/dataset/imagesTr/t1w_00689.nii.gz",
+            "source": "/nesi/nobackup/aut04076/mriData/sub-0373/anat/sub-0373_run-1_T1w.nii.gz"
+        },
+        {
+            "image": "/nesi/nobackup/aut04076/dataset/imagesTr/t1w_00690.nii.gz",
+            "source": "/nesi/nobackup/aut04076/mriData/sub-0039/anat/sub-0039_run-1_T1w.nii.gz"
+        },
+        {
+            "image": "/nesi/nobackup/aut04076/dataset/imagesTr/t1w_00691.nii.gz",
+            "source": "/nesi/nobackup/aut04076/mriData/sub-0411/anat/sub-0411_run-1_T1w.nii.gz"
+        },
+        {
+            "image": "/nesi/nobackup/aut04076/dataset/imagesTr/t1w_00692.nii.gz",
+            "source": "/nesi/nobackup/aut04076/mriData/sub-0737/anat/sub-0737_run-1_T1w.nii.gz"
+        },
+        {
+            "image": "/nesi/nobackup/aut04076/dataset/imagesTr/t1w_00693.nii.gz",
+            "source": "/nesi/nobackup/aut04076/mriData/sub-0886/anat/sub-0886_run-1_T1w.nii.gz"
+        },
+        {
+            "image": "/nesi/nobackup/aut04076/dataset/imagesTr/t1w_00694.nii.gz",
+            "source": "/nesi/nobackup/aut04076/mriData/sub-0569/anat/sub-0569_run-1_T1w.nii.gz"
+        },
+        {
+            "image": "/nesi/nobackup/aut04076/dataset/imagesTr/t1w_00695.nii.gz",
+            "source": "/nesi/nobackup/aut04076/mriData/sub-0003/anat/sub-0003_run-1_T1w.nii.gz"
+        },
+        {
+            "image": "/nesi/nobackup/aut04076/dataset/imagesTr/t1w_00696.nii.gz",
+            "source": "/nesi/nobackup/aut04076/mriData/sub-0094/anat/sub-0094_run-1_T1w.nii.gz"
+        },
+        {
+            "image": "/nesi/nobackup/aut04076/dataset/imagesTr/t1w_00697.nii.gz",
+            "source": "/nesi/nobackup/aut04076/mriData/sub-0294/anat/sub-0294_run-1_T1w.nii.gz"
+        },
+        {
+            "image": "/nesi/nobackup/aut04076/dataset/imagesTr/t1w_00698.nii.gz",
+            "source": "/nesi/nobackup/aut04076/mriData/sub-0625/anat/sub-0625_run-1_T1w.nii.gz"
+        },
+        {
+            "image": "/nesi/nobackup/aut04076/dataset/imagesTr/t1w_00699.nii.gz",
+            "source": "/nesi/nobackup/aut04076/mriData/sub-0684/anat/sub-0684_run-1_T1w.nii.gz"
+        },
+        {
+            "image": "/nesi/nobackup/aut04076/dataset/imagesTr/t1w_00700.nii.gz",
+            "source": "/nesi/nobackup/aut04076/mriData/sub-0631/anat/sub-0631_run-1_T1w.nii.gz"
+        },
+        {
+            "image": "/nesi/nobackup/aut04076/dataset/imagesTr/t1w_00701.nii.gz",
+            "source": "/nesi/nobackup/aut04076/mriData/sub-0670/anat/sub-0670_run-1_T1w.nii.gz"
+        },
+        {
+            "image": "/nesi/nobackup/aut04076/dataset/imagesTr/t1w_00702.nii.gz",
+            "source": "/nesi/nobackup/aut04076/mriData/sub-0606/anat/sub-0606_run-1_T1w.nii.gz"
+        },
+        {
+            "image": "/nesi/nobackup/aut04076/dataset/imagesTr/t1w_00703.nii.gz",
+            "source": "/nesi/nobackup/aut04076/mriData/sub-0861/anat/sub-0861_run-1_T1w.nii.gz"
+        },
+        {
+            "image": "/nesi/nobackup/aut04076/dataset/imagesTr/t1w_00704.nii.gz",
+            "source": "/nesi/nobackup/aut04076/mriData/sub-0679/anat/sub-0679_run-1_T1w.nii.gz"
+        },
+        {
+            "image": "/nesi/nobackup/aut04076/dataset/imagesTr/t1w_00705.nii.gz",
+            "source": "/nesi/nobackup/aut04076/mriData/sub-0884/anat/sub-0884_run-1_T1w.nii.gz"
+        },
+        {
+            "image": "/nesi/nobackup/aut04076/dataset/imagesTr/t1w_00706.nii.gz",
+            "source": "/nesi/nobackup/aut04076/mriData/sub-0715/anat/sub-0715_run-1_T1w.nii.gz"
+        },
+        {
+            "image": "/nesi/nobackup/aut04076/dataset/imagesTr/t1w_00707.nii.gz",
+            "source": "/nesi/nobackup/aut04076/mriData/sub-0097/anat/sub-0097_run-1_T1w.nii.gz"
+        },
+        {
+            "image": "/nesi/nobackup/aut04076/dataset/imagesTr/t1w_00708.nii.gz",
+            "source": "/nesi/nobackup/aut04076/mriData/sub-0859/anat/sub-0859_run-1_T1w.nii.gz"
+        },
+        {
+            "image": "/nesi/nobackup/aut04076/dataset/imagesTr/t1w_00709.nii.gz",
+            "source": "/nesi/nobackup/aut04076/mriData/sub-0874/anat/sub-0874_run-1_T1w.nii.gz"
+        },
+        {
+            "image": "/nesi/nobackup/aut04076/dataset/imagesTr/t1w_00710.nii.gz",
+            "source": "/nesi/nobackup/aut04076/mriData/sub-0614/anat/sub-0614_run-1_T1w.nii.gz"
+        },
+        {
+            "image": "/nesi/nobackup/aut04076/dataset/imagesTr/t1w_00711.nii.gz",
+            "source": "/nesi/nobackup/aut04076/mriData/sub-0818/anat/sub-0818_run-1_T1w.nii.gz"
+        },
+        {
+            "image": "/nesi/nobackup/aut04076/dataset/imagesTr/t1w_00712.nii.gz",
+            "source": "/nesi/nobackup/aut04076/mriData/sub-0687/anat/sub-0687_run-1_T1w.nii.gz"
+        },
+        {
+            "image": "/nesi/nobackup/aut04076/dataset/imagesTr/t1w_00713.nii.gz",
+            "source": "/nesi/nobackup/aut04076/mriData/sub-0213/anat/sub-0213_run-1_T1w.nii.gz"
+        },
+        {
+            "image": "/nesi/nobackup/aut04076/dataset/imagesTr/t1w_00714.nii.gz",
+            "source": "/nesi/nobackup/aut04076/mriData/sub-0297/anat/sub-0297_run-1_T1w.nii.gz"
+        },
+        {
+            "image": "/nesi/nobackup/aut04076/dataset/imagesTr/t1w_00715.nii.gz",
+            "source": "/nesi/nobackup/aut04076/mriData/sub-0923/anat/sub-0923_run-1_T1w.nii.gz"
+        },
+        {
+            "image": "/nesi/nobackup/aut04076/dataset/imagesTr/t1w_00716.nii.gz",
+            "source": "/nesi/nobackup/aut04076/mriData/sub-0674/anat/sub-0674_run-1_T1w.nii.gz"
+        },
+        {
+            "image": "/nesi/nobackup/aut04076/dataset/imagesTr/t1w_00717.nii.gz",
+            "source": "/nesi/nobackup/aut04076/mriData/sub-0047/anat/sub-0047_run-1_T1w.nii.gz"
+        },
+        {
+            "image": "/nesi/nobackup/aut04076/dataset/imagesTr/t1w_00718.nii.gz",
+            "source": "/nesi/nobackup/aut04076/mriData/sub-0183/anat/sub-0183_run-1_T1w.nii.gz"
+        },
+        {
+            "image": "/nesi/nobackup/aut04076/dataset/imagesTr/t1w_00719.nii.gz",
+            "source": "/nesi/nobackup/aut04076/mriData/sub-0681/anat/sub-0681_run-1_T1w.nii.gz"
+        },
+        {
+            "image": "/nesi/nobackup/aut04076/dataset/imagesTr/t1w_00720.nii.gz",
+            "source": "/nesi/nobackup/aut04076/mriData/sub-0260/anat/sub-0260_run-1_T1w.nii.gz"
+        },
+        {
+            "image": "/nesi/nobackup/aut04076/dataset/imagesTr/t1w_00721.nii.gz",
+            "source": "/nesi/nobackup/aut04076/mriData/sub-0539/anat/sub-0539_run-1_T1w.nii.gz"
+        },
+        {
+            "image": "/nesi/nobackup/aut04076/dataset/imagesTr/t1w_00722.nii.gz",
+            "source": "/nesi/nobackup/aut04076/mriData/sub-0171/anat/sub-0171_run-1_T1w.nii.gz"
+        },
+        {
+            "image": "/nesi/nobackup/aut04076/dataset/imagesTr/t1w_00723.nii.gz",
+            "source": "/nesi/nobackup/aut04076/mriData/sub-0797/anat/sub-0797_run-1_T1w.nii.gz"
+        },
+        {
+            "image": "/nesi/nobackup/aut04076/dataset/imagesTr/t1w_00724.nii.gz",
+            "source": "/nesi/nobackup/aut04076/mriData/sub-0815/anat/sub-0815_run-1_T1w.nii.gz"
+        },
+        {
+            "image": "/nesi/nobackup/aut04076/dataset/imagesTr/t1w_00725.nii.gz",
+            "source": "/nesi/nobackup/aut04076/mriData/sub-0179/anat/sub-0179_run-1_T1w.nii.gz"
+        },
+        {
+            "image": "/nesi/nobackup/aut04076/dataset/imagesTr/t1w_00726.nii.gz",
+            "source": "/nesi/nobackup/aut04076/mriData/sub-0615/anat/sub-0615_run-1_T1w.nii.gz"
+        },
+        {
+            "image": "/nesi/nobackup/aut04076/dataset/imagesTr/t1w_00727.nii.gz",
+            "source": "/nesi/nobackup/aut04076/mriData/sub-0362/anat/sub-0362_run-1_T1w.nii.gz"
+        },
+        {
+            "image": "/nesi/nobackup/aut04076/dataset/imagesTr/t1w_00728.nii.gz",
+            "source": "/nesi/nobackup/aut04076/mriData/sub-0432/anat/sub-0432_run-1_T1w.nii.gz"
+        },
+        {
+            "image": "/nesi/nobackup/aut04076/dataset/imagesTr/t1w_00729.nii.gz",
+            "source": "/nesi/nobackup/aut04076/mriData/sub-0141/anat/sub-0141_run-1_T1w.nii.gz"
+        },
+        {
+            "image": "/nesi/nobackup/aut04076/dataset/imagesTr/t1w_00730.nii.gz",
+            "source": "/nesi/nobackup/aut04076/mriData/sub-0533/anat/sub-0533_run-1_T1w.nii.gz"
+        },
+        {
+            "image": "/nesi/nobackup/aut04076/dataset/imagesTr/t1w_00731.nii.gz",
+            "source": "/nesi/nobackup/aut04076/mriData/sub-0045/anat/sub-0045_run-1_T1w.nii.gz"
+        },
+        {
+            "image": "/nesi/nobackup/aut04076/dataset/imagesTr/t1w_00732.nii.gz",
+            "source": "/nesi/nobackup/aut04076/mriData/sub-0244/anat/sub-0244_run-1_T1w.nii.gz"
+        },
+        {
+            "image": "/nesi/nobackup/aut04076/dataset/imagesTr/t1w_00733.nii.gz",
+            "source": "/nesi/nobackup/aut04076/mriData/sub-0907/anat/sub-0907_run-1_T1w.nii.gz"
+        },
+        {
+            "image": "/nesi/nobackup/aut04076/dataset/imagesTr/t1w_00734.nii.gz",
+            "source": "/nesi/nobackup/aut04076/mriData/sub-0842/anat/sub-0842_run-1_T1w.nii.gz"
+        },
+        {
+            "image": "/nesi/nobackup/aut04076/dataset/imagesTr/t1w_00735.nii.gz",
+            "source": "/nesi/nobackup/aut04076/mriData/sub-0410/anat/sub-0410_run-1_T1w.nii.gz"
+        },
+        {
+            "image": "/nesi/nobackup/aut04076/dataset/imagesTr/t1w_00736.nii.gz",
+            "source": "/nesi/nobackup/aut04076/mriData/sub-0303/anat/sub-0303_run-1_T1w.nii.gz"
+        },
+        {
+            "image": "/nesi/nobackup/aut04076/dataset/imagesTr/t1w_00737.nii.gz",
+            "source": "/nesi/nobackup/aut04076/mriData/sub-0353/anat/sub-0353_run-1_T1w.nii.gz"
+        },
+        {
+            "image": "/nesi/nobackup/aut04076/dataset/imagesTr/t1w_00738.nii.gz",
+            "source": "/nesi/nobackup/aut04076/mriData/sub-0641/anat/sub-0641_run-1_T1w.nii.gz"
+        },
+        {
+            "image": "/nesi/nobackup/aut04076/dataset/imagesTr/t1w_00739.nii.gz",
+            "source": "/nesi/nobackup/aut04076/mriData/sub-0870/anat/sub-0870_run-1_T1w.nii.gz"
+        },
+        {
+            "image": "/nesi/nobackup/aut04076/dataset/imagesTr/t1w_00740.nii.gz",
+            "source": "/nesi/nobackup/aut04076/mriData/sub-0254/anat/sub-0254_run-1_T1w.nii.gz"
+        },
+        {
+            "image": "/nesi/nobackup/aut04076/dataset/imagesTr/t1w_00741.nii.gz",
+            "source": "/nesi/nobackup/aut04076/mriData/sub-0597/anat/sub-0597_run-1_T1w.nii.gz"
+        },
+        {
+            "image": "/nesi/nobackup/aut04076/dataset/imagesTr/t1w_00742.nii.gz",
+            "source": "/nesi/nobackup/aut04076/mriData/sub-0419/anat/sub-0419_run-1_T1w.nii.gz"
+        }
+    ],
+    "test": [
+        {
+            "image": "/nesi/nobackup/aut04076/dataset/imagesTs/t1w_00743.nii.gz",
+            "source": "/nesi/nobackup/aut04076/mriData/sub-0830/anat/sub-0830_run-1_T1w.nii.gz"
+        },
+        {
+            "image": "/nesi/nobackup/aut04076/dataset/imagesTs/t1w_00744.nii.gz",
+            "source": "/nesi/nobackup/aut04076/mriData/sub-0280/anat/sub-0280_run-1_T1w.nii.gz"
+        },
+        {
+            "image": "/nesi/nobackup/aut04076/dataset/imagesTs/t1w_00745.nii.gz",
+            "source": "/nesi/nobackup/aut04076/mriData/sub-0728/anat/sub-0728_run-1_T1w.nii.gz"
+        },
+        {
+            "image": "/nesi/nobackup/aut04076/dataset/imagesTs/t1w_00746.nii.gz",
+            "source": "/nesi/nobackup/aut04076/mriData/sub-0585/anat/sub-0585_run-1_T1w.nii.gz"
+        },
+        {
+            "image": "/nesi/nobackup/aut04076/dataset/imagesTs/t1w_00747.nii.gz",
+            "source": "/nesi/nobackup/aut04076/mriData/sub-0437/anat/sub-0437_run-1_T1w.nii.gz"
+        },
+        {
+            "image": "/nesi/nobackup/aut04076/dataset/imagesTs/t1w_00748.nii.gz",
+            "source": "/nesi/nobackup/aut04076/mriData/sub-0653/anat/sub-0653_run-1_T1w.nii.gz"
+        },
+        {
+            "image": "/nesi/nobackup/aut04076/dataset/imagesTs/t1w_00749.nii.gz",
+            "source": "/nesi/nobackup/aut04076/mriData/sub-0498/anat/sub-0498_run-1_T1w.nii.gz"
+        },
+        {
+            "image": "/nesi/nobackup/aut04076/dataset/imagesTs/t1w_00750.nii.gz",
+            "source": "/nesi/nobackup/aut04076/mriData/sub-0581/anat/sub-0581_run-1_T1w.nii.gz"
+        },
+        {
+            "image": "/nesi/nobackup/aut04076/dataset/imagesTs/t1w_00751.nii.gz",
+            "source": "/nesi/nobackup/aut04076/mriData/sub-0559/anat/sub-0559_run-1_T1w.nii.gz"
+        },
+        {
+            "image": "/nesi/nobackup/aut04076/dataset/imagesTs/t1w_00752.nii.gz",
+            "source": "/nesi/nobackup/aut04076/mriData/sub-0236/anat/sub-0236_run-1_T1w.nii.gz"
+        },
+        {
+            "image": "/nesi/nobackup/aut04076/dataset/imagesTs/t1w_00753.nii.gz",
+            "source": "/nesi/nobackup/aut04076/mriData/sub-0295/anat/sub-0295_run-1_T1w.nii.gz"
+        },
+        {
+            "image": "/nesi/nobackup/aut04076/dataset/imagesTs/t1w_00754.nii.gz",
+            "source": "/nesi/nobackup/aut04076/mriData/sub-0654/anat/sub-0654_run-1_T1w.nii.gz"
+        },
+        {
+            "image": "/nesi/nobackup/aut04076/dataset/imagesTs/t1w_00755.nii.gz",
+            "source": "/nesi/nobackup/aut04076/mriData/sub-0613/anat/sub-0613_run-1_T1w.nii.gz"
+        },
+        {
+            "image": "/nesi/nobackup/aut04076/dataset/imagesTs/t1w_00756.nii.gz",
+            "source": "/nesi/nobackup/aut04076/mriData/sub-0836/anat/sub-0836_run-1_T1w.nii.gz"
+        },
+        {
+            "image": "/nesi/nobackup/aut04076/dataset/imagesTs/t1w_00757.nii.gz",
+            "source": "/nesi/nobackup/aut04076/mriData/sub-0028/anat/sub-0028_run-1_T1w.nii.gz"
+        },
+        {
+            "image": "/nesi/nobackup/aut04076/dataset/imagesTs/t1w_00758.nii.gz",
+            "source": "/nesi/nobackup/aut04076/mriData/sub-0067/anat/sub-0067_run-1_T1w.nii.gz"
+        },
+        {
+            "image": "/nesi/nobackup/aut04076/dataset/imagesTs/t1w_00759.nii.gz",
+            "source": "/nesi/nobackup/aut04076/mriData/sub-0210/anat/sub-0210_run-1_T1w.nii.gz"
+        },
+        {
+            "image": "/nesi/nobackup/aut04076/dataset/imagesTs/t1w_00760.nii.gz",
+            "source": "/nesi/nobackup/aut04076/mriData/sub-0339/anat/sub-0339_run-1_T1w.nii.gz"
+        },
+        {
+            "image": "/nesi/nobackup/aut04076/dataset/imagesTs/t1w_00761.nii.gz",
+            "source": "/nesi/nobackup/aut04076/mriData/sub-0016/anat/sub-0016_run-1_T1w.nii.gz"
+        },
+        {
+            "image": "/nesi/nobackup/aut04076/dataset/imagesTs/t1w_00762.nii.gz",
+            "source": "/nesi/nobackup/aut04076/mriData/sub-0721/anat/sub-0721_run-1_T1w.nii.gz"
+        },
+        {
+            "image": "/nesi/nobackup/aut04076/dataset/imagesTs/t1w_00763.nii.gz",
+            "source": "/nesi/nobackup/aut04076/mriData/sub-0492/anat/sub-0492_run-1_T1w.nii.gz"
+        },
+        {
+            "image": "/nesi/nobackup/aut04076/dataset/imagesTs/t1w_00764.nii.gz",
+            "source": "/nesi/nobackup/aut04076/mriData/sub-0302/anat/sub-0302_run-1_T1w.nii.gz"
+        },
+        {
+            "image": "/nesi/nobackup/aut04076/dataset/imagesTs/t1w_00765.nii.gz",
+            "source": "/nesi/nobackup/aut04076/mriData/sub-0509/anat/sub-0509_run-1_T1w.nii.gz"
+        },
+        {
+            "image": "/nesi/nobackup/aut04076/dataset/imagesTs/t1w_00766.nii.gz",
+            "source": "/nesi/nobackup/aut04076/mriData/sub-0051/anat/sub-0051_run-1_T1w.nii.gz"
+        },
+        {
+            "image": "/nesi/nobackup/aut04076/dataset/imagesTs/t1w_00767.nii.gz",
+            "source": "/nesi/nobackup/aut04076/mriData/sub-0200/anat/sub-0200_run-1_T1w.nii.gz"
+        },
+        {
+            "image": "/nesi/nobackup/aut04076/dataset/imagesTs/t1w_00768.nii.gz",
+            "source": "/nesi/nobackup/aut04076/mriData/sub-0802/anat/sub-0802_run-1_T1w.nii.gz"
+        },
+        {
+            "image": "/nesi/nobackup/aut04076/dataset/imagesTs/t1w_00769.nii.gz",
+            "source": "/nesi/nobackup/aut04076/mriData/sub-0035/anat/sub-0035_run-1_T1w.nii.gz"
+        },
+        {
+            "image": "/nesi/nobackup/aut04076/dataset/imagesTs/t1w_00770.nii.gz",
+            "source": "/nesi/nobackup/aut04076/mriData/sub-0580/anat/sub-0580_run-1_T1w.nii.gz"
+        },
+        {
+            "image": "/nesi/nobackup/aut04076/dataset/imagesTs/t1w_00771.nii.gz",
+            "source": "/nesi/nobackup/aut04076/mriData/sub-0503/anat/sub-0503_run-1_T1w.nii.gz"
+        },
+        {
+            "image": "/nesi/nobackup/aut04076/dataset/imagesTs/t1w_00772.nii.gz",
+            "source": "/nesi/nobackup/aut04076/mriData/sub-0014/anat/sub-0014_run-1_T1w.nii.gz"
+        },
+        {
+            "image": "/nesi/nobackup/aut04076/dataset/imagesTs/t1w_00773.nii.gz",
+            "source": "/nesi/nobackup/aut04076/mriData/sub-0012/anat/sub-0012_run-1_T1w.nii.gz"
+        },
+        {
+            "image": "/nesi/nobackup/aut04076/dataset/imagesTs/t1w_00774.nii.gz",
+            "source": "/nesi/nobackup/aut04076/mriData/sub-0765/anat/sub-0765_run-1_T1w.nii.gz"
+        },
+        {
+            "image": "/nesi/nobackup/aut04076/dataset/imagesTs/t1w_00775.nii.gz",
+            "source": "/nesi/nobackup/aut04076/mriData/sub-0617/anat/sub-0617_run-1_T1w.nii.gz"
+        },
+        {
+            "image": "/nesi/nobackup/aut04076/dataset/imagesTs/t1w_00776.nii.gz",
+            "source": "/nesi/nobackup/aut04076/mriData/sub-0396/anat/sub-0396_run-1_T1w.nii.gz"
+        },
+        {
+            "image": "/nesi/nobackup/aut04076/dataset/imagesTs/t1w_00777.nii.gz",
+            "source": "/nesi/nobackup/aut04076/mriData/sub-0180/anat/sub-0180_run-1_T1w.nii.gz"
+        },
+        {
+            "image": "/nesi/nobackup/aut04076/dataset/imagesTs/t1w_00778.nii.gz",
+            "source": "/nesi/nobackup/aut04076/mriData/sub-0577/anat/sub-0577_run-1_T1w.nii.gz"
+        },
+        {
+            "image": "/nesi/nobackup/aut04076/dataset/imagesTs/t1w_00779.nii.gz",
+            "source": "/nesi/nobackup/aut04076/mriData/sub-0388/anat/sub-0388_run-1_T1w.nii.gz"
+        },
+        {
+            "image": "/nesi/nobackup/aut04076/dataset/imagesTs/t1w_00780.nii.gz",
+            "source": "/nesi/nobackup/aut04076/mriData/sub-0233/anat/sub-0233_run-1_T1w.nii.gz"
+        },
+        {
+            "image": "/nesi/nobackup/aut04076/dataset/imagesTs/t1w_00781.nii.gz",
+            "source": "/nesi/nobackup/aut04076/mriData/sub-0331/anat/sub-0331_run-1_T1w.nii.gz"
+        },
+        {
+            "image": "/nesi/nobackup/aut04076/dataset/imagesTs/t1w_00782.nii.gz",
+            "source": "/nesi/nobackup/aut04076/mriData/sub-0042/anat/sub-0042_run-1_T1w.nii.gz"
+        },
+        {
+            "image": "/nesi/nobackup/aut04076/dataset/imagesTs/t1w_00783.nii.gz",
+            "source": "/nesi/nobackup/aut04076/mriData/sub-0832/anat/sub-0832_run-1_T1w.nii.gz"
+        },
+        {
+            "image": "/nesi/nobackup/aut04076/dataset/imagesTs/t1w_00784.nii.gz",
+            "source": "/nesi/nobackup/aut04076/mriData/sub-0235/anat/sub-0235_run-1_T1w.nii.gz"
+        },
+        {
+            "image": "/nesi/nobackup/aut04076/dataset/imagesTs/t1w_00785.nii.gz",
+            "source": "/nesi/nobackup/aut04076/mriData/sub-0575/anat/sub-0575_run-1_T1w.nii.gz"
+        },
+        {
+            "image": "/nesi/nobackup/aut04076/dataset/imagesTs/t1w_00786.nii.gz",
+            "source": "/nesi/nobackup/aut04076/mriData/sub-0312/anat/sub-0312_run-1_T1w.nii.gz"
+        },
+        {
+            "image": "/nesi/nobackup/aut04076/dataset/imagesTs/t1w_00787.nii.gz",
+            "source": "/nesi/nobackup/aut04076/mriData/sub-0216/anat/sub-0216_run-1_T1w.nii.gz"
+        },
+        {
+            "image": "/nesi/nobackup/aut04076/dataset/imagesTs/t1w_00788.nii.gz",
+            "source": "/nesi/nobackup/aut04076/mriData/sub-0273/anat/sub-0273_run-1_T1w.nii.gz"
+        },
+        {
+            "image": "/nesi/nobackup/aut04076/dataset/imagesTs/t1w_00789.nii.gz",
+            "source": "/nesi/nobackup/aut04076/mriData/sub-0027/anat/sub-0027_run-1_T1w.nii.gz"
+        },
+        {
+            "image": "/nesi/nobackup/aut04076/dataset/imagesTs/t1w_00790.nii.gz",
+            "source": "/nesi/nobackup/aut04076/mriData/sub-0037/anat/sub-0037_run-1_T1w.nii.gz"
+        },
+        {
+            "image": "/nesi/nobackup/aut04076/dataset/imagesTs/t1w_00791.nii.gz",
+            "source": "/nesi/nobackup/aut04076/mriData/sub-0712/anat/sub-0712_run-1_T1w.nii.gz"
+        },
+        {
+            "image": "/nesi/nobackup/aut04076/dataset/imagesTs/t1w_00792.nii.gz",
+            "source": "/nesi/nobackup/aut04076/mriData/sub-0689/anat/sub-0689_run-1_T1w.nii.gz"
+        },
+        {
+            "image": "/nesi/nobackup/aut04076/dataset/imagesTs/t1w_00793.nii.gz",
+            "source": "/nesi/nobackup/aut04076/mriData/sub-0161/anat/sub-0161_run-1_T1w.nii.gz"
+        },
+        {
+            "image": "/nesi/nobackup/aut04076/dataset/imagesTs/t1w_00794.nii.gz",
+            "source": "/nesi/nobackup/aut04076/mriData/sub-0242/anat/sub-0242_run-1_T1w.nii.gz"
+        },
+        {
+            "image": "/nesi/nobackup/aut04076/dataset/imagesTs/t1w_00795.nii.gz",
+            "source": "/nesi/nobackup/aut04076/mriData/sub-0218/anat/sub-0218_run-1_T1w.nii.gz"
+        },
+        {
+            "image": "/nesi/nobackup/aut04076/dataset/imagesTs/t1w_00796.nii.gz",
+            "source": "/nesi/nobackup/aut04076/mriData/sub-0823/anat/sub-0823_run-1_T1w.nii.gz"
+        },
+        {
+            "image": "/nesi/nobackup/aut04076/dataset/imagesTs/t1w_00797.nii.gz",
+            "source": "/nesi/nobackup/aut04076/mriData/sub-0053/anat/sub-0053_run-1_T1w.nii.gz"
+        },
+        {
+            "image": "/nesi/nobackup/aut04076/dataset/imagesTs/t1w_00798.nii.gz",
+            "source": "/nesi/nobackup/aut04076/mriData/sub-0434/anat/sub-0434_run-1_T1w.nii.gz"
+        },
+        {
+            "image": "/nesi/nobackup/aut04076/dataset/imagesTs/t1w_00799.nii.gz",
+            "source": "/nesi/nobackup/aut04076/mriData/sub-0461/anat/sub-0461_run-1_T1w.nii.gz"
+        },
+        {
+            "image": "/nesi/nobackup/aut04076/dataset/imagesTs/t1w_00800.nii.gz",
+            "source": "/nesi/nobackup/aut04076/mriData/sub-0241/anat/sub-0241_run-1_T1w.nii.gz"
+        },
+        {
+            "image": "/nesi/nobackup/aut04076/dataset/imagesTs/t1w_00801.nii.gz",
+            "source": "/nesi/nobackup/aut04076/mriData/sub-0682/anat/sub-0682_run-1_T1w.nii.gz"
+        },
+        {
+            "image": "/nesi/nobackup/aut04076/dataset/imagesTs/t1w_00802.nii.gz",
+            "source": "/nesi/nobackup/aut04076/mriData/sub-0059/anat/sub-0059_run-1_T1w.nii.gz"
+        },
+        {
+            "image": "/nesi/nobackup/aut04076/dataset/imagesTs/t1w_00803.nii.gz",
+            "source": "/nesi/nobackup/aut04076/mriData/sub-0658/anat/sub-0658_run-1_T1w.nii.gz"
+        },
+        {
+            "image": "/nesi/nobackup/aut04076/dataset/imagesTs/t1w_00804.nii.gz",
+            "source": "/nesi/nobackup/aut04076/mriData/sub-0536/anat/sub-0536_run-1_T1w.nii.gz"
+        },
+        {
+            "image": "/nesi/nobackup/aut04076/dataset/imagesTs/t1w_00805.nii.gz",
+            "source": "/nesi/nobackup/aut04076/mriData/sub-0253/anat/sub-0253_run-1_T1w.nii.gz"
+        },
+        {
+            "image": "/nesi/nobackup/aut04076/dataset/imagesTs/t1w_00806.nii.gz",
+            "source": "/nesi/nobackup/aut04076/mriData/sub-0013/anat/sub-0013_run-1_T1w.nii.gz"
+        },
+        {
+            "image": "/nesi/nobackup/aut04076/dataset/imagesTs/t1w_00807.nii.gz",
+            "source": "/nesi/nobackup/aut04076/mriData/sub-0038/anat/sub-0038_run-1_T1w.nii.gz"
+        },
+        {
+            "image": "/nesi/nobackup/aut04076/dataset/imagesTs/t1w_00808.nii.gz",
+            "source": "/nesi/nobackup/aut04076/mriData/sub-0222/anat/sub-0222_run-1_T1w.nii.gz"
+        },
+        {
+            "image": "/nesi/nobackup/aut04076/dataset/imagesTs/t1w_00809.nii.gz",
+            "source": "/nesi/nobackup/aut04076/mriData/sub-0420/anat/sub-0420_run-1_T1w.nii.gz"
+        },
+        {
+            "image": "/nesi/nobackup/aut04076/dataset/imagesTs/t1w_00810.nii.gz",
+            "source": "/nesi/nobackup/aut04076/mriData/sub-0195/anat/sub-0195_run-1_T1w.nii.gz"
+        },
+        {
+            "image": "/nesi/nobackup/aut04076/dataset/imagesTs/t1w_00811.nii.gz",
+            "source": "/nesi/nobackup/aut04076/mriData/sub-0240/anat/sub-0240_run-1_T1w.nii.gz"
+        },
+        {
+            "image": "/nesi/nobackup/aut04076/dataset/imagesTs/t1w_00812.nii.gz",
+            "source": "/nesi/nobackup/aut04076/mriData/sub-0632/anat/sub-0632_run-1_T1w.nii.gz"
+        },
+        {
+            "image": "/nesi/nobackup/aut04076/dataset/imagesTs/t1w_00813.nii.gz",
+            "source": "/nesi/nobackup/aut04076/mriData/sub-0554/anat/sub-0554_run-1_T1w.nii.gz"
+        },
+        {
+            "image": "/nesi/nobackup/aut04076/dataset/imagesTs/t1w_00814.nii.gz",
+            "source": "/nesi/nobackup/aut04076/mriData/sub-0867/anat/sub-0867_run-1_T1w.nii.gz"
+        },
+        {
+            "image": "/nesi/nobackup/aut04076/dataset/imagesTs/t1w_00815.nii.gz",
+            "source": "/nesi/nobackup/aut04076/mriData/sub-0590/anat/sub-0590_run-1_T1w.nii.gz"
+        },
+        {
+            "image": "/nesi/nobackup/aut04076/dataset/imagesTs/t1w_00816.nii.gz",
+            "source": "/nesi/nobackup/aut04076/mriData/sub-0151/anat/sub-0151_run-1_T1w.nii.gz"
+        },
+        {
+            "image": "/nesi/nobackup/aut04076/dataset/imagesTs/t1w_00817.nii.gz",
+            "source": "/nesi/nobackup/aut04076/mriData/sub-0323/anat/sub-0323_run-1_T1w.nii.gz"
+        },
+        {
+            "image": "/nesi/nobackup/aut04076/dataset/imagesTs/t1w_00818.nii.gz",
+            "source": "/nesi/nobackup/aut04076/mriData/sub-0166/anat/sub-0166_run-1_T1w.nii.gz"
+        },
+        {
+            "image": "/nesi/nobackup/aut04076/dataset/imagesTs/t1w_00819.nii.gz",
+            "source": "/nesi/nobackup/aut04076/mriData/sub-0875/anat/sub-0875_run-1_T1w.nii.gz"
+        },
+        {
+            "image": "/nesi/nobackup/aut04076/dataset/imagesTs/t1w_00820.nii.gz",
+            "source": "/nesi/nobackup/aut04076/mriData/sub-0755/anat/sub-0755_run-1_T1w.nii.gz"
+        },
+        {
+            "image": "/nesi/nobackup/aut04076/dataset/imagesTs/t1w_00821.nii.gz",
+            "source": "/nesi/nobackup/aut04076/mriData/sub-0798/anat/sub-0798_run-1_T1w.nii.gz"
+        },
+        {
+            "image": "/nesi/nobackup/aut04076/dataset/imagesTs/t1w_00822.nii.gz",
+            "source": "/nesi/nobackup/aut04076/mriData/sub-0688/anat/sub-0688_run-1_T1w.nii.gz"
+        },
+        {
+            "image": "/nesi/nobackup/aut04076/dataset/imagesTs/t1w_00823.nii.gz",
+            "source": "/nesi/nobackup/aut04076/mriData/sub-0667/anat/sub-0667_run-1_T1w.nii.gz"
+        },
+        {
+            "image": "/nesi/nobackup/aut04076/dataset/imagesTs/t1w_00824.nii.gz",
+            "source": "/nesi/nobackup/aut04076/mriData/sub-0234/anat/sub-0234_run-1_T1w.nii.gz"
+        },
+        {
+            "image": "/nesi/nobackup/aut04076/dataset/imagesTs/t1w_00825.nii.gz",
+            "source": "/nesi/nobackup/aut04076/mriData/sub-0573/anat/sub-0573_run-1_T1w.nii.gz"
+        },
+        {
+            "image": "/nesi/nobackup/aut04076/dataset/imagesTs/t1w_00826.nii.gz",
+            "source": "/nesi/nobackup/aut04076/mriData/sub-0330/anat/sub-0330_run-1_T1w.nii.gz"
+        },
+        {
+            "image": "/nesi/nobackup/aut04076/dataset/imagesTs/t1w_00827.nii.gz",
+            "source": "/nesi/nobackup/aut04076/mriData/sub-0706/anat/sub-0706_run-1_T1w.nii.gz"
+        },
+        {
+            "image": "/nesi/nobackup/aut04076/dataset/imagesTs/t1w_00828.nii.gz",
+            "source": "/nesi/nobackup/aut04076/mriData/sub-0114/anat/sub-0114_run-1_T1w.nii.gz"
+        },
+        {
+            "image": "/nesi/nobackup/aut04076/dataset/imagesTs/t1w_00829.nii.gz",
+            "source": "/nesi/nobackup/aut04076/mriData/sub-0663/anat/sub-0663_run-1_T1w.nii.gz"
+        },
+        {
+            "image": "/nesi/nobackup/aut04076/dataset/imagesTs/t1w_00830.nii.gz",
+            "source": "/nesi/nobackup/aut04076/mriData/sub-0043/anat/sub-0043_run-1_T1w.nii.gz"
+        },
+        {
+            "image": "/nesi/nobackup/aut04076/dataset/imagesTs/t1w_00831.nii.gz",
+            "source": "/nesi/nobackup/aut04076/mriData/sub-0155/anat/sub-0155_run-1_T1w.nii.gz"
+        },
+        {
+            "image": "/nesi/nobackup/aut04076/dataset/imagesTs/t1w_00832.nii.gz",
+            "source": "/nesi/nobackup/aut04076/mriData/sub-0452/anat/sub-0452_run-1_T1w.nii.gz"
+        },
+        {
+            "image": "/nesi/nobackup/aut04076/dataset/imagesTs/t1w_00833.nii.gz",
+            "source": "/nesi/nobackup/aut04076/mriData/sub-0245/anat/sub-0245_run-1_T1w.nii.gz"
+        },
+        {
+            "image": "/nesi/nobackup/aut04076/dataset/imagesTs/t1w_00834.nii.gz",
+            "source": "/nesi/nobackup/aut04076/mriData/sub-0008/anat/sub-0008_run-1_T1w.nii.gz"
+        },
+        {
+            "image": "/nesi/nobackup/aut04076/dataset/imagesTs/t1w_00835.nii.gz",
+            "source": "/nesi/nobackup/aut04076/mriData/sub-0062/anat/sub-0062_run-1_T1w.nii.gz"
+        },
+        {
+            "image": "/nesi/nobackup/aut04076/dataset/imagesTs/t1w_00836.nii.gz",
+            "source": "/nesi/nobackup/aut04076/mriData/sub-0889/anat/sub-0889_run-1_T1w.nii.gz"
+        },
+        {
+            "image": "/nesi/nobackup/aut04076/dataset/imagesTs/t1w_00837.nii.gz",
+            "source": "/nesi/nobackup/aut04076/mriData/sub-0455/anat/sub-0455_run-1_T1w.nii.gz"
+        },
+        {
+            "image": "/nesi/nobackup/aut04076/dataset/imagesTs/t1w_00838.nii.gz",
+            "source": "/nesi/nobackup/aut04076/mriData/sub-0405/anat/sub-0405_run-1_T1w.nii.gz"
+        },
+        {
+            "image": "/nesi/nobackup/aut04076/dataset/imagesTs/t1w_00839.nii.gz",
+            "source": "/nesi/nobackup/aut04076/mriData/sub-0198/anat/sub-0198_run-1_T1w.nii.gz"
+        },
+        {
+            "image": "/nesi/nobackup/aut04076/dataset/imagesTs/t1w_00840.nii.gz",
+            "source": "/nesi/nobackup/aut04076/mriData/sub-0173/anat/sub-0173_run-1_T1w.nii.gz"
+        },
+        {
+            "image": "/nesi/nobackup/aut04076/dataset/imagesTs/t1w_00841.nii.gz",
+            "source": "/nesi/nobackup/aut04076/mriData/sub-0547/anat/sub-0547_run-1_T1w.nii.gz"
+        },
+        {
+            "image": "/nesi/nobackup/aut04076/dataset/imagesTs/t1w_00842.nii.gz",
+            "source": "/nesi/nobackup/aut04076/mriData/sub-0668/anat/sub-0668_run-1_T1w.nii.gz"
+        },
+        {
+            "image": "/nesi/nobackup/aut04076/dataset/imagesTs/t1w_00843.nii.gz",
+            "source": "/nesi/nobackup/aut04076/mriData/sub-0504/anat/sub-0504_run-1_T1w.nii.gz"
+        },
+        {
+            "image": "/nesi/nobackup/aut04076/dataset/imagesTs/t1w_00844.nii.gz",
+            "source": "/nesi/nobackup/aut04076/mriData/sub-0010/anat/sub-0010_run-1_T1w.nii.gz"
+        },
+        {
+            "image": "/nesi/nobackup/aut04076/dataset/imagesTs/t1w_00845.nii.gz",
+            "source": "/nesi/nobackup/aut04076/mriData/sub-0848/anat/sub-0848_run-1_T1w.nii.gz"
+        },
+        {
+            "image": "/nesi/nobackup/aut04076/dataset/imagesTs/t1w_00846.nii.gz",
+            "source": "/nesi/nobackup/aut04076/mriData/sub-0716/anat/sub-0716_run-1_T1w.nii.gz"
+        },
+        {
+            "image": "/nesi/nobackup/aut04076/dataset/imagesTs/t1w_00847.nii.gz",
+            "source": "/nesi/nobackup/aut04076/mriData/sub-0462/anat/sub-0462_run-1_T1w.nii.gz"
+        },
+        {
+            "image": "/nesi/nobackup/aut04076/dataset/imagesTs/t1w_00848.nii.gz",
+            "source": "/nesi/nobackup/aut04076/mriData/sub-0544/anat/sub-0544_run-1_T1w.nii.gz"
+        },
+        {
+            "image": "/nesi/nobackup/aut04076/dataset/imagesTs/t1w_00849.nii.gz",
+            "source": "/nesi/nobackup/aut04076/mriData/sub-0430/anat/sub-0430_run-1_T1w.nii.gz"
+        },
+        {
+            "image": "/nesi/nobackup/aut04076/dataset/imagesTs/t1w_00850.nii.gz",
+            "source": "/nesi/nobackup/aut04076/mriData/sub-0077/anat/sub-0077_run-1_T1w.nii.gz"
+        },
+        {
+            "image": "/nesi/nobackup/aut04076/dataset/imagesTs/t1w_00851.nii.gz",
+            "source": "/nesi/nobackup/aut04076/mriData/sub-0709/anat/sub-0709_run-1_T1w.nii.gz"
+        },
+        {
+            "image": "/nesi/nobackup/aut04076/dataset/imagesTs/t1w_00852.nii.gz",
+            "source": "/nesi/nobackup/aut04076/mriData/sub-0828/anat/sub-0828_run-1_T1w.nii.gz"
+        },
+        {
+            "image": "/nesi/nobackup/aut04076/dataset/imagesTs/t1w_00853.nii.gz",
+            "source": "/nesi/nobackup/aut04076/mriData/sub-0154/anat/sub-0154_run-1_T1w.nii.gz"
+        },
+        {
+            "image": "/nesi/nobackup/aut04076/dataset/imagesTs/t1w_00854.nii.gz",
+            "source": "/nesi/nobackup/aut04076/mriData/sub-0336/anat/sub-0336_run-1_T1w.nii.gz"
+        },
+        {
+            "image": "/nesi/nobackup/aut04076/dataset/imagesTs/t1w_00855.nii.gz",
+            "source": "/nesi/nobackup/aut04076/mriData/sub-0634/anat/sub-0634_run-1_T1w.nii.gz"
+        },
+        {
+            "image": "/nesi/nobackup/aut04076/dataset/imagesTs/t1w_00856.nii.gz",
+            "source": "/nesi/nobackup/aut04076/mriData/sub-0852/anat/sub-0852_run-1_T1w.nii.gz"
+        },
+        {
+            "image": "/nesi/nobackup/aut04076/dataset/imagesTs/t1w_00857.nii.gz",
+            "source": "/nesi/nobackup/aut04076/mriData/sub-0032/anat/sub-0032_run-1_T1w.nii.gz"
+        },
+        {
+            "image": "/nesi/nobackup/aut04076/dataset/imagesTs/t1w_00858.nii.gz",
+            "source": "/nesi/nobackup/aut04076/mriData/sub-0511/anat/sub-0511_run-1_T1w.nii.gz"
+        },
+        {
+            "image": "/nesi/nobackup/aut04076/dataset/imagesTs/t1w_00859.nii.gz",
+            "source": "/nesi/nobackup/aut04076/mriData/sub-0397/anat/sub-0397_run-1_T1w.nii.gz"
+        },
+        {
+            "image": "/nesi/nobackup/aut04076/dataset/imagesTs/t1w_00860.nii.gz",
+            "source": "/nesi/nobackup/aut04076/mriData/sub-0159/anat/sub-0159_run-1_T1w.nii.gz"
+        },
+        {
+            "image": "/nesi/nobackup/aut04076/dataset/imagesTs/t1w_00861.nii.gz",
+            "source": "/nesi/nobackup/aut04076/mriData/sub-0857/anat/sub-0857_run-1_T1w.nii.gz"
+        },
+        {
+            "image": "/nesi/nobackup/aut04076/dataset/imagesTs/t1w_00862.nii.gz",
+            "source": "/nesi/nobackup/aut04076/mriData/sub-0899/anat/sub-0899_run-1_T1w.nii.gz"
+        },
+        {
+            "image": "/nesi/nobackup/aut04076/dataset/imagesTs/t1w_00863.nii.gz",
+            "source": "/nesi/nobackup/aut04076/mriData/sub-0649/anat/sub-0649_run-1_T1w.nii.gz"
+        },
+        {
+            "image": "/nesi/nobackup/aut04076/dataset/imagesTs/t1w_00864.nii.gz",
+            "source": "/nesi/nobackup/aut04076/mriData/sub-0424/anat/sub-0424_run-1_T1w.nii.gz"
+        },
+        {
+            "image": "/nesi/nobackup/aut04076/dataset/imagesTs/t1w_00865.nii.gz",
+            "source": "/nesi/nobackup/aut04076/mriData/sub-0628/anat/sub-0628_run-1_T1w.nii.gz"
+        },
+        {
+            "image": "/nesi/nobackup/aut04076/dataset/imagesTs/t1w_00866.nii.gz",
+            "source": "/nesi/nobackup/aut04076/mriData/sub-0204/anat/sub-0204_run-1_T1w.nii.gz"
+        },
+        {
+            "image": "/nesi/nobackup/aut04076/dataset/imagesTs/t1w_00867.nii.gz",
+            "source": "/nesi/nobackup/aut04076/mriData/sub-0217/anat/sub-0217_run-1_T1w.nii.gz"
+        },
+        {
+            "image": "/nesi/nobackup/aut04076/dataset/imagesTs/t1w_00868.nii.gz",
+            "source": "/nesi/nobackup/aut04076/mriData/sub-0758/anat/sub-0758_run-1_T1w.nii.gz"
+        },
+        {
+            "image": "/nesi/nobackup/aut04076/dataset/imagesTs/t1w_00869.nii.gz",
+            "source": "/nesi/nobackup/aut04076/mriData/sub-0237/anat/sub-0237_run-1_T1w.nii.gz"
+        },
+        {
+            "image": "/nesi/nobackup/aut04076/dataset/imagesTs/t1w_00870.nii.gz",
+            "source": "/nesi/nobackup/aut04076/mriData/sub-0593/anat/sub-0593_run-1_T1w.nii.gz"
+        },
+        {
+            "image": "/nesi/nobackup/aut04076/dataset/imagesTs/t1w_00871.nii.gz",
+            "source": "/nesi/nobackup/aut04076/mriData/sub-0401/anat/sub-0401_run-1_T1w.nii.gz"
+        },
+        {
+            "image": "/nesi/nobackup/aut04076/dataset/imagesTs/t1w_00872.nii.gz",
+            "source": "/nesi/nobackup/aut04076/mriData/sub-0881/anat/sub-0881_run-1_T1w.nii.gz"
+        },
+        {
+            "image": "/nesi/nobackup/aut04076/dataset/imagesTs/t1w_00873.nii.gz",
+            "source": "/nesi/nobackup/aut04076/mriData/sub-0595/anat/sub-0595_run-1_T1w.nii.gz"
+        },
+        {
+            "image": "/nesi/nobackup/aut04076/dataset/imagesTs/t1w_00874.nii.gz",
+            "source": "/nesi/nobackup/aut04076/mriData/sub-0734/anat/sub-0734_run-1_T1w.nii.gz"
+        },
+        {
+            "image": "/nesi/nobackup/aut04076/dataset/imagesTs/t1w_00875.nii.gz",
+            "source": "/nesi/nobackup/aut04076/mriData/sub-0257/anat/sub-0257_run-1_T1w.nii.gz"
+        },
+        {
+            "image": "/nesi/nobackup/aut04076/dataset/imagesTs/t1w_00876.nii.gz",
+            "source": "/nesi/nobackup/aut04076/mriData/sub-0415/anat/sub-0415_run-1_T1w.nii.gz"
+        },
+        {
+            "image": "/nesi/nobackup/aut04076/dataset/imagesTs/t1w_00877.nii.gz",
+            "source": "/nesi/nobackup/aut04076/mriData/sub-0494/anat/sub-0494_run-1_T1w.nii.gz"
+        },
+        {
+            "image": "/nesi/nobackup/aut04076/dataset/imagesTs/t1w_00878.nii.gz",
+            "source": "/nesi/nobackup/aut04076/mriData/sub-0582/anat/sub-0582_run-1_T1w.nii.gz"
+        },
+        {
+            "image": "/nesi/nobackup/aut04076/dataset/imagesTs/t1w_00879.nii.gz",
+            "source": "/nesi/nobackup/aut04076/mriData/sub-0484/anat/sub-0484_run-1_T1w.nii.gz"
+        },
+        {
+            "image": "/nesi/nobackup/aut04076/dataset/imagesTs/t1w_00880.nii.gz",
+            "source": "/nesi/nobackup/aut04076/mriData/sub-0368/anat/sub-0368_run-1_T1w.nii.gz"
+        },
+        {
+            "image": "/nesi/nobackup/aut04076/dataset/imagesTs/t1w_00881.nii.gz",
+            "source": "/nesi/nobackup/aut04076/mriData/sub-0224/anat/sub-0224_run-1_T1w.nii.gz"
+        },
+        {
+            "image": "/nesi/nobackup/aut04076/dataset/imagesTs/t1w_00882.nii.gz",
+            "source": "/nesi/nobackup/aut04076/mriData/sub-0697/anat/sub-0697_run-1_T1w.nii.gz"
+        },
+        {
+            "image": "/nesi/nobackup/aut04076/dataset/imagesTs/t1w_00883.nii.gz",
+            "source": "/nesi/nobackup/aut04076/mriData/sub-0814/anat/sub-0814_run-1_T1w.nii.gz"
+        },
+        {
+            "image": "/nesi/nobackup/aut04076/dataset/imagesTs/t1w_00884.nii.gz",
+            "source": "/nesi/nobackup/aut04076/mriData/sub-0602/anat/sub-0602_run-1_T1w.nii.gz"
+        },
+        {
+            "image": "/nesi/nobackup/aut04076/dataset/imagesTs/t1w_00885.nii.gz",
+            "source": "/nesi/nobackup/aut04076/mriData/sub-0927/anat/sub-0927_run-1_T1w.nii.gz"
+        },
+        {
+            "image": "/nesi/nobackup/aut04076/dataset/imagesTs/t1w_00886.nii.gz",
+            "source": "/nesi/nobackup/aut04076/mriData/sub-0750/anat/sub-0750_run-1_T1w.nii.gz"
+        },
+        {
+            "image": "/nesi/nobackup/aut04076/dataset/imagesTs/t1w_00887.nii.gz",
+            "source": "/nesi/nobackup/aut04076/mriData/sub-0407/anat/sub-0407_run-1_T1w.nii.gz"
+        },
+        {
+            "image": "/nesi/nobackup/aut04076/dataset/imagesTs/t1w_00888.nii.gz",
+            "source": "/nesi/nobackup/aut04076/mriData/sub-0821/anat/sub-0821_run-1_T1w.nii.gz"
+        },
+        {
+            "image": "/nesi/nobackup/aut04076/dataset/imagesTs/t1w_00889.nii.gz",
+            "source": "/nesi/nobackup/aut04076/mriData/sub-0629/anat/sub-0629_run-1_T1w.nii.gz"
+        },
+        {
+            "image": "/nesi/nobackup/aut04076/dataset/imagesTs/t1w_00890.nii.gz",
+            "source": "/nesi/nobackup/aut04076/mriData/sub-0073/anat/sub-0073_run-1_T1w.nii.gz"
+        },
+        {
+            "image": "/nesi/nobackup/aut04076/dataset/imagesTs/t1w_00891.nii.gz",
+            "source": "/nesi/nobackup/aut04076/mriData/sub-0358/anat/sub-0358_run-1_T1w.nii.gz"
+        },
+        {
+            "image": "/nesi/nobackup/aut04076/dataset/imagesTs/t1w_00892.nii.gz",
+            "source": "/nesi/nobackup/aut04076/mriData/sub-0201/anat/sub-0201_run-1_T1w.nii.gz"
+        },
+        {
+            "image": "/nesi/nobackup/aut04076/dataset/imagesTs/t1w_00893.nii.gz",
+            "source": "/nesi/nobackup/aut04076/mriData/sub-0436/anat/sub-0436_run-1_T1w.nii.gz"
+        },
+        {
+            "image": "/nesi/nobackup/aut04076/dataset/imagesTs/t1w_00894.nii.gz",
+            "source": "/nesi/nobackup/aut04076/mriData/sub-0115/anat/sub-0115_run-1_T1w.nii.gz"
+        },
+        {
+            "image": "/nesi/nobackup/aut04076/dataset/imagesTs/t1w_00895.nii.gz",
+            "source": "/nesi/nobackup/aut04076/mriData/sub-0202/anat/sub-0202_run-1_T1w.nii.gz"
+        },
+        {
+            "image": "/nesi/nobackup/aut04076/dataset/imagesTs/t1w_00896.nii.gz",
+            "source": "/nesi/nobackup/aut04076/mriData/sub-0391/anat/sub-0391_run-1_T1w.nii.gz"
+        },
+        {
+            "image": "/nesi/nobackup/aut04076/dataset/imagesTs/t1w_00897.nii.gz",
+            "source": "/nesi/nobackup/aut04076/mriData/sub-0711/anat/sub-0711_run-1_T1w.nii.gz"
+        },
+        {
+            "image": "/nesi/nobackup/aut04076/dataset/imagesTs/t1w_00898.nii.gz",
+            "source": "/nesi/nobackup/aut04076/mriData/sub-0443/anat/sub-0443_run-1_T1w.nii.gz"
+        },
+        {
+            "image": "/nesi/nobackup/aut04076/dataset/imagesTs/t1w_00899.nii.gz",
+            "source": "/nesi/nobackup/aut04076/mriData/sub-0289/anat/sub-0289_run-1_T1w.nii.gz"
+        },
+        {
+            "image": "/nesi/nobackup/aut04076/dataset/imagesTs/t1w_00900.nii.gz",
+            "source": "/nesi/nobackup/aut04076/mriData/sub-0895/anat/sub-0895_run-1_T1w.nii.gz"
+        },
+        {
+            "image": "/nesi/nobackup/aut04076/dataset/imagesTs/t1w_00901.nii.gz",
+            "source": "/nesi/nobackup/aut04076/mriData/sub-0825/anat/sub-0825_run-1_T1w.nii.gz"
+        },
+        {
+            "image": "/nesi/nobackup/aut04076/dataset/imagesTs/t1w_00902.nii.gz",
+            "source": "/nesi/nobackup/aut04076/mriData/sub-0072/anat/sub-0072_run-1_T1w.nii.gz"
+        },
+        {
+            "image": "/nesi/nobackup/aut04076/dataset/imagesTs/t1w_00903.nii.gz",
+            "source": "/nesi/nobackup/aut04076/mriData/sub-0555/anat/sub-0555_run-1_T1w.nii.gz"
+        },
+        {
+            "image": "/nesi/nobackup/aut04076/dataset/imagesTs/t1w_00904.nii.gz",
+            "source": "/nesi/nobackup/aut04076/mriData/sub-0259/anat/sub-0259_run-1_T1w.nii.gz"
+        },
+        {
+            "image": "/nesi/nobackup/aut04076/dataset/imagesTs/t1w_00905.nii.gz",
+            "source": "/nesi/nobackup/aut04076/mriData/sub-0545/anat/sub-0545_run-1_T1w.nii.gz"
+        },
+        {
+            "image": "/nesi/nobackup/aut04076/dataset/imagesTs/t1w_00906.nii.gz",
+            "source": "/nesi/nobackup/aut04076/mriData/sub-0478/anat/sub-0478_run-1_T1w.nii.gz"
+        },
+        {
+            "image": "/nesi/nobackup/aut04076/dataset/imagesTs/t1w_00907.nii.gz",
+            "source": "/nesi/nobackup/aut04076/mriData/sub-0771/anat/sub-0771_run-1_T1w.nii.gz"
+        },
+        {
+            "image": "/nesi/nobackup/aut04076/dataset/imagesTs/t1w_00908.nii.gz",
+            "source": "/nesi/nobackup/aut04076/mriData/sub-0790/anat/sub-0790_run-1_T1w.nii.gz"
+        },
+        {
+            "image": "/nesi/nobackup/aut04076/dataset/imagesTs/t1w_00909.nii.gz",
+            "source": "/nesi/nobackup/aut04076/mriData/sub-0510/anat/sub-0510_run-1_T1w.nii.gz"
+        },
+        {
+            "image": "/nesi/nobackup/aut04076/dataset/imagesTs/t1w_00910.nii.gz",
+            "source": "/nesi/nobackup/aut04076/mriData/sub-0219/anat/sub-0219_run-1_T1w.nii.gz"
+        },
+        {
+            "image": "/nesi/nobackup/aut04076/dataset/imagesTs/t1w_00911.nii.gz",
+            "source": "/nesi/nobackup/aut04076/mriData/sub-0185/anat/sub-0185_run-1_T1w.nii.gz"
+        },
+        {
+            "image": "/nesi/nobackup/aut04076/dataset/imagesTs/t1w_00912.nii.gz",
+            "source": "/nesi/nobackup/aut04076/mriData/sub-0673/anat/sub-0673_run-1_T1w.nii.gz"
+        },
+        {
+            "image": "/nesi/nobackup/aut04076/dataset/imagesTs/t1w_00913.nii.gz",
+            "source": "/nesi/nobackup/aut04076/mriData/sub-0739/anat/sub-0739_run-1_T1w.nii.gz"
+        },
+        {
+            "image": "/nesi/nobackup/aut04076/dataset/imagesTs/t1w_00914.nii.gz",
+            "source": "/nesi/nobackup/aut04076/mriData/sub-0192/anat/sub-0192_run-1_T1w.nii.gz"
+        },
+        {
+            "image": "/nesi/nobackup/aut04076/dataset/imagesTs/t1w_00915.nii.gz",
+            "source": "/nesi/nobackup/aut04076/mriData/sub-0856/anat/sub-0856_run-1_T1w.nii.gz"
+        },
+        {
+            "image": "/nesi/nobackup/aut04076/dataset/imagesTs/t1w_00916.nii.gz",
+            "source": "/nesi/nobackup/aut04076/mriData/sub-0783/anat/sub-0783_run-1_T1w.nii.gz"
+        },
+        {
+            "image": "/nesi/nobackup/aut04076/dataset/imagesTs/t1w_00917.nii.gz",
+            "source": "/nesi/nobackup/aut04076/mriData/sub-0883/anat/sub-0883_run-1_T1w.nii.gz"
+        },
+        {
+            "image": "/nesi/nobackup/aut04076/dataset/imagesTs/t1w_00918.nii.gz",
+            "source": "/nesi/nobackup/aut04076/mriData/sub-0676/anat/sub-0676_run-1_T1w.nii.gz"
+        },
+        {
+            "image": "/nesi/nobackup/aut04076/dataset/imagesTs/t1w_00919.nii.gz",
+            "source": "/nesi/nobackup/aut04076/mriData/sub-0920/anat/sub-0920_run-1_T1w.nii.gz"
+        },
+        {
+            "image": "/nesi/nobackup/aut04076/dataset/imagesTs/t1w_00920.nii.gz",
+            "source": "/nesi/nobackup/aut04076/mriData/sub-0477/anat/sub-0477_run-1_T1w.nii.gz"
+        },
+        {
+            "image": "/nesi/nobackup/aut04076/dataset/imagesTs/t1w_00921.nii.gz",
+            "source": "/nesi/nobackup/aut04076/mriData/sub-0826/anat/sub-0826_run-1_T1w.nii.gz"
+        },
+        {
+            "image": "/nesi/nobackup/aut04076/dataset/imagesTs/t1w_00922.nii.gz",
+            "source": "/nesi/nobackup/aut04076/mriData/sub-0065/anat/sub-0065_run-1_T1w.nii.gz"
+        },
+        {
+            "image": "/nesi/nobackup/aut04076/dataset/imagesTs/t1w_00923.nii.gz",
+            "source": "/nesi/nobackup/aut04076/mriData/sub-0342/anat/sub-0342_run-1_T1w.nii.gz"
+        },
+        {
+            "image": "/nesi/nobackup/aut04076/dataset/imagesTs/t1w_00924.nii.gz",
+            "source": "/nesi/nobackup/aut04076/mriData/sub-0599/anat/sub-0599_run-1_T1w.nii.gz"
+        },
+        {
+            "image": "/nesi/nobackup/aut04076/dataset/imagesTs/t1w_00925.nii.gz",
+            "source": "/nesi/nobackup/aut04076/mriData/sub-0490/anat/sub-0490_run-1_T1w.nii.gz"
+        },
+        {
+            "image": "/nesi/nobackup/aut04076/dataset/imagesTs/t1w_00926.nii.gz",
+            "source": "/nesi/nobackup/aut04076/mriData/sub-0720/anat/sub-0720_run-1_T1w.nii.gz"
+        },
+        {
+            "image": "/nesi/nobackup/aut04076/dataset/imagesTs/t1w_00927.nii.gz",
+            "source": "/nesi/nobackup/aut04076/mriData/sub-0022/anat/sub-0022_run-1_T1w.nii.gz"
+        },
+        {
+            "image": "/nesi/nobackup/aut04076/dataset/imagesTs/t1w_00928.nii.gz",
+            "source": "/nesi/nobackup/aut04076/mriData/sub-0838/anat/sub-0838_run-1_T1w.nii.gz"
+        }
+    ]
+}

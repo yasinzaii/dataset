@@ -1,0 +1,85 @@
+{
+    "datasets": [
+        {
+            "name": "Dataset1",
+            "pipeline": [
+                {
+                    "name": "adjustOrientation", 
+                    "parameters": {"orientation": ["R", "A", "S"]}    
+                }, 
+                {
+                    "name": "resampleMRI", 
+                    "parameters": {"voxelSize": [1,1,1]}    
+                }, 
+                {
+                    "name": "correctBiasField", 
+                    "parameters": {"shrinkFactor": 4} 
+                }, 
+                {
+                    "name": "registerMRI", 
+                    "parameters":{"templatePath": "/nesi/project/aut04076/Brain_MRI_Inpainting_2D/templates/mni_icbm152_t1_tal_nlin_sym_09a.nii", 
+                                  "maskPath": "/nesi/project/aut04076/Brain_MRI_Inpainting_2D/templates/mni_icbm152_t1_tal_nlin_sym_09a_mask.nii"}
+                },
+                {
+                    "name": "stripSkull", 
+                    "parameters": {"containerPath": "/nesi/project/aut04076/Brain_MRI_Inpainting_2D/tools/SynthStrip/synthstrip.1.6.sif",
+                                   "slurmScript": "/nesi/project/aut04076/Brain_MRI_Inpainting_2D/tools/SynthStrip/datasetPipeline.sl",
+                                   "contWorkDir": "/nesi/project/aut04076/Brain_MRI_Inpainting_2D/tools/SynthStrip/temp"} 
+                }
+                
+             ],
+            "training": [
+                {
+                    "image": "/nesi/nobackup/aut04076/dataset/imagesTr/t1w_00719.nii.gz",
+                    "source": "/nesi/nobackup/aut04076/mriData/sub-0719/anat/sub-0719_run-1_T1w.nii.gz"
+                },
+                {
+                    "image": "/nesi/nobackup/aut04076/dataset/imagesTr/t1w_00264.nii.gz",
+                    "source": "/nesi/nobackup/aut04076/mriData/sub-0264/anat/sub-0264_run-1_T1w.nii.gz"
+                },
+                {
+                    "image": "/nesi/nobackup/aut04076/dataset/imagesTr/t1w_00175.nii.gz",
+                    "source": "/nesi/nobackup/aut04076/mriData/sub-0175/anat/sub-0175_run-1_T1w.nii.gz"
+                },
+                {
+                    "image": "/nesi/nobackup/aut04076/dataset/imagesTr/t1w_00129.nii.gz",
+                    "source": "/nesi/nobackup/aut04076/mriData/sub-0129/anat/sub-0129_run-1_T1w.nii.gz"
+                },
+                {
+                    "image": "/nesi/nobackup/aut04076/dataset/imagesTr/t1w_00864.nii.gz",
+                    "source": "/nesi/nobackup/aut04076/mriData/sub-0864/anat/sub-0864_run-1_T1w.nii.gz"
+                },
+                {
+                    "image": "/nesi/nobackup/aut04076/dataset/imagesTr/t1w_00849.nii.gz",
+                    "source": "/nesi/nobackup/aut04076/mriData/sub-0849/anat/sub-0849_run-1_T1w.nii.gz"
+                }
+            ],
+            "test": [
+                {
+                    "image": "/nesi/nobackup/aut04076/dataset/imagesTs/t1w_00065.nii.gz",
+                    "source": "/nesi/nobackup/aut04076/mriData/sub-0065/anat/sub-0065_run-1_T1w.nii.gz"
+                },
+                {
+                    "image": "/nesi/nobackup/aut04076/dataset/imagesTs/t1w_00342.nii.gz",
+                    "source": "/nesi/nobackup/aut04076/mriData/sub-0342/anat/sub-0342_run-1_T1w.nii.gz"
+                },
+                {
+                    "image": "/nesi/nobackup/aut04076/dataset/imagesTs/t1w_00599.nii.gz",
+                    "source": "/nesi/nobackup/aut04076/mriData/sub-0599/anat/sub-0599_run-1_T1w.nii.gz"
+                },
+                {
+                    "image": "/nesi/nobackup/aut04076/dataset/imagesTs/t1w_00490.nii.gz",
+                    "source": "/nesi/nobackup/aut04076/mriData/sub-0490/anat/sub-0490_run-1_T1w.nii.gz"
+                },
+                {
+                    "image": "/nesi/nobackup/aut04076/dataset/imagesTs/t1w_00720.nii.gz",
+                    "source": "/nesi/nobackup/aut04076/mriData/sub-0720/anat/sub-0720_run-1_T1w.nii.gz"
+                }
+            ],
+            "numTraining": 742,
+            "numTest": 186,
+            "mriDIM": "3D",
+            "modality": "T1w-3T"
+        }
+    ]
+}
